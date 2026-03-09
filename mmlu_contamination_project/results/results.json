@@ -1,0 +1,6 @@
+{
+    "verbatim_accuracy": 0.21739130434782608,
+    "paraphrased_accuracy": 0.21739130434782608,
+    "clean_accuracy": 0.21739130434782608,
+    "contamination_gap": 0.0
+}
