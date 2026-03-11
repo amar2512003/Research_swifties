@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 6591,
+    "subject": "jurisprudence",
+    "question": "Which statement best describes one of Dworkin's central arguments in Justice for Hedgehogs?",
+    "choices": [
+      "Morality plays no role in the concept of law.",
+      "Moral arguments operate only in hard cases.",
+      "The law dictates what moral values should affect our ethical behaviour.",
+      "Moral values are both independent and objective."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4484,
+    "subject": "high_school_mathematics",
+    "question": "If $725x + 727y = 1500$ and $729x+ 731y = 1508$, what is the value of $x - y$ ?",
+    "choices": [
+      "725",
+      "-2",
+      "2",
+      "-48"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3796,
+    "subject": "high_school_government_and_politics",
+    "question": "Politicians and political reporters are natural adversaries; the adversarial nature of their relationship, however, is tempered by the fact that",
+    "choices": [
+      "younger politicians who are more comfortable with the media are gradually displacing older politicians",
+      "government regulations on interaction between the two groups are very strict",
+      "each group is dependent on the other to perform its job effectively",
+      "very few media outlets will cover a story that is embarrassing to a political leader"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2289,
+    "subject": "elementary_mathematics",
+    "question": "If a total of 762 students at a citywide competition are divided into 6 equal-sized teams, how many students are on each team?",
+    "choices": [
+      "110",
+      "120",
+      "127",
+      "137"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6647,
+    "subject": "jurisprudence",
+    "question": "Why is it important to separate the concept of punishment from its justification?",
+    "choices": [
+      "Because its justification depends on the concept employed.",
+      "Because any definition of punishment should be value-neutral.",
+      "Because the concept of punishment is controversial.",
+      "Because the practice of punishment is separate from its justification."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8489,
+    "subject": "moral_disputes",
+    "question": " Van den Haag thinks that we can't know whether a murderer who receives the death penalty",
+    "choices": [
+      "is justly punished.",
+      "suffers more than the victim.",
+      "is morally degraded.",
+      "is punished excessively."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13713,
+    "subject": "virology",
+    "question": "Which of the following is the most special characteristic of the adaptive immune system?",
+    "choices": [
+      "Antibodies",
+      "T cells",
+      "Memory T cells",
+      "Clonal expansion of pre-existing antibodies and/or T cells"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 931,
+    "subject": "college_chemistry",
+    "question": "Calculate the spin angular momentum of 43Ca. [I = 7\u20442]",
+    "choices": [
+      "2.166 x 10^-34 J s",
+      "3.691 x 10^-34 J s",
+      "4.185 x 10^-34 J s",
+      "5.493 x 10^-34 J s"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9793,
+    "subject": "philosophy",
+    "question": "Why is it important that personal data about research participants are kept within secure, confidential records?",
+    "choices": [
+      "So that the participants cannot find out what has been written about them.",
+      "In case individuals, places, or organizations can be harmed through identification or disclosure of personal information.",
+      "So that government officials, teachers, and other people in authority can have easy access to the data.",
+      "To enable the researcher to track down individuals and find out more about their lives."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7196,
+    "subject": "marketing",
+    "question": " Which of the following is best understood as a period of time during which a customer interacts directly with a service?",
+    "choices": [
+      "Good usage.",
+      "Servicescape.",
+      "Service mix.",
+      "Service encounters."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4614,
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following situations best exemplifies the concept of consumer surplus?",
+    "choices": [
+      "It refers to a consumer who no longer has any outstanding debts.",
+      "The federal government has taken in more revenue than it has paid out in expenditures.",
+      "A consumer pays more for a pizza than she thought it was worth at the margin of the purchase.",
+      "A consumer pays less for a pizza than she thought it was worth at the margin of the purchase."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4210,
+    "subject": "high_school_macroeconomics",
+    "question": "If technology makes production less expensive and at the same time exports decrease which of the following will result with certainty?",
+    "choices": [
+      "Real GDP will increase.",
+      "Real GDP will decrease.",
+      "The price level will increase.",
+      "The price level will decrease."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10096,
+    "subject": "prehistory",
+    "question": "A design that is not painted upon but is etched into a rock face is called a:",
+    "choices": [
+      "pictograph.",
+      "petroglyph.",
+      "pictorial.",
+      "petrification."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 553,
+    "subject": "clinical_knowledge",
+    "question": "Which of the following best describes the effects of morphine?",
+    "choices": [
+      "Reduces pain intensity and increases alertness.",
+      "Reduces pain intensity but also causes sedation.",
+      "Reduces pain intensity but also causes diarrhoea.",
+      "Reduces pain intensity but also causes insomnia."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7998,
+    "subject": "miscellaneous",
+    "question": "What cartoon character traveled in a time machine with Mr Peabody?",
+    "choices": [
+      "Rocky",
+      "Jonny Quest",
+      "Underdog",
+      "Sherman"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8277,
+    "subject": "moral_disputes",
+    "question": " Mary's laptop deserves moral consideration only because she owns it and cares about it. Thus, Mary's laptop has",
+    "choices": [
+      "direct moral standing.",
+      "indirect moral standing.",
+      "relative moral standing.",
+      "inherent or intrinsic worth."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8336,
+    "subject": "moral_disputes",
+    "question": " Thomson's appeal to the vices of callousness and self-centeredness relates to what kind of approach to abortion?",
+    "choices": [
+      "deontological approach",
+      "Kantian approach",
+      "virtue ethics approach",
+      "consequentalist approach"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9517,
+    "subject": "nutrition",
+    "question": "Which of the following is not a function of vitamin D?\n",
+    "choices": [
+      "Lipid-soluble antioxidant in cell membranes",
+      "Fast responses to increase calcium absorption with no change in gene expression",
+      "Regulation of differentiation of adipocytes",
+      "Regulation of bone turnover"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 285,
+    "subject": "astronomy",
+    "question": "Why is Saturn almost as big as Jupiter despite its smaller mass?",
+    "choices": [
+      "Jupiter's greater mass compresses it more thus increasing its density.",
+      "Saturn has a larger proportion of hydrogen and helium than Jupiter and is therefore less dense.",
+      "Saturn is further from the Sun thus cooler and therefore less compact.",
+      "Saturn's rings make the planet look bigger."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6313,
+    "subject": "human_sexuality",
+    "question": "The regions of the body that, when touched, are sexually exciting:",
+    "choices": [
+      "vary from person to person",
+      "vary for women depending on the phases of the menstrual cycle",
+      "are mainly on the lower portion of the body",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 626,
+    "subject": "clinical_knowledge",
+    "question": "What is the 'normal' range of flexion at the knee joint?",
+    "choices": [
+      "0-115 degrees.",
+      "0-135 degrees.",
+      "0-155 degrees.",
+      "0-175 degrees."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6399,
+    "subject": "human_sexuality",
+    "question": "Which of the following is the MOST COMMON menstrual problem?",
+    "choices": [
+      "painful menstruation",
+      "absence of menstruation",
+      "menstruation without ovulation",
+      "ovulation without menstruation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2014,
+    "subject": "electrical_engineering",
+    "question": "In a dc machine 6 pole wave winding is used. The number of parallel paths are?",
+    "choices": [
+      "6",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3618,
+    "subject": "high_school_geography",
+    "question": "Boundary problems along the United States\u2013Mexico border are caused by which type of issue below?",
+    "choices": [
+      "Ownership of fertile ground",
+      "Land use",
+      "Irredentism",
+      "Immigration"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4658,
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is true about a price floor?",
+    "choices": [
+      "It is used to correct government policy.",
+      "It is used when the equilibrium price is too high.",
+      "It will be located above the equilibrium price.",
+      "It will be located below the equilibrium price."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8085,
+    "subject": "miscellaneous",
+    "question": "What quantity of oxygen, O_2 , contains very nearly the same number of molecules as 36.0 grams of water, H_2O ?",
+    "choices": [
+      "64.0 grams",
+      "32.0 grams",
+      "16.0 grams",
+      "8.0 grams"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7493,
+    "subject": "miscellaneous",
+    "question": "What is the only metal that is a liquid at normal atmospheric pressure and temperature?",
+    "choices": [
+      "lead",
+      "antimony",
+      "uranium",
+      "mercury"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5044,
+    "subject": "high_school_psychology",
+    "question": "Which of the following brain structures is most centrally involved in hunger motivation?",
+    "choices": [
+      "cerebellum",
+      "medulla",
+      "amygdala",
+      "hypothalamus"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3661,
+    "subject": "high_school_government_and_politics",
+    "question": "While ratifying the Constitution, the primary point of disagreement between Federalists and Anti-Federalists was over",
+    "choices": [
+      "whether representation in Congress should be equal among states or proportional to population",
+      "the strength of the federal government relative to the states",
+      "the future of the slave trade",
+      "whether people had inalienable rights"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13209,
+    "subject": "security_studies",
+    "question": "In what ways will the changing global security environment shape the nature of developing conflicts in the twenty-first century?",
+    "choices": [
+      "Human migration will arise as a result of global inequalities in the distribution of power, wealth, and resources. Disempowerment of populations will lead to competition and violence, manifested in transnational movements; and environmental threats and resources scarcity will lead to conflict.",
+      "Economic interdependency between states will strengthen global security and lead to a reduction in international conflict. Human migration will lead to overcrowding and resource scarcity but this will be addressed by the technological advancements of developing states to which most migration will take place.",
+      "The primary cause of conflict, both at international and sub-national level will be based in ideological differences between populations as resources scarcity, population growth and human migration forces diverse identity groups into increasingly close contact.",
+      "Environmental concerns will be overshadowed by immediate threats to international security, posed by global economic crisis and the subsequent rise of fundamentalist ideologies and violence. Human migration will be managed within the current global economic system as poverty restricts movement although there is a limited risk of transnational revolt as a result of disempowerment and resource scarcity."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 253,
+    "subject": "astronomy",
+    "question": "Which of the following is/are common feature(s) of all fresh (i.e. not eroded) impact craters formed on solid surfaces:",
+    "choices": [
+      "ejecta",
+      "raised rims",
+      "central peaks",
+      "A and B only"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 166,
+    "subject": "anatomy",
+    "question": "Which of the following best describes the location where the carotid pulse can be found?",
+    "choices": [
+      "In front of the ears and just above eye level",
+      "In the antecubital space",
+      "In the middle of the groin",
+      "On the anterior side of the neck"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4681,
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is true for a firm operating under perfect competition in the long run?",
+    "choices": [
+      "The firm will engage in non-price competition.",
+      "The firm will realize economic profits.",
+      "The firm will incur economic losses.",
+      "The firm will realize zero economic profits."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5589,
+    "subject": "high_school_statistics",
+    "question": "Suppose H0: p = 0.6, and the power of the test for Ha: p = 0.7 is 0.8. Which of the following is a valid conclusion?",
+    "choices": [
+      "The probability of committing a Type I error is 0.1.",
+      "If Ha is true, the probability of failing to reject H0 is 0.2.",
+      "The probability of committing a Type II error is 0.3.",
+      "All of the above are valid conclusions."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8205,
+    "subject": "moral_disputes",
+    "question": " In Corvino's reading of Aquinas, \"unnatural\" sexual acts are those that are",
+    "choices": [
+      "deliberately pro-creative.",
+      "non-consensual.",
+      "deliberately non-procreative.",
+      "uncommonly practiced among adults."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 571,
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true about the rectal examination?",
+    "choices": [
+      "If the patient refuses a chaperone the doctor can overrule them",
+      "The rectal examination is of no value in a neurological examination",
+      "The optimum position of the patient is on their right side with their knees extended",
+      "The rectal examination is indicated for the assessment of some gastrointestinal disorders"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13592,
+    "subject": "sociology",
+    "question": "War became possible between nation states in the nineteenth century because:",
+    "choices": [
+      "the world was divided into several rival overseas empires",
+      "industrialization provided better transport, technology and administration",
+      "there was intense economic, political and military competition",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2123,
+    "subject": "elementary_mathematics",
+    "question": "Rob uses 1 box of cat food every 5 days to feed his cats. Approximately how many boxes of cat food does he use per month?",
+    "choices": [
+      "2 boxes",
+      "4 boxes",
+      "5 boxes",
+      "6 boxes"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13273,
+    "subject": "security_studies",
+    "question": "Which statement best describes the relationship between realist international relations theorists and peace researchers in the early 1960s?",
+    "choices": [
+      "Both peace researchers and realists advocated an academic focus on the escalation of the arms race. Although tensions existed between the groups in terms of their proposed solutions to this crisis, there existed a consensus that the Soviet bloc should be eliminated as a nuclear threat, thus favouring the survival of Western liberal democracies.",
+      "In contrast to the realist school, peace researchers looked beyond the accumulation of nuclear weapons for a focus to their studies; this resulted in tensions between the two groups, with the former believing that the attainment of superior military strength was paramount to achieving security.",
+      "Whilst peace researchers indentified the escalation of the arms race as a result of failures by the League of Nations, realist scholars deemed it to be the natural progression of ideological differences between the Soviet bloc and Western liberal democracies. This resulted in irreconcilable differences between the study agendas of realists and peace researchers.",
+      "The East-West divide of the Cold War gave rise to a sharp divide between realists and early peace studies theorists. Whilst realists wished to focus research on that which would favour the survival of Western liberal democracies, advocates of peace studies regarded this approach as being narrow and Western ethnocentric."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4819,
+    "subject": "high_school_physics",
+    "question": "Which one of the following statements is true concerning the motion of an ideal projectile launched at an angle of 45\u00b0 to the horizontal?",
+    "choices": [
+      "The acceleration vector points opposite to the velocity vector on the way up and in the same direction as the velocity vector on the way down.",
+      "The speed at the top of the trajectory is zero.",
+      "The object's total speed remains constant during the entire flight.",
+      "The vertical speed decreases on the way up and increases on the way down."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5201,
+    "subject": "high_school_psychology",
+    "question": "According to the Law of Effect, behaviors followed by negative consequences",
+    "choices": [
+      "occur more frequently",
+      "occur less frequently",
+      "will never be performed again",
+      "will be performed more forcefully"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6988,
+    "subject": "management",
+    "question": "What is the definition of a scenario in scenario planning?",
+    "choices": [
+      "An imagined sequence of future events",
+      "An unpredictable event",
+      "A planned for event",
+      "An unplanned for event"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13990,
+    "subject": "world_religions",
+    "question": " Which leader is known for spreading the dharma of non-violence?",
+    "choices": [
+      "Ngo Dinh Diem",
+      "The Dalai Lama",
+      "Siddhartha",
+      "Ashoka"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7615,
+    "subject": "miscellaneous",
+    "question": "What is the name of Howard Stern's female on-air sidekick?",
+    "choices": [
+      "Allison Norris",
+      "Jackie Reeses",
+      "Jackie Martling",
+      "Robin Quivers"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14022,
+    "subject": "world_religions",
+    "question": " The term vajrya means diamond and which of the following?",
+    "choices": [
+      "Emerald",
+      "Brilliance",
+      "Thunderbolt",
+      "Lightning"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5275,
+    "subject": "high_school_psychology",
+    "question": "In most people, the left hemisphere of the brain is dominant for",
+    "choices": [
+      "language",
+      "logic",
+      "analytical reasoning",
+      "mathematical reasoning"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4050,
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following is the most likely to be a deterrent to growth in the economy?",
+    "choices": [
+      "Spending on education and training",
+      "Increases in capital",
+      "Increases in the interest rate",
+      "Expenditures on research and development"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9991,
+    "subject": "philosophy",
+    "question": "The view that we consist of two distinct substances (body and mind) and that these two interact is known as _____.",
+    "choices": [
+      "functionalism",
+      "identity theory",
+      "substance dualism",
+      "materialism"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4585,
+    "subject": "high_school_microeconomics",
+    "question": "A monopoly with a straight, downward-sloping demand curve has a marginal revenue curve that is",
+    "choices": [
+      "upward sloping",
+      "halfway between the demand curve and the vertical axis",
+      "initially downward sloping and then upward sloping",
+      "parallel to the demand curve"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13038,
+    "subject": "professional_psychology",
+    "question": "Which is NOT a criticism of Piaget\u2019s theory of cognitive development?",
+    "choices": [
+      "Piaget may have underestimated young children\u2019s competence and overestimated adolescents\u2019 cognitive abilities",
+      "Piaget placed too much emphasis on the role of culture and social interactions in children\u2019s cognitive development",
+      "Cognitive development is more gradual and continuous rather than abrupt and stagelike as Piaget thought",
+      "Children actually have certain cognitive capabilities at particular ages that Piaget did not observe because he designed experiments that were too difficult"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4182,
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following is true of a typical contraction of the business cycle?",
+    "choices": [
+      "Consumption is falling but household wealth is rising.",
+      "Consumption is increasing.",
+      "Private investment is rising.",
+      "Employment and inflation are low."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2651,
+    "subject": "global_facts",
+    "question": "As of 2015, agriculture made up about what percentage of total US GDP?",
+    "choices": [
+      "1%",
+      "3%",
+      "9%",
+      "20%"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12059,
+    "subject": "professional_law",
+    "question": "In most states, the division of homicide into degrees is distinguished according to which of the following?",
+    "choices": [
+      "the causal relationship between the defendant's act and the resulting death.",
+      "the attendant circumstances surrounding the death.",
+      "the nature of the act causing the death.",
+      "the defendant's state of mind at the time the killing was committed."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5391,
+    "subject": "high_school_psychology",
+    "question": "People who are able to be hypnotized easily are likely to score high on which of the following dimensions of the big five personality traits?",
+    "choices": [
+      "agreeableness",
+      "openness",
+      "conscientiousness",
+      "emotional stability"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13057,
+    "subject": "public_relations",
+    "question": "At which stage in the planning process are the objectives decided on?",
+    "choices": [
+      "Defining the program",
+      "Planning the program",
+      "Taking action and implementing ideas",
+      "Evaluation of the program"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9510,
+    "subject": "nutrition",
+    "question": "On a global scale, trends are suggesting that with rising incomes and urbanization we are seeing a rise in which food commodities?\n",
+    "choices": [
+      "Roots and Tubers",
+      "Fruits and vegetables",
+      "Beans and lentils",
+      "Meat and Dairy products"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7503,
+    "subject": "miscellaneous",
+    "question": "What is the 7-Eleven company's trademarked name for its super-large sodas?",
+    "choices": [
+      "Big Slurp",
+      "Big Gulp",
+      "Big Drink",
+      "Big Sip"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 1805,
+    "subject": "conceptual_physics",
+    "question": "A simple and correct way to comprehend satellites orbiting Earth is to view them as",
+    "choices": [
+      "balanced between gravitational and centripetal forces.",
+      "beyond the main pull of Earth gravity.",
+      "in mechanical equilibrium with a net force of zero.",
+      "having sufficient tangential velocities to fall around rather than into Earth."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2497,
+    "subject": "formal_logic",
+    "question": "Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardvarks or the Chipmunks do not win their first games.",
+    "choices": [
+      "The Aardvarks do not win their first game.",
+      "The Bees win their first game.",
+      "The Chipmunks do not win their first game.",
+      "Either the Aardvarks or the Chipmunks do not win their first games."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9966,
+    "subject": "philosophy",
+    "question": "Craig argues that the series of events in time cannot be actually infinite, so we know that _____.",
+    "choices": [
+      "the universe is finite in the past and began to exist",
+      "the universe is infinite in the past",
+      "the universe never is uncaused",
+      "the universe exists only in the mind"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5314,
+    "subject": "high_school_psychology",
+    "question": "The most common somatic nervous system neurotransmitter to cause muscle contractions is",
+    "choices": [
+      "acetylcholine",
+      "dopamine",
+      "endorphins",
+      "epinephrine"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2931,
+    "subject": "high_school_biology",
+    "question": "In cells, which of the following can catalyze reactions involving hydrogen peroxide, provide cellular energy, and make proteins, in that order?",
+    "choices": [
+      "Peroxisomes, mitochondria, and ribosomes",
+      "Peroxisomes, mitochondria, and lysosomes",
+      "Peroxisomes, mitochondria, and Golgi apparatus",
+      "Lysosomes, chloroplasts, and ribosomes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8428,
+    "subject": "moral_disputes",
+    "question": " With respect to the issue of world hunger and poverty, Arthur points out that Singer ignores",
+    "choices": [
+      "the principles of equality and harm.",
+      "the principles of the right and the good.",
+      "the principles of rights and desert.",
+      "the principles of ability to help and desires."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11933,
+    "subject": "professional_law",
+    "question": "Under Article III, federal judicial power extends to which of the following kinds of cases?",
+    "choices": [
+      "interpretation of treaties",
+      "interpretation of admiralty laws",
+      "disputes between states and foreign citizens",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7172,
+    "subject": "marketing",
+    "question": " These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow.",
+    "choices": [
+      "Divest objectives.",
+      "Hold objectives.",
+      "Growth objectives.",
+      "Harvesting objectives."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 1704,
+    "subject": "conceptual_physics",
+    "question": "When white light passes through a prism, the light that bends more than green is",
+    "choices": [
+      "red",
+      "yellow",
+      "blue",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13281,
+    "subject": "security_studies",
+    "question": "In the context of energy security and the production of oil, which of the following does not define the term 'stability'?",
+    "choices": [
+      "The absence of challenges to the regime of oil-producing states.",
+      "A political and economic situation in which the status quo of production, exportation and supply is maintained.",
+      "The promotion of human security and the affiliated environmental security as a priority within oil-producing states.",
+      "The security of regimes deemed 'friendly' by North American, European, and international oil company interests."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 600,
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following:",
+    "choices": [
+      "1 mg/mL",
+      "1 mg/L",
+      "1 g/mL",
+      "100 micrograms/mL"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9506,
+    "subject": "nutrition",
+    "question": "Which vitamins are most likely to be lacking in a vegan diet?\n",
+    "choices": [
+      "Vitamin B1",
+      "Folate",
+      "Vitamin B12",
+      "Vitamin A"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6378,
+    "subject": "human_sexuality",
+    "question": "When a woman thinks that she probably is a lesbian, she is at the:",
+    "choices": [
+      "pride stage",
+      "tolerance stage",
+      "acceptance stage",
+      "confusion stage"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 1374,
+    "subject": "college_physics",
+    "question": "Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z = 7)?",
+    "choices": [
+      "1/2",
+      "1",
+      "3/2",
+      "5/2"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13810,
+    "subject": "virology",
+    "question": "The influenza virus has complicated genetics mainly characterised by which of the following?",
+    "choices": [
+      "Genetic reassortment amongst 8 genes",
+      "High levels of recombination",
+      "Rapid adsorption and fusion from without via a hydrophobic peptide",
+      "High fidelity RNA replicase enzyme"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9704,
+    "subject": "nutrition",
+    "question": "What endogenous substrate source provides the most energy during moderate to high intensity exercise?\n",
+    "choices": [
+      "Liver glycogen",
+      "Muscle glycogen",
+      "Intramuscular lipid",
+      "Adipose tissue lipid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7063,
+    "subject": "marketing",
+    "question": "This allows us to determine how the quantity of an offering relates to the price at which it is offered:",
+    "choices": [
+      "Price bundling.",
+      "Price elasticity.",
+      "Price inelasticity.",
+      "Price inflation."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8023,
+    "subject": "miscellaneous",
+    "question": "Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?",
+    "choices": [
+      "Martha Stewart",
+      "Dr Ruth Westheimer",
+      "Ann Landers",
+      "Miss Manners"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13696,
+    "subject": "us_foreign_policy",
+    "question": "International development may be tied to the security of the state, why?",
+    "choices": [
+      "Threats to the state centralize political and economic power, threatening state development",
+      "Too many casualties drain the productive power of the state",
+      "Threats to the state encourage socialism",
+      "The two are correlated, but there is no causal effect"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 1564,
+    "subject": "computer_security",
+    "question": "Which of the following is not an example of presentation layer issues?",
+    "choices": [
+      "Poor handling of unexpected input can lead to the execution of arbitrary instructions",
+      "Unintentional or ill-directed use of superficially supplied input",
+      "Cryptographic flaws in the system may get exploited to evade privacy",
+      "Weak or non-existent authentication mechanisms"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12810,
+    "subject": "professional_psychology",
+    "question": "The scoring criterion categories for the Exner Scoring System used to score the Rorschach Inkblot Test include all of the following except:",
+    "choices": [
+      "Color",
+      "Popular",
+      "Content",
+      "Location"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8104,
+    "subject": "miscellaneous",
+    "question": "What was the acronym for the first computer, made back in 1946?",
+    "choices": [
+      "ENIAC",
+      "CASD",
+      "CNAC",
+      "CSREN"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7962,
+    "subject": "miscellaneous",
+    "question": "In 1924 the United States Congress passed a bill that significantly altered immigration patterns by",
+    "choices": [
+      "suspending further immigration from Latin America",
+      "making it illegal for employers to hire or recruit undocumented workers",
+      "promoting family unification, enabling close relatives of people already resident in the United States to be admitted",
+      "reducing immigration quotas sharply, leading to a dramatic decline in immigration"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7666,
+    "subject": "miscellaneous",
+    "question": "Which of these holidays is not attached to a specific date?",
+    "choices": [
+      "Independence Day",
+      "New Year's Day",
+      "Thanksgiving",
+      "Christmas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8347,
+    "subject": "moral_disputes",
+    "question": " Sandel believes that the use of genetic enhancement is inherently wrong because",
+    "choices": [
+      "its use would be unsafe.",
+      "its use would be unfair.",
+      "both of the above",
+      "none of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 653,
+    "subject": "clinical_knowledge",
+    "question": "Which of the following should patients remember when taking paracetamol?",
+    "choices": [
+      "It can interfere with the effectiveness of other drugs such as Warfarin.",
+      "It should only be given on an 'as required' basis.",
+      "Patients should carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol.",
+      "It is contraindicated in patients with pyrexia."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13006,
+    "subject": "professional_psychology",
+    "question": "The idea that individuals may have different possible developmental trajectories, given the timing of an environmental experience or lack thereof, is the concept of ___________.",
+    "choices": [
+      "Nature with nurture",
+      "Sensitive or critical periods",
+      "Discontinuity",
+      "Risk and resilience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12602,
+    "subject": "professional_psychology",
+    "question": "Tonic-clonic seizures most frequently occur in which type of epilepsy",
+    "choices": [
+      "Simple partial",
+      "Complex partial",
+      "Grand mal",
+      "Perit mal"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 1458,
+    "subject": "college_physics",
+    "question": "The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are",
+    "choices": [
+      "decreased by a factor of 9",
+      "decreased by a factor of 49",
+      "decreased by a factor of 81",
+      "increased by a factor of 9"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10109,
+    "subject": "prehistory",
+    "question": "Of the following, which is the earliest example of the development of a complex society?",
+    "choices": [
+      "Jericho in Israel",
+      "Caral in Peru",
+      "Stonehenge in England",
+      "Olmec along the Gulf Coast"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5611,
+    "subject": "high_school_statistics",
+    "question": "The probability is 0.2 that a value selected at random from a normal distribution with mean 600 and standard deviation 15 will be above what number?",
+    "choices": [
+      "0.84",
+      "603.8",
+      "612.6",
+      "587.4"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13664,
+    "subject": "us_foreign_policy",
+    "question": "Growing tension between the United States and the Soviet Union resulted in a policy that John Foster Dulles referred to as",
+    "choices": [
+      "\"mutual assured destruction.\"",
+      "\"brinkmanship.\"",
+      "\"realism.\"",
+      "\"not in my backyard.\""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 181,
+    "subject": "anatomy",
+    "question": "When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately",
+    "choices": [
+      "superior to the thyroid cartilage.",
+      "inferior to the thyroid cartilage.",
+      "inferior to the cricoid cartilage.",
+      "superior to the thyroid isthmus."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12900,
+    "subject": "professional_psychology",
+    "question": "Spinal cord injury at the ________ level is most likely to result in quadriplegia.",
+    "choices": [
+      "lumbar",
+      "sacral",
+      "cervical",
+      "thoracic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2607,
+    "subject": "global_facts",
+    "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in South Korea?",
+    "choices": [
+      "by 4 fold",
+      "by 8 fold",
+      "by 16 fold",
+      "by 32 fold"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4040,
+    "subject": "high_school_macroeconomics",
+    "question": "What is the main contrast between the short-run and long-run Phillips curve?",
+    "choices": [
+      "In the short run there is a positive relationship between inflation and unemployment and in the long run the relationship is negative.",
+      "In the short run there is a positive relationship between inflation and unemployment and in the long run the relationship is constant.",
+      "In the short run there is a negative relationship between inflation and unemployment and in the long run the relationship is positive.",
+      "In the short run there is a negative relationship between inflation and unemployment and in the long run the relationship is constant."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 909,
+    "subject": "college_chemistry",
+    "question": "What is the ratio of line intensities in the EPR spectrum of the t-Bu radical (CH3)3C\u2022?",
+    "choices": [
+      "1:19:36:84:126:126:84:36:19:1",
+      "1:9:36:84:126:126:84:36:9:1",
+      "1:9:35:82:120:120:82:35:9:1",
+      "1:8:28:56:70:56:28:8:1"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 944,
+    "subject": "college_chemistry",
+    "question": "Which of the following experimental observations were explained by Planck\u2019s quantum theory?",
+    "choices": [
+      "Blackbody radiation curves",
+      "Emission spectra of diatomic molecules",
+      "Electron diffraction patterns",
+      "Temperature dependence of reaction rates"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 559,
+    "subject": "clinical_knowledge",
+    "question": "Which of the following physiological characteristics is not important for success in endurance events such as the marathon race?",
+    "choices": [
+      "The ability to regulate body temperature.",
+      "The ability to supply oxygen to the exercising muscles.",
+      "The availability of body stores of carbohydrate.",
+      "Muscle ATP and phosphocreatine content."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 67,
+    "subject": "abstract_algebra",
+    "question": "A subset H of a group (G,*) is a group if",
+    "choices": [
+      "a,b in H=> a * b in H",
+      "a in H => a^-1 in H",
+      "a,b in H=> a * b^-1 in H",
+      "H contains the identity element"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13868,
+    "subject": "virology",
+    "question": "Which of the following diseases is not caused by togaviruses?",
+    "choices": [
+      "Chikungunya",
+      "Rubella (German measles)",
+      "Western Equine encephalitis",
+      "Yellow Fever"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13887,
+    "subject": "world_religions",
+    "question": " What genre of Sikh literature is denoted by the term janam-sakhis?",
+    "choices": [
+      "Spiritual narratives",
+      "Redemption narratives",
+      "Birth narratives",
+      "Theological narratives"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3116,
+    "subject": "high_school_chemistry",
+    "question": "What is the mass of one molecule of cholesterol (C27H46O, molecular mass = 386)?",
+    "choices": [
+      "6.41 \u00d7 10^-22 g",
+      "1.5 \u00d7 10^-21 g",
+      "1.38 \u00d7 10^-21 g",
+      "3 \u00d7 10^-23 g"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13668,
+    "subject": "us_foreign_policy",
+    "question": "According to Rosenau, which factor is important to consider in explaining the foreign policy behavior of the United States?",
+    "choices": [
+      "The external environment of the international system",
+      "Domestic environment, government and bureaucracy",
+      "The President's individual personality.",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12683,
+    "subject": "professional_psychology",
+    "question": "In personnel selection, it is appropriate to ask a person's age when",
+    "choices": [
+      "employees in a given age group may not perform as well as some younger employees in the same job",
+      "age is a bona fide occupational requirement",
+      "properly administered intelligence and personality tests suggest that the incumbent is not likely to perform satisfactorily in the future",
+      "standardized test results show thar the incumbent does not have all the aptitudes expected for the particular job"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 1491,
+    "subject": "computer_security",
+    "question": "Which of the following is not a transport layer vulnerability?",
+    "choices": [
+      "Mishandling of undefined, poorly defined variables",
+      "The Vulnerability that allows \u201cfingerprinting\u201d & other enumeration of host information",
+      "Overloading of transport-layer mechanisms",
+      "Unauthorized network access"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2712,
+    "subject": "high_school_biology",
+    "question": "DNA sequences in many human genes are very similar to the sequences of corresponding genes in chimpanzees. The most likely explanation for this result is that",
+    "choices": [
+      "humans and chimpanzees share a relatively recent common ancestor.",
+      "humans evolved from chimpanzees.",
+      "chimpanzees evolved from humans.",
+      "convergent evolution led to the DNA similarities."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8212,
+    "subject": "moral_disputes",
+    "question": " According to Valls, a just cause for political violence is usually",
+    "choices": [
+      "defensive.",
+      "offensive.",
+      "territorial.",
+      "economically motivated."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9667,
+    "subject": "nutrition",
+    "question": "Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true:\n",
+    "choices": [
+      "research to define pattern and level of optimal weight gain is ongoing",
+      "both inadequate and excessive weight gain are associated with poorer maternal and infant health outcomes",
+      "excessive maternal weight gain in pregnancy has been linked to obesity in the offspring",
+      "all of the options given are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 9614,
+    "subject": "nutrition",
+    "question": "Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person. The main reason this can happen is because:\n",
+    "choices": [
+      "Foods containing large amounts of vitamin D are eaten by both poor and wealthy people according to various cultural reasons.",
+      "The content of vitamin D in foods depends on the soil in which the food was grown so is not related to wealth or age.",
+      "Most vitamin D in the body does not come from food so access to food is not an important determinant of vitamin D status.",
+      "Diets containing sufficient other nutrients to promote growth can increase the requirement of vitamin D so that it becomes limiting."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 932,
+    "subject": "college_chemistry",
+    "question": "Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K.",
+    "choices": [
+      "0.5 T",
+      "1.2 T",
+      "2.9 T",
+      "100 T"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12730,
+    "subject": "professional_psychology",
+    "question": "Which of the following strategies would probably be least effective for reducing aggressiveness in children?",
+    "choices": [
+      "exposure to a nonaggressive model",
+      "opportunities for catharsis",
+      "social skills training",
+      "a threat of retaliation from a high-status person"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13165,
+    "subject": "security_studies",
+    "question": "Which of the following is not one of the 10 steps of the Washington Consensus?",
+    "choices": [
+      "Fiscal Discipline: budget deficits of no more than 2 per cent of gross domestic product (GDP).",
+      "Tax Reform: broadening the tax base, cut marginal tax rates, improve tax administration.",
+      "Property Rights: legal reforms to secure property rights without excessive costs and to regularize the informal sector.",
+      "Nationalization: state enterprises should be protected."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10525,
+    "subject": "professional_accounting",
+    "question": "In assessing the tolerable rate of deviations of a test of controls that was performed using statistical sampling an auditor should consider that",
+    "choices": [
+      "Deviations from pertinent controls do not affect the risk of material misstatement in the accounting records.",
+      "Deviations from pertinent controls at a given rate ordinarily result in misstatements at a lower rate.",
+      "When the degree of assurance desired in a sample is high the auditor should allow for a high level of sampling risk.",
+      "Increasing the number of items selected for the test of controls usually increases the tolerable rate of deviations."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 583,
+    "subject": "clinical_knowledge",
+    "question": "A person is prescribed Ropinirole 1.5 mg divided into three doses. How many micrograms is each dose? Choose one answer from the following:",
+    "choices": [
+      "5",
+      "50",
+      "0.5",
+      "500"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13186,
+    "subject": "security_studies",
+    "question": "Which of the following statements does not characterise our understanding of disease pandemics within the contemporary international political system?",
+    "choices": [
+      "Infectious disease transcends international borders and, to some extent, divisions of class, gender, education and wealth.",
+      "Whilst pandemics present a direct risk to national security, they also have the potential to undermine wider international stability.",
+      "Like terrorism, pandemics present a set of threats and risks that are diverse yet interconnected.",
+      "The existing mechanisms for monitoring and treating infectious disease within the international system are capable of effectively containing pandemic outbreaks."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3003,
+    "subject": "high_school_chemistry",
+    "question": "The rate law may be written using stoichiometric coefficients for which of the following?",
+    "choices": [
+      "Precipitation reactions",
+      "Acid-base reactions",
+      "Elementary processes",
+      "Solubility reactions"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 220,
+    "subject": "anatomy",
+    "question": "Which of the following structures is part of the small intestine?",
+    "choices": [
+      "Ascending colon",
+      "Cecum",
+      "Ileum",
+      "Sigmoid colon"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 1850,
+    "subject": "econometrics",
+    "question": "An ARMA(p,q) (p, q are integers bigger than zero) model will have",
+    "choices": [
+      "An acf and pacf that both decline geometrically",
+      "An acf that declines geometrically and a pacf that is zero after p lags",
+      "An acf that declines geometrically and a pacf that is zero after q lags",
+      "An acf that is zero after p lags and a pacf that is zero after q lags"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12613,
+    "subject": "professional_psychology",
+    "question": "A psychologist is appointed by the Court to examine a defendant. The psychologist should",
+    "choices": [
+      "begin the evaluation by informing the defendant that anything that is discussed maybe talked about in open court",
+      "begin the evaluation by asking the defendant to indicate information that should be kept confidential",
+      "refuse to do the evaluation unless the Court agrees thar it will be kept confidential",
+      "discuss confidentiality only if the defendant asks about it"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13414,
+    "subject": "sociology",
+    "question": "Which of the following was not defined by Giddens (1998) as part of New Labour's 'third way':",
+    "choices": [
+      "the democratization of the family",
+      "putting an end to privatization",
+      "positive welfare: 'a hand up, not a hand-out'",
+      "the strengthening of civil society"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12832,
+    "subject": "professional_psychology",
+    "question": "Which of the following has the highest predictive validity in personnel selection in industry",
+    "choices": [
+      "A projective technique",
+      "An objective personality inventory",
+      "An interview by the personnel manager",
+      "A biographical inventory"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5606,
+    "subject": "high_school_statistics",
+    "question": "Given that the sample has a standard deviation of zero, which of the following is a true statement?",
+    "choices": [
+      "The standard deviation of the population is also zero.",
+      "The sample mean and sample median are equal.",
+      "The sample may have outliers.",
+      "The population has a symmetric distribution."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10293,
+    "subject": "prehistory",
+    "question": "In periods of great difficulty and stress, it appears that the Minoans __________ in order to appease the gods.",
+    "choices": [
+      "sacrificed adults and occasionally children",
+      "burnt their own houses to the ground",
+      "fasted for long periods",
+      "abstained from sexual relations"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 274,
+    "subject": "astronomy",
+    "question": "Jupiter and the other jovian planets are sometimes called \"gas giants.\" In what sense is this term misleading?",
+    "choices": [
+      "The materials they are made of are not normally gaseous in everyday experience.",
+      "They actually contain a significant fraction of non-gaseous matter.",
+      "The materials that make up these planets are primarily in the form of a plasma not a gas.",
+      "Actually it's a great description because these worlds are big and gaseous throughout."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 933,
+    "subject": "college_chemistry",
+    "question": "The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth.",
+    "choices": [
+      "0.0471 Hz",
+      "21.2 Hz",
+      "42.4 Hz",
+      "66.7 Hz"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3546,
+    "subject": "high_school_geography",
+    "question": "The distance north and south of the equator is the",
+    "choices": [
+      "global grid system.",
+      "Prime Meridian",
+      "latitude.",
+      "longitude."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4397,
+    "subject": "high_school_mathematics",
+    "question": "Which of the following could NOT be the sides of an isosceles triangle?",
+    "choices": [
+      "2,2,3",
+      "2,2,4",
+      "4,12,12",
+      "5,5,5"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3023,
+    "subject": "high_school_chemistry",
+    "question": "para-dichlorobenzene is used as \"mothballs.\" This compound can also be named",
+    "choices": [
+      "1,2-dichlorobenzene",
+      "1,3-dichlorobenzene",
+      "2,4-dichlorobenzene",
+      "1,4-dichlorobenzene"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3565,
+    "subject": "high_school_geography",
+    "question": "Olives, grapes, and chickpeas are staple crops of which type of farming?",
+    "choices": [
+      "Pastoral nomadism",
+      "Subsistence",
+      "Plantation",
+      "Mediterranean"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7869,
+    "subject": "miscellaneous",
+    "question": "Which color is not considered to be one of the primary colors of light?",
+    "choices": [
+      "red",
+      "yellow",
+      "green",
+      "blue"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5421,
+    "subject": "high_school_psychology",
+    "question": "Sigmund Freud was the founder of which of the following perspectives in psychology?",
+    "choices": [
+      "Biological",
+      "Behavioral",
+      "Cognitive",
+      "Psychoanalytic"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12535,
+    "subject": "professional_psychology",
+    "question": "A person is most likely to be helped in an emergency situation when:",
+    "choices": [
+      "there is a single bystander.",
+      "there are several bystanders.",
+      "there are several bystanders of the same gender.",
+      "there are several bystanders of the opposite gender."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 399,
+    "subject": "business_ethics",
+    "question": "The UK Public Services (Social Value) Act 2013 requires those procuring ______ to consider how they can secure wider _____, _____and _____ benefits.",
+    "choices": [
+      "Private services, social, economic and environmental",
+      "Public services, social, cultural and environmental",
+      "Private services, cultural, economic and environmental",
+      "Public services, social, economic and environmental"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8317,
+    "subject": "moral_disputes",
+    "question": " Which of the following potentially morally relevant differences between Fred's behavior and the behavior of the consumers of factory-raised meat does Norcross not discuss?",
+    "choices": [
+      "Fred's behavior involves the suffering of puppies, whereas the behavior of meat-eaters \"merely\" involves the suffering of chickens, pigs, cows, calves, sheep, and the like.",
+      "The suffering of the puppies is necessary for gustatory pleasure, whereas the suffering of animals on factory farms is simply a by-product of the conditions dictated by economic considerations.",
+      "Fred could prevent the suffering of the puppies, whereas meat-eaters can't prevent the suffering of the animals they consume.",
+      "none of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13435,
+    "subject": "sociology",
+    "question": "The shift from custodial to joint parenthood after divorce means that:",
+    "choices": [
+      "fathers are more likely to be absent from their children's lives",
+      "one parent has total responsibility for the child's welfare and socialization",
+      "both parents are expected to co-operate in the continued care of their children",
+      "parents must provide for all of their children in equal measure"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10318,
+    "subject": "prehistory",
+    "question": "Which of the following is an example of parietal art?",
+    "choices": [
+      "beadwork",
+      "inscribed bone",
+      "ivory statues",
+      "cave paintings"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3487,
+    "subject": "high_school_geography",
+    "question": "National sports teams, flags, national anthems, and national holidays all promote",
+    "choices": [
+      "nationalism.",
+      "sectarianism.",
+      "political unrest.",
+      "functional disputes."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12774,
+    "subject": "professional_psychology",
+    "question": "If adverse impact on some minority group has been observed, which of the following types of tests probably has the best chance of withstanding legal challenge",
+    "choices": [
+      "Projective",
+      "Empirically keyed",
+      "Work sample",
+      "Multiple-choice"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 754,
+    "subject": "college_biology",
+    "question": "To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the",
+    "choices": [
+      "amnion",
+      "chorion",
+      "allantois",
+      "yolk sac"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8014,
+    "subject": "miscellaneous",
+    "question": "Where did the Exxon Valdez run aground in March of 1989?",
+    "choices": [
+      "Monterey Bay",
+      "Prince William Sound",
+      "Cape Cod",
+      "Gulf of Mexico"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 1703,
+    "subject": "conceptual_physics",
+    "question": "When wind speeds up as it blows over the top of a hill, atmospheric pressure there",
+    "choices": [
+      "increases",
+      "decreases",
+      "isn\u2019t affected",
+      "reduces to zero"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8456,
+    "subject": "moral_disputes",
+    "question": " Some forms of misogynist speech only target a subset of women. Richardson-Self argues that we should",
+    "choices": [
+      "deny that subsets of women can be the targets of hate speech.",
+      "say that this speech is merely sexist speech.",
+      "consider such speech hate speech.",
+      "understand misogynistic speech as akin to other forms of oppressive speech against racial minorities."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4540,
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following would best complete a short definition of economics? \"Economics is the study of . . .\"",
+    "choices": [
+      "how unlimited resources are allocated between scarce wants.",
+      "how money is circulated through the economy.",
+      "how corporations maximize the share price of their stock.",
+      "how scarce resources are allocated to satisfy unlimited wants."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13036,
+    "subject": "professional_psychology",
+    "question": "Child abuse and neglect are most associated with which of the following attachment patterns?",
+    "choices": [
+      "disorganized/disoriented",
+      "distant/disengaged.",
+      "insecure/avoidant.",
+      "insecure/ambivalent"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7203,
+    "subject": "marketing",
+    "question": "Which of the following is not part of the consumer proposition acquisition process?",
+    "choices": [
+      "Motive development.",
+      "Information gathering.",
+      "Proposition evaluation.",
+      "Perception."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3817,
+    "subject": "high_school_government_and_politics",
+    "question": "A member of the House of Representatives wishing to influence tax policy would most likely try to serve on which of the following committees?",
+    "choices": [
+      "Commerce",
+      "Ways and Means",
+      "Education and the Workforce",
+      "Resources"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 1079,
+    "subject": "college_computer_science",
+    "question": "A starvation-free job-scheduling policy guarantees that no job waits indefinitely for service. Which of the following job-scheduling policies is starvation-free?",
+    "choices": [
+      "Round-robin",
+      "Priority queuing",
+      "Shortest job first",
+      "Youngest job first"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4009,
+    "subject": "high_school_macroeconomics",
+    "question": "If real GDP per capita grows at a rate of 10 percent a year then we can expect the standard of living to double in",
+    "choices": [
+      "10 years.",
+      "9 years.",
+      "8 years.",
+      "7 years."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13797,
+    "subject": "virology",
+    "question": "The most important element of ethical research on human subjects is:",
+    "choices": [
+      "Beneficence",
+      "Justice",
+      "A methodologically sound study design",
+      "Informed consent"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4934,
+    "subject": "high_school_psychology",
+    "question": "Areas of the brain that are damaged are referred to as having",
+    "choices": [
+      "brain lesions",
+      "hemispheres",
+      "brain lobes",
+      "cortical adhesions"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 436,
+    "subject": "business_ethics",
+    "question": "According Carroll what four categories or aspects can corporate social responsibility be broken down into?",
+    "choices": [
+      "Political, Legal, Ethical and Philanthropic",
+      "Economic, Legal, Ethical and Philanthropic",
+      "Economic, Legal, Cultural and Philanthropic",
+      "Economic, Legal, Ethical and Environmental"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9738,
+    "subject": "philosophy",
+    "question": "Epictetus claims that things within our power are __________ and things not in our power are __________.",
+    "choices": [
+      "free and unhindered; free and unhindered",
+      "free and unhindered; servile and subject to hindrance",
+      "servile and subject to hindrance; free and unhindered",
+      "servile and subject to hindrance; servile and subject to hindrance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2226,
+    "subject": "elementary_mathematics",
+    "question": "All of Bella\u2019s photos are in 8 photo books. Each photo book has 25 photos. Which expression shows how to find the total number of photos Bella has?",
+    "choices": [
+      "25 \u00f7 8",
+      "25 \u2013 8",
+      "25 + 8",
+      "25 \u00d7 8"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 9413,
+    "subject": "nutrition",
+    "question": "Which of the following contributes to vitamin B12 deficiency in older adults?\n",
+    "choices": [
+      "Reduced secretion of intrinsic factor",
+      "Atrophic gastritis",
+      "Helicobacter pylori infection",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8101,
+    "subject": "miscellaneous",
+    "question": "Which of the following components is present in both pneumatic and hydraulic systems?",
+    "choices": [
+      "Exhaust",
+      "Reservoir",
+      "Compressor",
+      "Control value"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10028,
+    "subject": "prehistory",
+    "question": "The \u201cLion Man\u201d from Hohlenstein-Stadel cave is an example of:",
+    "choices": [
+      "mobiliary art.",
+      "long-distance trade of exotic raw materials.",
+      "parietal art.",
+      "a Venus figurine."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2656,
+    "subject": "global_facts",
+    "question": "Which of the following countries invested the largest fraction of its GDP in renewable energy in 2015?",
+    "choices": [
+      "China",
+      "Japan",
+      "Chile",
+      "India"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2202,
+    "subject": "elementary_mathematics",
+    "question": "A company makes 5 blue cars for every 3 white cars it makes. If the company makes 15 white cars in one day, how many blue cars will it make?",
+    "choices": [
+      "9",
+      "13",
+      "17",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3452,
+    "subject": "high_school_geography",
+    "question": "All the following factors can be considered pull factors of migration EXCEPT",
+    "choices": [
+      "safety.",
+      "better climate.",
+      "better schools.",
+      "overcrowding."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2951,
+    "subject": "high_school_biology",
+    "question": "This biome has cold winters and is known for its pine forests.",
+    "choices": [
+      "Desert",
+      "Tundra",
+      "Taiga",
+      "Deciduous forests"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 9992,
+    "subject": "philosophy",
+    "question": "According to Stevenson, the word \u201cgood\u201d has a pleasing emotive meaning that fits it for:",
+    "choices": [
+      "descriptive use.",
+      "constructive use.",
+      "dynamic use.",
+      "propositional use."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13015,
+    "subject": "professional_psychology",
+    "question": "Ethical behavior in the practice of individual psychologists is regulated by",
+    "choices": [
+      "the discretion of individual therapists",
+      "national laws",
+      "professional codes and state and provincial laws",
+      "accrediting agencies"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5219,
+    "subject": "high_school_psychology",
+    "question": "Which of the following is generally considered a disadvantage of longitudinal developmental research?",
+    "choices": [
+      "I only",
+      "II only",
+      "III only",
+      "I and II only"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13809,
+    "subject": "virology",
+    "question": "What is the most common way for a virus to kill a cell?",
+    "choices": [
+      "Dissolves the cellular membrane",
+      "Induces apoptosis via caspases",
+      "Fragments cellular DNA",
+      "Totally blocks cellular transcription"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2102,
+    "subject": "elementary_mathematics",
+    "question": "Which expression represents the phrase below? 3 fewer than a number, p",
+    "choices": [
+      "3-p",
+      "p+3",
+      "3/p",
+      "p-3"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3776,
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following does NOT appear in the Constitution?",
+    "choices": [
+      "The electoral college",
+      "Political parties",
+      "Separation of powers",
+      "The term length for members of Congress"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 542,
+    "subject": "clinical_knowledge",
+    "question": "A person weighs 62 kg. Their drug dose is 15 mg/kg. How many grams is their dose? Choose one answer from the following:",
+    "choices": [
+      "930",
+      "93",
+      "9.3",
+      "0.93"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10591,
+    "subject": "professional_accounting",
+    "question": "Which of the following procedures would an auditor most likely perform to obtain evidence about the occurrence of subsequent events?",
+    "choices": [
+      "Verify inventory pledged under loan agreements by confirming the details with financial institutions.",
+      "Inquire about the current status of transactions that were recorded on the basis of preliminary data.",
+      "Compare the financial statements being reported on with those of the prior year.",
+      "Trace information from shipping documents to sales invoices and sales journal transactions."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3894,
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following represents a combination of contractionary fiscal and expansionary monetary policy? FISCAL POLICY \u00a0\u00a0\u00a0 MONETARY POLICY",
+    "choices": [
+      "Higher taxes \u00a0\u00a0\u00a0 Selling Treasury securities",
+      "Lower taxes \u00a0\u00a0\u00a0 Buying Treasury securities",
+      "Lower government spending \u00a0\u00a0\u00a0 Increasing the reserve ratio",
+      "Higher taxes \u00a0\u00a0\u00a0 Buying Treasury securities"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 9467,
+    "subject": "nutrition",
+    "question": "Select the single most accurate statement about the absorptive area of the human intestine?\n",
+    "choices": [
+      "The absorptive area is equivalent to that of a tennis court",
+      "All of the options given are correct",
+      "Changes in motility increase the contact time between nutrients and absorptive surface",
+      "The presence of folds, villi and microvilli on the surface of enterocytes magnifies the absorptive area"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7064,
+    "subject": "marketing",
+    "question": " ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller.",
+    "choices": [
+      "Relationship marketing.",
+      "Service mix.",
+      "Market exchanges.",
+      "Service failure."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8358,
+    "subject": "moral_disputes",
+    "question": " Since Nagel thinks there can be genuine moral dilemmas, he denies the moral principle that",
+    "choices": [
+      "can implies should.",
+      "can implies ought.",
+      "ought implies can.",
+      "ought implies should."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3070,
+    "subject": "high_school_chemistry",
+    "question": "Under which conditions will a real gas most closely behave as an ideal gas?",
+    "choices": [
+      "High temperature and high pressure",
+      "High temperature and low pressure",
+      "High volume and high temperature",
+      "Low temperature and low pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2276,
+    "subject": "elementary_mathematics",
+    "question": "Miranda enlarged a picture proportionally. Her original picture is 4 cm wide and 6 cm long. If the new, larger picture is 10 cm wide, what is its length?",
+    "choices": [
+      "8 cm",
+      "12 cm",
+      "15 cm",
+      "20 cm"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13324,
+    "subject": "security_studies",
+    "question": "Which of the following ideas have become mainstreamed within human security since the Human Development Report?",
+    "choices": [
+      "Limiting security analysis to military engagement is too restrictive.",
+      "Security is a contestable concept.",
+      "Focusing security only on violent conflicts is too restrictive.",
+      "All of these options."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2980,
+    "subject": "high_school_chemistry",
+    "question": "Carbon has an atomic radius of 77 pm and a first ionization energy of 1086 kJ/mol.",
+    "choices": [
+      "70 pm, 1402 kJ/mol",
+      "86 pm, 898 kJ/mol",
+      "135 pm, 523 kJ/mol",
+      "40 pm, 995 kJ/mol"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 425,
+    "subject": "business_ethics",
+    "question": "Which of the three following organisational characteristics of small businesses tend to characterise their engagement with business related issues?",
+    "choices": [
+      "Size and complexity, owner and family member influence on the organisation, shareholder and stakeholder power",
+      "Lack of organisational resources, size and complexity, owner and family member influence",
+      "Informal relationships, owner and family member influence on the organisation, lack of organisational resources",
+      "Bureaucratic and formal organisational structure, lack of organisational resources, conflicts of interest"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7715,
+    "subject": "miscellaneous",
+    "question": "How many airplanes are in the air worldwide right now (as of 2014)?",
+    "choices": [
+      "5,000",
+      "20,000",
+      "80,000",
+      "320,000"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4355,
+    "subject": "high_school_mathematics",
+    "question": "Find the length of the curve y = ln x between the points where y = 1/2 and y = 1.",
+    "choices": [
+      "0.53",
+      "0.86",
+      "1.18",
+      "1.36"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12548,
+    "subject": "professional_psychology",
+    "question": "The flaw in Anderson\u2019s ACT theory was that some considered it ___________.",
+    "choices": [
+      "Only applicable to a motor system",
+      "Untestable and thus, of uncertain scientific value",
+      "Lacking in definition for its elements",
+      "Overly complex in explaining the operation of cognition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9871,
+    "subject": "philosophy",
+    "question": "Moral theories that say that the rightness of actions depends solely on their consequences are _____.",
+    "choices": [
+      "deontological",
+      "virtue oriented",
+      "consequentialist",
+      "egoistic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3004,
+    "subject": "high_school_chemistry",
+    "question": "A liquid element that is a dark-colored, nonconducting substance at room temperature is",
+    "choices": [
+      "mercury",
+      "bromine",
+      "iodine",
+      "bismuth"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10242,
+    "subject": "prehistory",
+    "question": "Excavation of Yang-shao sites in China indicates which domesticated crops?",
+    "choices": [
+      "beans, millet, and maize.",
+      "wheat, rice, and peas.",
+      "sorghum, emmer, and legumes.",
+      "millet, cabbage, and rice."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 1013,
+    "subject": "college_computer_science",
+    "question": "The language {ww | w in (0 + 1)*} is",
+    "choices": [
+      "not accepted by any Turing machine",
+      "accepted by some Turing machine, but by no pushdown automaton",
+      "accepted by some pushdown automaton, but not context-free",
+      "context-free, but not regular"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3666,
+    "subject": "high_school_government_and_politics",
+    "question": "The House Rules Committee is considered among the most powerful in the House of Representatives because it has great power over the",
+    "choices": [
+      "ethical conduct of House members",
+      "selection of federal judges",
+      "number of subcommittees that a standing committee may establish at any given time",
+      "scheduling of votes and the conditions under which bills are debated and amended"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8410,
+    "subject": "moral_disputes",
+    "question": " A war over ideological differences carried out by methods short of sustained overt military action and usually without breaking off diplomatic relations is known as",
+    "choices": [
+      "a war simpliciter.",
+      "a hot war.",
+      "a cold war.",
+      "none of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7512,
+    "subject": "miscellaneous",
+    "question": "Which of the following requires the use of at least two needles?",
+    "choices": [
+      "macrame",
+      "braiding",
+      "crocheting",
+      "hand knitting"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13353,
+    "subject": "security_studies",
+    "question": "In what ways might the effects of chemical weapons affect the decision to deploy them against a target?",
+    "choices": [
+      "Chemical weapons are a highly complicated means to conduct an assault. The unpredictability of chemicals (the degree of evaporation, stability and concentration) frequently proves to be incommensurate with political objectives.",
+      "Analysts are concerned with the potential ease of chemical manufacturing. Weapons could be quickly and effectively deployed being light, concealable and rapidly deployed. Most weapons can be delivered in a line source for example a crop duster or administered through an aerosol. Dispersal in areas of poor ventilation or closed venues where people are in close proximity could have potentially catastrophic effects.",
+      "Chemical weapons have the potential to cause mass casualties. Moderate exposure to chemicals produces serious side effects and would generate serious casualties if weaponized.",
+      "Wind, temperature and terrain can affect the lethality and persistence of an agent and is dependent on the extensity and degree of contact with the target."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3806,
+    "subject": "high_school_government_and_politics",
+    "question": "In Gideon v. Wainwright, the Supreme Court ruled that criminal defendants in state cases have the right",
+    "choices": [
+      "to representation by an attorney",
+      "not to incriminate themselves",
+      "to a speedy trial",
+      "not to be punished excessively"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4412,
+    "subject": "high_school_mathematics",
+    "question": "The sum $1^2 + 2^2 + 3^2 + 4^2 + \\cdots + n^2 = n(n+1)(2n+1) \\div 6$. What is the value of $21^2 + 22^2 + \\cdots + 40^2$?",
+    "choices": [
+      "41",
+      "22140",
+      "19270",
+      "2870"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10153,
+    "subject": "prehistory",
+    "question": "Which culture lived a primarily sedentary lifestyle in the Southwest?",
+    "choices": [
+      "Adena",
+      "Mogollon",
+      "Kwakiutl",
+      "Mississippian"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4601,
+    "subject": "high_school_microeconomics",
+    "question": "If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change?",
+    "choices": [
+      "Both would increase.",
+      "Both would decrease.",
+      "The wage would remain constant, but employment would increase.",
+      "The wage would fall, but employment would increase."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13257,
+    "subject": "security_studies",
+    "question": "In what ways is a fusion nuclear device different from a fission device?",
+    "choices": [
+      "A fusion weapon is a three-stage-bomb that uses an implosion device to create a fission reaction, which then detonates a fusion reaction. It is often referred to as a thermo-nuclear or hydrogen device and has unlimited destructive potential.",
+      "A fusion reaction is created when the nuclei of two light elements are combined, the reaction resulting in heavier elements fragmenting into smaller parts. This fragmentation releases energy of limited destructive capacity, the extent of energy released dependent on the mass of material used.",
+      "A fusion device is a two-stage process where a gun-type device is used to trigger a series of fission reactions with the cumulative result being the production of a high energy flash explosion with unlimited thermal energy.",
+      "Fusion weapons have a highly specific destructive effect. The heavier element produced from a fissions reaction, and the difference in mass from the two lighter nuclei (which is translated into an energy explosion) can be precision calculated. Bombs even within the multi-megaton range have unlimited military utility, their destructive capability can be manufactured according to the target."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 341,
+    "subject": "astronomy",
+    "question": "Imagine that the Earth was instantly moved to an orbit three times further away from the Sun. How much longer would a year be?",
+    "choices": [
+      "exactly 3 times longer",
+      "about 5.2 times longer",
+      "Not enough information. It will depend on the inclination of the new orbit",
+      "The length of the year wouldn't change because the Earth's mass stays the same."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2988,
+    "subject": "high_school_chemistry",
+    "question": "Sulfurous acid is a weak acid, while sulfuric acid is a much stronger acid because",
+    "choices": [
+      "the O\u2013H bonds in sulfuric acid are much weaker than in sulfurous acid due to the electron withdrawing of the oxygen atoms on sulfuric acid",
+      "sulfuric acid has more oxygen atoms in its formula",
+      "the sulfur in sulfuric acid is more electronegative than the sulfur in sulfurous acid",
+      "sulfuric acid has the hydrogen atoms bound directly to the sulfur atom"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2134,
+    "subject": "elementary_mathematics",
+    "question": "Write the prime factorization of 77. Use exponents where possible.",
+    "choices": [
+      "7 \u2022 11^2 \u2022 13",
+      "7^2 \u2022 11",
+      "7 \u2022 11 \u2022 13",
+      "7 \u2022 11"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4448,
+    "subject": "high_school_mathematics",
+    "question": "At how many points on the interval [0,\u03c0] does f(x) = 2 sin x + sin 4x satisfy the Mean Value Theorem?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3483,
+    "subject": "high_school_geography",
+    "question": "The largest Hindu temple complex ever constructed is found in",
+    "choices": [
+      "Calcutta.",
+      "Bombay.",
+      "Cambodia.",
+      "Bali."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10408,
+    "subject": "professional_accounting",
+    "question": "In selecting an appropriate sample for a substantive test the auditor most likely would stratify the population if the",
+    "choices": [
+      "Auditor suspects that management fraud has occurred during the year.",
+      "Desired assessed level of control risk is less than the prior year.",
+      "Technique to be used is attribute sampling.",
+      "Auditor plans to give greater representation to large recorded amounts."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4588,
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is a characteristic of perfect competition?",
+    "choices": [
+      "Firms produce a homogeneous product.",
+      "Barriers to entry exist.",
+      "Firms are price-setting profit maximizers.",
+      "The government regulates the price so that deadweight loss is eliminated."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10194,
+    "subject": "prehistory",
+    "question": "What occupation date do most archaeologists agree on for Australia?",
+    "choices": [
+      "no earlier than 80,000 years ago",
+      "soon after 60,000 years ago",
+      "soon after 40,000 years ago",
+      "no earlier than 20,000 years ago"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10337,
+    "subject": "prehistory",
+    "question": "Which dating technique is based on the patterns of tree-ring growth?",
+    "choices": [
+      "radiocarbon dating",
+      "dendrochronology",
+      "paleomagnetic dating",
+      "fission-track dating"
+    ],
+    "answer": 1
+  }
+]

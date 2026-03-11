@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "mmlu_1268",
+    "subject": "college_medicine",
+    "question": "Which of the following best accounts for the negative slope of the liquid-solid equilibrium line in the phase diagram for water?",
+    "choices": [
+      "H2O(s) has a greater density than H2O(l), which causes the solid to form liquid under high pressure conditions.",
+      "H2O(s) has a greater density than H2O(l), which results from the hydrogen bonds formed between water molecules.",
+      "H2O(s) has a lower density than H2O(l) which results from the crystalline framework that forms due to hydrogen bonds.",
+      "H2O(s) has a lower density than H2O(l) which causes the solid to form liquid under low pressure conditions."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_3878",
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following policies is most likely to bring about economic growth in the long run?",
+    "choices": [
+      "Imposing tariffs to protect domestic industries from foreign competition.",
+      "Placing taxes on savings.",
+      "Increasing government spending.",
+      "Promoting improvements in the education of the population."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_4706",
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following will shift the supply curve for textbooks to the left?",
+    "choices": [
+      "A decrease in the demand for a substitute in production",
+      "A decrease in the number of buyers",
+      "An increase in printing costs",
+      "Expectations of future surpluses"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_421",
+    "subject": "business_ethics",
+    "question": "Pick the correct description of the following term: Utilitarianism is…",
+    "choices": [
+      "A theory which states that an action is morally incorrect if it promotes the greatest good for the greatest number",
+      "A theory which states that an action is morally right if it promotes the greatest good for the decision maker",
+      "A theory which states that an action is morally right if it promotes the greatest good for the smallest number",
+      "A theory which states that an action is morally right if it promotes the greatest good for the greatest number"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_3561",
+    "subject": "high_school_geography",
+    "question": "The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?",
+    "choices": [
+      "Europe and North Africa",
+      "Asia and Latin America",
+      "Sub-Saharan Africa and Oceania",
+      "Central Europe and Australia"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_7852",
+    "subject": "miscellaneous",
+    "question": "According to the children's nursery rhyme what type of ocean did Columbus sail in 1492?",
+    "choices": [
+      "calm",
+      "blue",
+      "windy",
+      "really big"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_2475",
+    "subject": "formal_logic",
+    "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\nU ⊃ W\nW ⊃ (X ≡ ~Y)\n(X ≡ ~Y) ⊃ Z\n~Z",
+    "choices": [
+      "U ⊃ Z",
+      "U ∨ W",
+      "~W",
+      "~(X ≡ ~Y)"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_8412",
+    "subject": "moral_disputes",
+    "question": " Which of the following is not one of the four main excuses for terrorism that Michael Walzer discusses?",
+    "choices": [
+      "Terrorism is a form of freedom of speech.",
+      "Terrorism is a last resort.",
+      "Terrorism benefits oppressed groups.",
+      "All political activity is terroristic."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_2994",
+    "subject": "high_school_chemistry",
+    "question": "A student has a liter of a 0.100 M solution of a strong acid. To prepare a buffer, this should be mixed with",
+    "choices": [
+      "a strong acid",
+      "a weak acid",
+      "a weak base",
+      "a strong base"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_1474",
+    "subject": "computer_security",
+    "question": "In Message Condentiality, the transmitted message must make sense to only intended",
+    "choices": [
+      "Receiver",
+      "Sender",
+      "Modulor",
+      "Translator"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13101",
+    "subject": "public_relations",
+    "question": "Which phase of public relations audience research is associated with summative evaluation?",
+    "choices": [
+      "Implementation",
+      "Impact",
+      "Attitude change",
+      "Preparation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_4456",
+    "subject": "high_school_mathematics",
+    "question": "What is the smallest positive integer $n$ such that $\\frac{1}{n}$ is a terminating decimal and $n$ contains the digit 9?",
+    "choices": [
+      "32",
+      "64",
+      "4096",
+      "256"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_6745",
+    "subject": "logical_fallacies",
+    "question": "John Stuart Mill: Each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons.",
+    "choices": [
+      "Fallacy of Composition",
+      "Fallacy of Division",
+      "Gambler's Fallacy",
+      "Equivocation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_6114",
+    "subject": "human_aging",
+    "question": "In this chapter's Senior View, Dr. Shealy advises you to",
+    "choices": [
+      "Stay in school",
+      "Eat the right foods",
+      "Get plenty of exercise",
+      "Find a high paying job"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_6498",
+    "subject": "international_law",
+    "question": "Is piracy under international (jure gentium) law subject to universal jurisdiction?",
+    "choices": [
+      "Piracy jure gentium is subject to flag State jurisdiction",
+      "Piracy jure gentium is subject to universal jurisdiction",
+      "Piracy jure gentium is subject to port State jurisdiction",
+      "Piracy jure gentium is subject to nationality-based jurisdiction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_10612",
+    "subject": "professional_accounting",
+    "question": "Which of the following statements is correct as it relates to changes in accounting estimates?",
+    "choices": [
+      "Most changes in accounting estimates are accounted for retrospectively.",
+      "Whenever it is impossible to determine whether a change in an estimate or a change in accounting principle occurred, the change should be considered a change in principle.",
+      "Whenever it is impossible to determine whether a change in accounting estimate or a change in accounting principle has occurred, the change should be considered a change in estimate.",
+      "It is easier to differentiate between a change in accounting estimate and a change in accounting principle than it is to differentiate between a change in accounting estimate and a correction of an error."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_542",
+    "subject": "clinical_knowledge",
+    "question": "A person weighs 62 kg. Their drug dose is 15 mg/kg. How many grams is their dose? Choose one answer from the following:",
+    "choices": [
+      "930",
+      "93",
+      "9.3",
+      "0.93"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_5533",
+    "subject": "high_school_statistics",
+    "question": "A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does this test have?",
+    "choices": [
+      "6",
+      "8",
+      "10",
+      "11"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_1402",
+    "subject": "college_physics",
+    "question": "The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons",
+    "choices": [
+      "exactly 10 times",
+      "an average of 10 times, with an rms deviation of about 0.1",
+      "an average of 10 times, with an rms deviation of about 1",
+      "an average of 10 times, with an rms deviation of about 3"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_4819",
+    "subject": "high_school_physics",
+    "question": "Which one of the following statements is true concerning the motion of an ideal projectile launched at an angle of 45° to the horizontal?",
+    "choices": [
+      "The acceleration vector points opposite to the velocity vector on the way up and in the same direction as the velocity vector on the way down.",
+      "The speed at the top of the trajectory is zero.",
+      "The object's total speed remains constant during the entire flight.",
+      "The vertical speed decreases on the way up and increases on the way down."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_7197",
+    "subject": "marketing",
+    "question": "Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as:",
+    "choices": [
+      "Time utility.",
+      "Place utility.",
+      "Ownership utility.",
+      "Information utility."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_49",
+    "subject": "abstract_algebra",
+    "question": "Find the maximum possible order for some element of Z_8 x Z_10 x Z_24.",
+    "choices": [
+      "8",
+      "120",
+      "240",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_10983",
+    "subject": "professional_law",
+    "question": "In which of the following situations is the defendant's conduct most likely to make him criminally responsible for the victim's death?",
+    "choices": [
+      "A defendant shot a victim in the head. The victim was then taken to a hospital for treatment of the wound. An earthquake later struck the city, causing the hospital to collapse. The victim was crushed to death in the rubble.",
+      "A defendant and a victim lived in the same apartment building. The defendant knew that the victim was having a love affair with a married woman. One day, the defendant learned that the victim was to be murdered by the married woman's husband. Although the defendant had ample time to warn the victim, he failed to do so. That night, the victim was stabbed to death by the husband.",
+      "A victim, who was a gambler, was heavily in debt to the mob. The defendant, who was a mob enforcer, threatened to kill the victim if he didn't pay up. Frightened, the victim boarded the next airplane flight out of town. The airplane crashed, and the victim was killed.",
+      "A defendant and a victim were driving to work together when the defendant, without provocation, stabbed the victim in the arm. The defendant then pushed him out of the car. The victim fell along the side of the street and fractured his ankle. Unable to move from the roadway, the victim was fatally crushed a half-hour later by a car driven by a drunk driver."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_2817",
+    "subject": "high_school_biology",
+    "question": "Which of the following best explains why drinking breast milk is beneficial to a human infant?",
+    "choices": [
+      "Breast milk contains vitamins that repair mutations originating in the sperm or egg.",
+      "Breast milk contains maternal antibodies that protect against gastrointestinal pathogens.",
+      "Breast milk contains maternal vaccines that destroy common childhood pathogens.",
+      "Breast milk contains red blood cells with adult hemoglobin that are beneficial to the infant's developing brain."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_10146",
+    "subject": "prehistory",
+    "question": "Homo erectus is most closely associated with which tool-making tradition?",
+    "choices": [
+      "Occipital",
+      "Acheulean",
+      "Oldowan",
+      "Stadial"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_13751",
+    "subject": "virology",
+    "question": "Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?",
+    "choices": [
+      "If administered within 4 days of clinical signs",
+      "If used within 48 hours of first clinical signs",
+      "Used for the obese",
+      "Used in children under the age of 2 years where high virus spread is noted"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_7019",
+    "subject": "management",
+    "question": "Workers' acceptance of change is characteristic of what type of culture?",
+    "choices": [
+      "Team culture",
+      "Collaborative culture",
+      "Group culture",
+      "Collective culture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_13477",
+    "subject": "sociology",
+    "question": "The social construction of childhood can be traced back to:",
+    "choices": [
+      "the introduction of compulsory education",
+      "increasingly emotional ties between parents and children",
+      "new consumer goods for children, such as clothes, toys and books",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_6395",
+    "subject": "human_sexuality",
+    "question": "For purposes of conception, the best position for intercourse is:",
+    "choices": [
+      "woman-on-top",
+      "man-on-top",
+      "rear entry",
+      "side-to-side"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_3192",
+    "subject": "high_school_computer_science",
+    "question": "Of the following potential benefits, which is LEAST likely to be provided by the upgraded system?",
+    "choices": [
+      "Human representatives will not be needed to respond to some inquiries.",
+      "The company will be able to provide a human representative for any incoming call.",
+      "Customers are likely to spend less time listening to information not relevant to their issue.",
+      "Customers will be unable to mistakenly select the incorrect department for their particular issue."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_3833",
+    "subject": "high_school_government_and_politics",
+    "question": "The absence of a political party solely dedicated to labor and working class issues in the United States",
+    "choices": [
+      "proves U.S. politicians are not concerned about serving working-class constituencies",
+      "is the result of government restrictions placed on the political activities of labor unions",
+      "reflects the difficulty of unifying a party around a single issue in a \"winner-take-all\" format",
+      "demonstrates that, in the United States, most political issues regarding workers have been decided in the workers' favor"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_1804",
+    "subject": "conceptual_physics",
+    "question": "When you bend the branch of a tree by hanging on its end, the top side of the branch is under",
+    "choices": [
+      "tension.",
+      "compression.",
+      "Both.",
+      "Neither."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13908",
+    "subject": "world_religions",
+    "question": "Who is the woman mystic who exemplified the all-consuming love of the divine?",
+    "choices": [
+      "Rumi",
+      "Rabi'a",
+      "Fatimah",
+      "Khadija"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_6655",
+    "subject": "jurisprudence",
+    "question": "Which of the factors below contributed significantly to the revival of natural law in the 20th century?",
+    "choices": [
+      "The Depression of the 1930s.",
+      "The rise of Fascism.",
+      "The international recognition of human rights after WWII.",
+      "The Bolshevik revolution."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_12692",
+    "subject": "professional_psychology",
+    "question": "According to Gregory Herek (1992), violence against gays and lesbians is attributable to:",
+    "choices": [
+      "heterosexism.",
+      "homophobia.",
+      "bigotry.",
+      "stigmatization."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_1825",
+    "subject": "econometrics",
+    "question": "The characteristic roots of the MA process\n\n$y_t = -3u_{t-1} + u_{t-2} + u_t$\n\nare",
+    "choices": [
+      "1 and 2",
+      "1 and 0.5",
+      "2 and -0.5",
+      "1 and -3"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_9869",
+    "subject": "philosophy",
+    "question": "Moore claims that there is no meaning in saying that pleasure is good, unless:",
+    "choices": [
+      "goodness and pleasure are the same thing.",
+      "good is something different than pleasure.",
+      "all good things are pleasant.",
+      "all pleasant things are good."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_13665",
+    "subject": "us_foreign_policy",
+    "question": "Why do some scholars claim that Reagan 'won the Cold War'?",
+    "choices": [
+      "Reagan's first term military spending pressured the Soviet Union to keep up its international commitments",
+      "Reagan encouraged engagement with the Soviet Union",
+      "Reagan encouraged a softer approach towards communism",
+      "Reagan reduced military spending and this allowed the Soviet Union space to reform"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_288",
+    "subject": "astronomy",
+    "question": "Which of the following countries has sent landers to Venus?",
+    "choices": [
+      "The U.S.S.R.",
+      "The U.S.",
+      "France",
+      "A and B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_5412",
+    "subject": "high_school_psychology",
+    "question": "EEGs that consist primarily of alpha and beta waves are characteristic of",
+    "choices": [
+      "consciousness",
+      "stage 1 sleep",
+      "stage 2 sleep",
+      "stage 3 sleep"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_7382",
+    "subject": "medical_genetics",
+    "question": "Differential distribution of substances in the egg most typically results in:",
+    "choices": [
+      "differences in gene expression which may establish a pattern in the embryo as the cells divide",
+      "amplification of specific genes during development",
+      "development of polyploid tissues",
+      "loss of specific genes during development"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_854",
+    "subject": "college_biology",
+    "question": "Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bonding between the peptide backbone atoms",
+    "choices": [
+      "hydrogen bonding between the peptide backbone atoms",
+      "disulfide bridges between cysteine side chains",
+      "carbohydrate moieties attached to polar amino acids",
+      "peptide linkages that covalently bond amino acids"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_6880",
+    "subject": "machine_learning",
+    "question": "Adding more basis functions in a linear model, pick the most probably option:",
+    "choices": [
+      "Decreases model bias",
+      "Decreases estimation bias",
+      "Decreases variance",
+      "Doesn’t affect bias and variance"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_969",
+    "subject": "college_chemistry",
+    "question": "A substance that is NOT generally considered to be a toxic pollutant in water is",
+    "choices": [
+      "carbonic acid",
+      "a halogenated hydrocarbon",
+      "lead",
+      "mercury"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_1149",
+    "subject": "college_mathematics",
+    "question": "What is the area of an equilateral triangle whose inscribed circle has radius 2?",
+    "choices": [
+      "12",
+      "16",
+      "12*sqrt(3)",
+      "16*sqrt(3)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_1932",
+    "subject": "electrical_engineering",
+    "question": "How many bits are required to store one BCD digit ?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_2193",
+    "subject": "elementary_mathematics",
+    "question": "Tayshawn sorts 56 marbles into equal groups with no marbles left over. Which statement could be true of the groups of marbles Tayshawn sorts?",
+    "choices": [
+      "There are 6 groups of marbles with 8 marbles in each group.",
+      "There are 7 groups of marbles with 7 marbles in each group.",
+      "There are 8 groups of marbles with 7 marbles in each group.",
+      "There are 9 groups of marbles with 6 marbles in each group."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_2573",
+    "subject": "global_facts",
+    "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?",
+    "choices": [
+      "by 5 fold",
+      "by 10 fold",
+      "by 15 fold",
+      "by 20 fold"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_13258",
+    "subject": "security_studies",
+    "question": "In defining the term 'historical materialism', which of the following statements best defines the term 'materialism'?",
+    "choices": [
+      "Materialism refers to HM's focus on class and the productive basis of societies, as well as the ways in which social structures have the capacity to change and produce change.",
+      "Materialism refers to the roots of HM in the postmodern schools of thought.",
+      "The term materialism refers to the focus of HM on consumerism and the centrality of economic power in the approach.",
+      "In their rejection of class orientated political interaction, HM scholars refer to wealth instead as the accumulation or access to physical resources, coining the term materialism to describe this approach."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_172",
+    "subject": "anatomy",
+    "question": "In the spinal cord, motor neuron cell bodies are located in",
+    "choices": [
+      "Lamina I.",
+      "Lamina II.",
+      "Lamina V.",
+      "Lamina IX"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_1022",
+    "subject": "college_computer_science",
+    "question": "Which of the following is the name of the data structure in a compiler that is responsible for managing information about variables and their attributes?",
+    "choices": [
+      "Abstract Syntax Tree (AST)",
+      "Attribute Grammar",
+      "Symbol Table",
+      "Semantic Stack"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_9437",
+    "subject": "nutrition",
+    "question": "What is the likely reason that evidence to support the relationship between dietary cholesterol and plasma LDL cholesterol levels in humans is inconclusive?\n",
+    "choices": [
+      "The complexity of the mechanisms regulating the absorption of cholesterol and its export in lipoproteins.",
+      "The complexity of the mechanism controlling the clearance of intestinally derived lipoproteins by the liver.",
+      "The multiple intrahepatic responses to increased cellular cholesterol.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_3505",
+    "subject": "high_school_geography",
+    "question": "The process of invasion and succession is a process involving migration and is best described as when",
+    "choices": [
+      "new residents tear down and rebuild housing units.",
+      "new residents live peacefully with old residents.",
+      "new residents assimilate with old residents completely.",
+      "new residents move into areas occupied by older resident groups."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_9888",
+    "subject": "philosophy",
+    "question": "Of the two versions of the principle that Singer considers:",
+    "choices": [
+      "he considers the stronger version to be correct.",
+      "he considers the weaker version to be correct.",
+      "he ends up rejecting them both.",
+      "he claims that they are equivalent."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13767",
+    "subject": "virology",
+    "question": "Any systematic error in the design, conduct, or analysis of a study that results in a mistaken estimate of an exposure’s effect on the risk of disease is called:",
+    "choices": [
+      "Confounding",
+      "Bias",
+      "Interaction",
+      "Stratification"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_4940",
+    "subject": "high_school_psychology",
+    "question": "Psychogenic amnesia is an indication of which kind of psychological disorder?",
+    "choices": [
+      "schizophrenic",
+      "anxiety",
+      "mood",
+      "dissociative"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_3523",
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT a feature of an export processing zone (EPZ)?",
+    "choices": [
+      "Tariff reductions on exports",
+      "Raw materials imported duty-free",
+      "Exemption from customs duties",
+      "Strict pollution regulations"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_12951",
+    "subject": "professional_psychology",
+    "question": "A person who is low in self-monitoring (Snyder, 1987) will rely on which of the following when deciding how to act in a particular social situation?",
+    "choices": [
+      "his/her life scripts.",
+      "his/her own feelings, attitudes, and beliefs.",
+      "the emotional reactions and behaviors of the people he/she is interacting with.",
+      "internal working models that were acquired during infancy and early childhood."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_8100",
+    "subject": "miscellaneous",
+    "question": "At the equator how fast is the earth's surface turning?",
+    "choices": [
+      "about 100 miles per hour",
+      "about 500 miles per hour",
+      "about 1000 miles per hour",
+      "about 2000 miles per hour"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_6608",
+    "subject": "jurisprudence",
+    "question": "Which statement best describes the relationship between law and morality among non-positivist legal theorists?",
+    "choices": [
+      "There is no relationship between law and morality.",
+      "Law is always in advance of moral ideas.",
+      "The law is inextricably bound up with morals.",
+      "Morality is generally in advance of the law."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_12759",
+    "subject": "professional_psychology",
+    "question": "In classical psychoanalytic theory, a maladaptive behavior that emerges as a compromise between an unconscious impulse and the resulting defense process is called",
+    "choices": [
+      "fixation",
+      "regression",
+      "repression",
+      "symptom"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_7591",
+    "subject": "miscellaneous",
+    "question": "What is the (approximate) value of lemon juice on the pH scale?",
+    "choices": [
+      "14",
+      "2",
+      "7",
+      "0"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_2355",
+    "subject": "elementary_mathematics",
+    "question": "Which situation could be represented by the expression 6 x 2?",
+    "choices": [
+      "Rocco hiked six miles each day for two days.",
+      "Rocco had six baseballs and gave away two of them.",
+      "Rocco had a total of six tennis balls in two cans.",
+      "Rocco biked six miles and then continued for two more miles."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_4127",
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following would NOT shift the aggregate supply curve?",
+    "choices": [
+      "An increase in the price level.",
+      "A decrease in the amount of resources in the economy.",
+      "An increase in the amount of resources in the economy.",
+      "An increase in technology."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_2280",
+    "subject": "elementary_mathematics",
+    "question": "What number makes the equation 35 / ? = 7 true?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_3892",
+    "subject": "high_school_macroeconomics",
+    "question": "If the short-run aggregate supply curve is horizontal it is because",
+    "choices": [
+      "there exist many unemployed resources so that output can be increased without increasing wages and prices.",
+      "any increase in output requires a corresponding increase in wages and prices.",
+      "increases in output cause prices to increase but wages adjust much less quickly.",
+      "falling interest rates increase the demand for goods and services putting upward pressure on prices."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_9781",
+    "subject": "philosophy",
+    "question": "Which of the following is an example of deception in business research?",
+    "choices": [
+      "The obtaining of company material without permission.",
+      "The researcher wearing a disguise during an observation.",
+      "The researcher representing their research as being about a different topic.",
+      "The researcher failing to ask permission to interview someone."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_9466",
+    "subject": "nutrition",
+    "question": "The safety of which of the following substances must be demonstrated prior to their introduction into food?\n",
+    "choices": [
+      "Pesticide chemicals",
+      "Substances migrating from food packaging",
+      "Colour additives",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_4089",
+    "subject": "high_school_macroeconomics",
+    "question": "If prices rise in the United States relative to other countries then",
+    "choices": [
+      "the value of the dollar will tend to appreciate.",
+      "the value of the dollar will tend to depreciate.",
+      "exchange rates will be affected but not the value of the dollar.",
+      "the exchange rate will not be affected."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_10140",
+    "subject": "prehistory",
+    "question": "According to the author, what did the Olmec have in common that bound them together in different territories?",
+    "choices": [
+      "underlying religious beliefs, as seen in Olmec art and iconography",
+      "agricultural surpluses that led to the creation of economic inequalities",
+      "they spoke the same language and were related by kinship and marriage",
+      "a system of trade and exchange, as seen in tokens used as a form of money"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_7124",
+    "subject": "marketing",
+    "question": "The use of entertainment material delivered through paid or owned media and which features a single company or brand is referred to as:",
+    "choices": [
+      "Sponsorships.",
+      "Exhibitions.",
+      "Branded content.",
+      "Advertisement."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_10130",
+    "subject": "prehistory",
+    "question": "Which of the following most strongly indicates advances in the human intellect during the Upper Paleolithic?",
+    "choices": [
+      "parietal and mobiliary art",
+      "new stone-tool technologies",
+      "acquisition of non-local raw materials",
+      "changes in settlement patterns"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_6649",
+    "subject": "jurisprudence",
+    "question": "The United States Supreme Court's decision in Roe v Wade is highly controversial because:",
+    "choices": [
+      "It failed to consider the rights of fathers.",
+      "It overlooked the common law relating to abortion.",
+      "The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.",
+      "The court failed to consider the medical evidence."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_6134",
+    "subject": "human_aging",
+    "question": "Of the following animals, which has the longest life span by current measures?",
+    "choices": [
+      "Gorilla",
+      "Blue whale",
+      "Dog",
+      "Queen honey bee"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_3593",
+    "subject": "high_school_geography",
+    "question": "Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs",
+    "choices": [
+      "will hinder global trade.",
+      "make plants more resistant to disease.",
+      "may cause irreversible changes in humans.",
+      "make plants more resistant to drought."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_2257",
+    "subject": "elementary_mathematics",
+    "question": "Use the equation below to answer the question. 14 × 3 = 42 Which statement correctly interprets the expression?",
+    "choices": [
+      "14 is 3 more than 42.",
+      "42 is 14 more than 3.",
+      "14 is 3 times as many as 42.",
+      "42 is 3 times as many as 14."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_8238",
+    "subject": "moral_disputes",
+    "question": " Corvino considers the following argument: Homosexuals are \"born that way\"; therefore, homosexual activity is good and natural. Corvino claims that this argument is unsound. Why?",
+    "choices": [
+      "It ignores the possibility that homosexuality is a lifestyle choice.",
+      "It assumes that all innate desires are good ones.",
+      "It is equivalent to recognizing that homosexuality is unusual.",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_8039",
+    "subject": "miscellaneous",
+    "question": "The process of drilling holes in the skull is called what?",
+    "choices": [
+      "bifurcation",
+      "trepanation",
+      "aeronomy",
+      "skullduggery"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_1546",
+    "subject": "computer_security",
+    "question": "Which Nmap scan is does not completely open a TCP connection?",
+    "choices": [
+      "SYN stealth scan",
+      "TCP connect",
+      "XMAS tree scan",
+      "ACK scan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_728",
+    "subject": "clinical_knowledge",
+    "question": "A patient has been on the operating table for four hours. How long may it take for any pressure damage to be visible?",
+    "choices": [
+      "12 hours.",
+      "72 hours.",
+      "24 hours.",
+      "5 days."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_1786",
+    "subject": "conceptual_physics",
+    "question": "In his special theory of relativity, Einstein stated that the laws of physics are",
+    "choices": [
+      "different in different situations.",
+      "common sense applied to microscopic and macroscopic things.",
+      "the same in all frames of reference.",
+      "the same in all uniformly moving frames of reference."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_2544",
+    "subject": "formal_logic",
+    "question": " Select the best English interpretation of the given arguments in predicate logic.\nWn ∨ Wm\n(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]\nLn • Dn\t/ ~(∀x)~Wx",
+    "choices": [
+      "Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is not at work.",
+      "Either Nancy or Marvin are at work. All lawyers are out to dinner if they are not at work. Nancy is a lawyer and out to dinner. So not everything is not at work.",
+      "Either Nancy or Marvin are at work. All lawyers are out to dinner if they are not at work. Nancy is a lawyer and out to dinner. So not everything is at work.",
+      "Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is at work."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_12515",
+    "subject": "professional_psychology",
+    "question": "The FACTORIAL ANOVA is used when study involves more than 1 IV. Which is the INTERACTION EFFECT of the Factorial Anova?",
+    "choices": [
+      "effect of an IV at diff levels of the other IVs",
+      "effect of 1 IV by itself",
+      "effect of more IV by themselves",
+      "effect of an IV at the same levels of the other IVs"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_2630",
+    "subject": "global_facts",
+    "question": "Different less developed countries have different levels of secondary school enrollment. Some countries with high secondary-school enrollment are, as of 2020,",
+    "choices": [
+      "Colombia, Peru, Uruguay, and Costa Rica.",
+      "Bhutan, Niger, Cambodia, and Costa Rica.",
+      "Uruguay, Costa Rica, Timor-Leste, and Pakistan.",
+      "Bhutan, Cambodia, Uruguay and Costa Rica."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13272",
+    "subject": "security_studies",
+    "question": "To what extent is TNC linked with terrorism, and in what ways?",
+    "choices": [
+      "There is growing evidence of direct partnerships between terrorist groups and transnational criminal organization resulting from the end of the Cold War and the need to secure new forms of financial sponsorship. For most terrorist groups criminal activity has been amongst the most important sources of funds with the diffusion of terrorist networks globally operating in correlation to the diffusion of illicit market activities.",
+      "The nexus between terrorist groups and criminal organizations are generally a temporary aberration. Differential long-term strategic goals meant that levels of cooperation were generally tactical temporary alliances that would have little pervasive effects.",
+      "There is increasing evidence over the convergence of terrorism and transnational crime, but there is no consensus about whether this phenomenon is a long-term strategic alliance or episodic \"marriages of convenience\".",
+      "All of these options."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_7026",
+    "subject": "management",
+    "question": "What is the term for decisions limited by human capacity to absorb and analyse information?",
+    "choices": [
+      "Cognitive rationality",
+      "Conscious rationality",
+      "Bounded rationality",
+      "Restricted rationality"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_10292",
+    "subject": "prehistory",
+    "question": "How does anthropology differ from other social sciences such as economics and sociology?",
+    "choices": [
+      "Anthropology is holistic and integrative in its approach.",
+      "Anthropology is less holistic and more theoretical in its approach.",
+      "Anthropology tends to focus on specific topics in history.",
+      "Anthropology is more narrowly focused than the other social sciences."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_936",
+    "subject": "college_chemistry",
+    "question": "Which of the following statements about nuclear binding energies is NOT true?",
+    "choices": [
+      "Binding energy per nucleon reaches a maximum for 56Fe.",
+      "Nuclear binding energies have about the same magnitude as chemical bond energies.",
+      "Nuclei have slightly less mass than the sum of their component nucleons.",
+      "The nuclei of heavy elements have more neutrons than protons in order to provide sufficient binding energy to hold the nuclei together."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_6458",
+    "subject": "international_law",
+    "question": "What dimension did the Kadi judgment introduce with respect to the incorporation of UN Security Council resolutions?",
+    "choices": [
+      "The Kadi judgment demanded that UNSC resolutions are construed in accordance with human rights",
+      "The Kadi judgment demanded that all UNSC resolutions be incorporated without any further implementing legislation",
+      "The Kadi judgment required that important UNSC resolutions be transformed and not merely incorporated",
+      "The Kadi judgment claimed that UNSC resolutions are not binding if they violate human rights"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_6396",
+    "subject": "human_sexuality",
+    "question": "Danny and Sandy are coworkers. Sandy sees Danny in the break room and says \"Hey Stud! Nice buns! Wanna do it?\" This would be considered harrassment if:",
+    "choices": [
+      "Sandy is Danny's supervisor",
+      "Danny has previously told Sandy that he does not appreciate her advances",
+      "Danny responds with \"Sure baby your office or mine?\"",
+      "both A and B"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_10284",
+    "subject": "prehistory",
+    "question": "Which of the following is NOT one of Joseph Tainter's proposed causes for the collapse of ancient civilizations?",
+    "choices": [
+      "resource depletion",
+      "economic decline",
+      "elite mismanagement",
+      "epidemic disease"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_7708",
+    "subject": "miscellaneous",
+    "question": "The common term for someone who has difficulty seeing objects in the distance is what?",
+    "choices": [
+      "farsighted",
+      "nearsighted",
+      "hindsighted",
+      "hypermetropic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_8452",
+    "subject": "moral_disputes",
+    "question": " Mill argues on that even a false opinion should not be censored because",
+    "choices": [
+      "no one actually knows anything.",
+      "you don't really know the true view unless you can explain why false views are false.",
+      "you don't really know whether or not anything is false.",
+      "All of the above."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_3950",
+    "subject": "high_school_macroeconomics",
+    "question": "If interest rates rise in the United States relative to other nations then",
+    "choices": [
+      "the value of the dollar will tend to appreciate.",
+      "the value of the dollar will tend to depreciate.",
+      "exchange rates will be affected but not the value of the dollar.",
+      "the exchange rate will not be affected."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_9643",
+    "subject": "nutrition",
+    "question": "Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate?\n",
+    "choices": [
+      "Folate",
+      "Niacin",
+      "Riboflavin",
+      "Thiamin"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_170",
+    "subject": "anatomy",
+    "question": "The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in",
+    "choices": [
+      "the capsule and ligaments of the TMJ and the medial pterygoid muscle.",
+      "the capsule and ligaments of the TMJ and the lateral pterygoid muscle.",
+      "the articular disc of the TMJ and the medial pterygoid muscle.",
+      "the articular disc of the TMJ and the lateral pterygoid muscle."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_13270",
+    "subject": "security_studies",
+    "question": "What kind of actors are involved in the defence trade?",
+    "choices": [
+      "The defence trade concerns legitimate business interaction between states procuring or selling military equipment.",
+      "Military organisations are the sole actors in the defence trade.",
+      "Not only state actors are involved in the defence trade. Non-state actors, including illegal groups, are also key players.",
+      "The defence trade refers solely to the trade in weapons and small arms that takes place outside the legal interactions between states."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_13807",
+    "subject": "virology",
+    "question": "The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:",
+    "choices": [
+      "Highest",
+      "Higher than all other ethnic groups except African-Americans",
+      "Higher than in all other ethnic groups except African-Americans and",
+      "Native Americans"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_1856",
+    "subject": "econometrics",
+    "question": "Which of the following statements is TRUE concerning the standard regression model?",
+    "choices": [
+      "y has a probability distribution",
+      "x has a probability distribution",
+      "The disturbance term is assumed to be correlated with x",
+      "For an adequate model, the residual (u-hat) will be zero for all sample data points"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13283",
+    "subject": "security_studies",
+    "question": "Which of the following statements is not applicable to the Securitization process?",
+    "choices": [
+      "Securitization reveals the power of the securitizing actor.",
+      "Where the securitizing actor is a democratic state, the relevant audience is usually the wider population who have the right to reject the speech act.",
+      "The adoption of extraordinary measures can retrospectively convince an audience of the existential threat.",
+      "Within authoritarian and other undemocratic regimes, the relevant political decision-making is often dominated by the military and political elite."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_9441",
+    "subject": "nutrition",
+    "question": "It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that\n",
+    "choices": [
+      "The frequent use of antiseptic swipes will reduce allergies",
+      "Living on a working farm will help reducing the development of atopic diseases",
+      "Particular care must be taken during breast feeding in high risk infants",
+      "Living on a working farm will increase the development of atopic diseases"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_4155",
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following is a tool used by the Fed to increase the money supply?",
+    "choices": [
+      "A lower discount rate.",
+      "Selling Treasury securities to commercial banks.",
+      "A higher reserve ratio.",
+      "A lower personal income tax rate."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_12724",
+    "subject": "professional_psychology",
+    "question": "A correct statement regarding the many different types of treatment available for alcohol abuse is that",
+    "choices": [
+      "community-based (halfway-house) treatments have greater efficacy than hospital-based (inpatient) treatments",
+      "no type of treatment has been shown to be effective",
+      "there is no established evidence to support the greater efficacy of any one technique overall others",
+      "all successful treatments depend in part upon techniques developed by Alcoholics Anonymous (AA)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_5274",
+    "subject": "high_school_psychology",
+    "question": "When a 17-year-old student is failing at school, which society would most likely hold the parents accountable?",
+    "choices": [
+      "United States of America",
+      "Canadian",
+      "Japanese",
+      "English"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_1806",
+    "subject": "econometrics",
+    "question": "Which one of the following is the most appropriate definition of a 99% confidence interval?",
+    "choices": [
+      "99% of the time in repeated samples, the interval would contain the true value of the parameter",
+      "99% of the time in repeated samples, the interval would contain the estimated value of the parameter",
+      "99% of the time in repeated samples, the null hypothesis will be rejected",
+      "99% of the time in repeated samples, the null hypothesis will not be rejected when it was false"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_4583",
+    "subject": "high_school_microeconomics",
+    "question": "With the presence of a negative externality, which of the following would internalize (or correct) the externality?",
+    "choices": [
+      "A government subsidy.",
+      "A government tax.",
+      "A lower price.",
+      "A higher level of output."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_7214",
+    "subject": "marketing",
+    "question": " What is the term used to describe how consistent or stable the ratings generated by a scale are?",
+    "choices": [
+      "Replication.",
+      "Pre-code.",
+      "Reliability.",
+      "Convenience."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_2609",
+    "subject": "global_facts",
+    "question": "As of 2015, what percentage of the global population over 15 years old was literate?",
+    "choices": [
+      "81%",
+      "86%",
+      "91%",
+      "96%"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_7525",
+    "subject": "miscellaneous",
+    "question": "Normally, S-P arrival intervals from a minimum of how many seismic stations are required to uniquely locate the epicenter of an earthquake?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_55",
+    "subject": "abstract_algebra",
+    "question": "Statement 1 | Every free abelian group is torsion free. Statement 2 | Every finitely generated torsion-free abelian group is a free abelian group.",
+    "choices": [
+      "True, True",
+      "False, False",
+      "True, False",
+      "False, True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13825",
+    "subject": "virology",
+    "question": "MERS has four special characteristics and here we have one exception - which is it?",
+    "choices": [
+      "Spread by faecal oral route",
+      "Aerosol droplet transmission",
+      "Reservoir in bats",
+      "A conduit to humans via camels"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_13791",
+    "subject": "virology",
+    "question": "Identify the most commonly used diagnostic technique in the virus laboratory:",
+    "choices": [
+      "Virus isolation in cell culture",
+      "Deep sequencing (NGS)",
+      "Reverse transcriptase (RT) PCR",
+      "Immuno-serology"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_4098",
+    "subject": "high_school_macroeconomics",
+    "question": "Assuming there is no statistical discrepancy a trade surplus must be offset elsewhere in the",
+    "choices": [
+      "current-account balance only",
+      "financial-account balance only",
+      "merchandise balance of trade only",
+      "current-account or financial-account only"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_8118",
+    "subject": "miscellaneous",
+    "question": "Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions?",
+    "choices": [
+      "White balance",
+      "Aperture",
+      "ISO speed",
+      "Shutter speed"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_2866",
+    "subject": "high_school_biology",
+    "question": "When water evaporates from the surface of a pond, what happens to the remaining liquid water?",
+    "choices": [
+      "The surface water cools.",
+      "The surface water warms.",
+      "The surface water temperature remains unchanged.",
+      "The pH of the remaining water decreases."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_8218",
+    "subject": "moral_disputes",
+    "question": " Lukianoff and Haidt argue that the disinvitation of certain speakers",
+    "choices": [
+      "is an example of mental filtering.",
+      "will only serve to promote intellectual homogeneity on college and universities.",
+      "will encourage students to disregard positive aspects of a person's history.",
+      "All of the above."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_1748",
+    "subject": "conceptual_physics",
+    "question": "A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+    "choices": [
+      "3 N",
+      "5 N",
+      "8 N",
+      "None of these"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_12470",
+    "subject": "professional_psychology",
+    "question": "The correction for attenuation formula is used to measure the impact of increasing:",
+    "choices": [
+      "a test’s reliability on its validity.",
+      "a test’s validity on its reliability.",
+      "the number of test items on the test’s validity.",
+      "the number of test items on the test’s reliability."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_4656",
+    "subject": "high_school_microeconomics",
+    "question": "At the birthday party of your best friend, you see Skylar help himself to a second piece of cake. For this individual, it must be the case that",
+    "choices": [
+      "the marginal benefit of the second piece of cake is less than the marginal cost.",
+      "the total benefit received from eating cake is falling.",
+      "the ratio of marginal benefit over marginal cost is less than one.",
+      "the marginal benefit of the second piece of cake is greater than the marginal cost."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_12696",
+    "subject": "professional_psychology",
+    "question": "When consulting with a colleague about a “therapeutic impasse” you are having with a therapy client:",
+    "choices": [
+      "it is always necessary to advise the client about the consultation.",
+      "it is necessary to get a signed waiver of confidentiality from the client before discussing confidential information with the consultant.",
+      "it is unnecessary to advise the client of the consultation as long as only information that is relevant to the impasse is discussed.",
+      "it is unnecessary to advise the client of the consultation as long as the client's identity is not revealed."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_10507",
+    "subject": "professional_accounting",
+    "question": "Which of the following pairs of elements must a client prove to hold an accountant liable for common law fraud?",
+    "choices": [
+      "Material misrepresentation and breach of contract.",
+      "Freedom from contributory negligence and loss.",
+      "Scienter and justifiable reliance.",
+      "Intent to deceive and privity."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_3153",
+    "subject": "high_school_chemistry",
+    "question": "What is the molecular mass of a gas that has a density of 2.05 g/L at 26.0 °C and 722 torr?",
+    "choices": [
+      "53.0 g/mol",
+      "46.7 g/mol",
+      "4.67 g/mol",
+      "2876 g/mol"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_6285",
+    "subject": "human_aging",
+    "question": "Older adults with higher education and self-esteem are more likely to be",
+    "choices": [
+      "Sexually active",
+      "Socially isolated",
+      "Lonely as they grow older",
+      "Married for a long time"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_2648",
+    "subject": "global_facts",
+    "question": "As of 2015, about what percentage of the world’s land area is forested?",
+    "choices": [
+      "15%",
+      "30%",
+      "45%",
+      "60%"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_9469",
+    "subject": "nutrition",
+    "question": "High intake of which of these dietary components predisposes to accelerated cognitive decline\n",
+    "choices": [
+      "High glycaemic index carbohydrates",
+      "A high n-6:n-3 fat ratio",
+      "Long chain saturated fats",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_8462",
+    "subject": "moral_disputes",
+    "question": " By recognizing that we have backup duties to donate to aid agencies, Ashford argues that we can",
+    "choices": [
+      "acknowledge the force of the criticism that effective altruism is at best a band-aid approach while diffusing this same criticism.",
+      "acknowledge that effective altruism fails to be the right response to global poverty.",
+      "feel relieved about our duties to the global poor, since backup duties are not morally urgent.",
+      "None of the above."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_11",
+    "subject": "abstract_algebra",
+    "question": "If A = {1, 2, 3} then relation S = {(1, 1), (2, 2)} is",
+    "choices": [
+      "symmetric only",
+      "anti-symmetric only",
+      "both symmetric and anti-symmetric",
+      "an equivalence relation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_10327",
+    "subject": "prehistory",
+    "question": "The key factor in the survival and success of anatomically modern human beings was:",
+    "choices": [
+      "their ability to control fire and produce art.",
+      "their ability to interbreed with other hominids.",
+      "their ability to hunt large mammals.",
+      "their ability to adapt."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_5064",
+    "subject": "high_school_psychology",
+    "question": "The most common form of Down syndrome results during sex cell formation and fertilization from",
+    "choices": [
+      "three copies of chromosome 19",
+      "three copies of chromosome 21",
+      "loss of a chromosome",
+      "failure of the separation of XX"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_7975",
+    "subject": "miscellaneous",
+    "question": "In what US city can you find the Basketball Hall of Fame?",
+    "choices": [
+      "Canton Ohio",
+      "Cooperstown New York",
+      "Springfield Massachusetts",
+      "Lawrence Kansas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_267",
+    "subject": "astronomy",
+    "question": "Venus shows evidence of which of the following surface processes?",
+    "choices": [
+      "Impacts",
+      "Erosion",
+      "Volcanism",
+      "A B and C"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_1809",
+    "subject": "econometrics",
+    "question": "Which of the following statements is false concerning the linear probability model?",
+    "choices": [
+      "There is nothing in the model to ensure that the estimated probabilities lie between zero and one",
+      "Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one",
+      "The error terms will be heteroscedastic and not normally distributed",
+      "The model is much harder to estimate than a standard regression model with a continuous dependent variable"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_6151",
+    "subject": "human_aging",
+    "question": "A researcher finds that age is negatively correlated with cigarette smoking; this means that",
+    "choices": [
+      "Older adults experience more negative effects from smoking that do younger adults",
+      "Older adults smoke more than younger adults",
+      "Older adults smoke less than younger adults",
+      "Older and younger adults smoke about the same number of cigarettes and both experience negative effects"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_4799",
+    "subject": "high_school_physics",
+    "question": "Two spheres of net charge +5e and -6e briefly come into contact. Afterward, which of the following is a possible combination of net charges for the two spheres?",
+    "choices": [
+      "+3e and -4e",
+      "+1.5e and -2.5e",
+      "Both of the above",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_3794",
+    "subject": "high_school_government_and_politics",
+    "question": "The Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?",
+    "choices": [
+      "The rights of students to protest on a publicly funded campus",
+      "In-class prayer at a publicly funded school",
+      "The rights of students to carry concealed weapons on campus",
+      "The use of racial quotas in public university admissions"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_863",
+    "subject": "college_biology",
+    "question": "Which of the following must be true in order for evolution to have occurred?",
+    "choices": [
+      "The frequencies of some alleles in a population's gene pool has changed over successive generations.",
+      "The frequencies of some alleles in a population's gene pool has changed during the organisms' lifetimes.",
+      "The frequencies of each allele in a population's gene pool has remained constant over successive generations.",
+      "The frequencies of each allele in an organism's genotype has remained constant within the organism's lifetime."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_3810",
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following best describes the Supreme Court's doctrine of incorporation?",
+    "choices": [
+      "Although the Constitution empowers the federal government to regulate international trade, states may establish boycotts of goods imported from countries that use child labor.",
+      "While the Congress creates laws, and the executive branch enacts and enforces those laws, only the Supreme Court may decide which laws and executive actions are unconstitutional.",
+      "The Fifth Amendment guarantees that an individual may not be deprived of life, liberty, or property without due process, and this protection provides a legal justification for those who do not wish to serve on a jury.",
+      "The Bill of Rights articulates certain rights in order to protect individuals from the federal government, and the Fourteenth Amendment extends most of those rights to protect individuals from the state governments as well."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_9889",
+    "subject": "philosophy",
+    "question": "According to the scripture that Butler discusses in Sermon One, human beings are:",
+    "choices": [
+      "independent and autonomous individuals.",
+      "all a part of one body.",
+      "all a part of God.",
+      "part of the animal kingdom."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_1267",
+    "subject": "college_medicine",
+    "question": "After what period of time does maximal dynamic exercise become predominantly aerobic?",
+    "choices": [
+      "10 seconds",
+      "30 seconds",
+      "1 minute",
+      "4 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_1419",
+    "subject": "college_physics",
+    "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?",
+    "choices": [
+      "2",
+      "250",
+      "5,000",
+      "10,000"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_13964",
+    "subject": "world_religions",
+    "question": " What is the title for the religious and administrative leaders who succeeded the Prophet?",
+    "choices": [
+      "Rasul",
+      "Nabi",
+      "Caliph",
+      "Mahdi"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_7942",
+    "subject": "miscellaneous",
+    "question": "The majority of calcium in the human body is found where?",
+    "choices": [
+      "Hair",
+      "Blood",
+      "Bones",
+      "Digestive tract"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_1025",
+    "subject": "college_computer_science",
+    "question": "Which of the following is NOT a property of bitmap graphics?",
+    "choices": [
+      "Fast hardware exists to move blocks of pixels efficiently.",
+      "Realistic lighting and shading can be done.",
+      "All line segments can be displayed as straight.",
+      "Polygons can be filled with solid colors and textures."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_8491",
+    "subject": "moral_disputes",
+    "question": " According to Aristotle, if something has a function, then its good depends on",
+    "choices": [
+      "its function.",
+      "its substance.",
+      "our beliefs about it.",
+      "cultural practices."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_2038",
+    "subject": "electrical_engineering",
+    "question": "The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is",
+    "choices": [
+      "3 / 2.",
+      "1 / 3.",
+      "2 / 3.",
+      "2 / 5."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_2083",
+    "subject": "elementary_mathematics",
+    "question": "A certain map uses a scale of 1 inch equals 25 miles. How many miles are represented by 5 inches on this map?",
+    "choices": [
+      "5",
+      "25",
+      "50",
+      "125"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_13016",
+    "subject": "professional_psychology",
+    "question": "Which of the following possible outcomes of an experiment is least informative",
+    "choices": [
+      "Statistical nonsignificance under low power",
+      "Statistical significance under low power",
+      "Statistical nonsignificance under high power",
+      "Statistical significance under high power"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_7802",
+    "subject": "miscellaneous",
+    "question": "Which of the following rocks would most likely form from the metamorphism of a shale?",
+    "choices": [
+      "Granite",
+      "Quartzite",
+      "Schist",
+      "Marble"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_9587",
+    "subject": "nutrition",
+    "question": "The effects of iron on certain aspects of socio-emotional development (shyness, orientation/engagement and response to unfamiliar pictures) is due to:\n",
+    "choices": [
+      "The role of iron in myelination",
+      "The role of iron in neurochemistry",
+      "The role of iron in dopamine production",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_2691",
+    "subject": "high_school_biology",
+    "question": "Mules are relatively long-lived and hardy organisms that cannot, generally speaking, perform successful meiosis. Consequently, which statement about mules is true?",
+    "choices": [
+      "They have a relative evolutionary fitness of zero.",
+      "Their offspring have less genetic variation than the parents.",
+      "Mutations cannot occur in their genomes.",
+      "If crossing-over happens in mules, then it must be limited to prophase of mitosis."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_4130",
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following policies might the Fed adopt to counter a recession?",
+    "choices": [
+      "A decrease in taxes",
+      "An increase in government spending",
+      "An increase in the discount rate",
+      "The purchase of bonds"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_8435",
+    "subject": "moral_disputes",
+    "question": " According to Macedo, we have special obligations to our fellow citizens arising from",
+    "choices": [
+      "our relationships to noncitizens.",
+      "consequentialist duties to promote the greatest good for the greatest number.",
+      "membership in a legitimate self-governing community.",
+      "nothing; we do not have special obligations to fellow citizens."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_10461",
+    "subject": "professional_accounting",
+    "question": "Within the COSO Internal Control—Integrated Framework, which of the following components is designed to ensure that internal controls continue to operate effectively?",
+    "choices": [
+      "Control environment.",
+      "Risk assessment.",
+      "Information and communication.",
+      "Monitoring."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_7042",
+    "subject": "management",
+    "question": "Vertical integration forwards is when a firm mergers or acquires another",
+    "choices": [
+      "Towards the source of supply",
+      "Towards the consumer",
+      "At the same stage of the supply chain",
+      "In another industry"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_3515",
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT an example of syncretism?",
+    "choices": [
+      "Halloween",
+      "Foreign cuisine changed to suit American tastes",
+      "Hasidic Judaism",
+      "Catholicism in Louisiana"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_9468",
+    "subject": "nutrition",
+    "question": "Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:\n",
+    "choices": [
+      "severe atopic dermatitis",
+      "enterocolitis",
+      "diarrhoea",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_13939",
+    "subject": "world_religions",
+    "question": "According to the Sikh tradition, the Mul Mantar illuminates the nature of what?",
+    "choices": [
+      "Ultimate Reality",
+      "The gurus",
+      "The community",
+      "Sikh worship"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13367",
+    "subject": "security_studies",
+    "question": "Which of the following is an important reason to advocate the process of desecuritization?",
+    "choices": [
+      "To prevent the erosion of established civil liberties through the removal of special rights and the cessation of extraordinary measures.",
+      "To prevent stagnation of the security realm and facilitate the recognition and securitization of new or more urgent existential threats.",
+      "To prevent the securitization of irrelevant threats and to challenge the legitimacy of currently securitized threats.",
+      "To ensure that securitizing actors conceptualise security threats in terms of those that can be addressed using extraordinary measures."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_3190",
+    "subject": "high_school_computer_science",
+    "question": "A program is expressed in a programming language. Which of the following is true of the program?",
+    "choices": [
+      "The program can also be expressed as binary code, but will be more easily understood by humans when expressed in a higher-level programming language.",
+      "The program can also be expressed as binary code, which will reduce the likelihood of errors.",
+      "The program cannot be expressed as binary code, because binary code can only be used to represent data.",
+      "Some parts of the program can be expressed as binary code, but operations must be expressed using a higher-level programming language."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13693",
+    "subject": "us_foreign_policy",
+    "question": "How did the relationship between President and Congress develop under George H.W. Bush and Bill Clinton?",
+    "choices": [
+      "Congress asserted its primacy in foreign policy",
+      "US foreign policy became substantially decentralized",
+      "The Presidency welcomed the influence of Congress",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_4891",
+    "subject": "high_school_psychology",
+    "question": "The precedent established in Larry P. v. Riles resulted in",
+    "choices": [
+      "the provision of a free, appropriate public education for students with disabilities",
+      "the provision of bilingual education for English-language learners",
+      "schools being held responsible for providing tests that do not discriminate on the basis of race",
+      "the assignment of similar funding to athletic activities for boys and girls"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_6646",
+    "subject": "jurisprudence",
+    "question": "Which of the following apparent correlatives contradicts Hohfeld's scheme of 'jural relations'?",
+    "choices": [
+      "Right and duty.",
+      "Privilege and no-right.",
+      "Power and liability.",
+      "Immunity and disability."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_13182",
+    "subject": "security_studies",
+    "question": "What has been the effect of biological weapons on national security in the international community?",
+    "choices": [
+      "The West, notably Canada, Britain, and the US, have conducted research into the weaponization of Anthrax, Tularemia, Q-fever, Venezuelan equine encephalitis, and anti-agricultural agents. However biological weapons were generally viewed in the West as lacking military utility. Instead strategists have concentrated on nuclear and conventional capabilities.",
+      "The Soviet Union carried out the most extensive research program into genetic engineering to weaponize naturally occurring diseases. However, the Soviets most likely saw their biological weapons program as a counter to the global-strike complex that was emerging in NATO in the 1970s or as a way to inhibit recovery in a nuclear exchange. Biological weapons programs should therefore be regarded in a Cold War context.",
+      "Biological weapons make use of living organisms or toxins to weaken or kill, but because these organisms and toxins occur in nature it makes it difficult to differentiate between naturally occurring disease and subversive activities which, moreover, make a state's capacity hard to verify.",
+      "All of these options."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_12863",
+    "subject": "professional_psychology",
+    "question": "The following are methods of increasing reliability and validity in qualitative research designs, EXCEPT:",
+    "choices": [
+      "Triangulation",
+      "Audits",
+      "Inductive processes",
+      "Member checking"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_6277",
+    "subject": "human_aging",
+    "question": "A problem in comparing older adults' memory for recent events and events that happened a long time ago is that recent events",
+    "choices": [
+      "May be very well rehearsed",
+      "Are far more meaningful",
+      "Have no denominator to help in computing an average",
+      "Can be verified while older events often cannot"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_7281",
+    "subject": "marketing",
+    "question": "Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers?",
+    "choices": [
+      "Use of an undifferentiated one-size-fits-all marketing strategy.",
+      "Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market.",
+      "Variations in product offerings to suit the wants of a particular group.",
+      "Study of ethnic buying habits to isolate market segments."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_8319",
+    "subject": "moral_disputes",
+    "question": " Since we who live in wealthy countries have directly caused harm, Pogge argues that we have very stringent",
+    "choices": [
+      "libertarian duties towards the global poor",
+      "positive duties towards the global poor",
+      "negative dutiestowards the global poor",
+      "egalitarian duties towards the global poor."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_7489",
+    "subject": "miscellaneous",
+    "question": "Which of the following best helps explain why volcanoes tend to form along subduction zones?",
+    "choices": [
+      "Rock material carried deep below Earth's surface results in material melting and rising to the surface.",
+      "Two plates pull away from each other, and magma oozes out.",
+      "The friction resulting from the collision of two continents causes rock to melt.",
+      "There is a row of hot spots at these boundaries."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_1962",
+    "subject": "electrical_engineering",
+    "question": "What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?",
+    "choices": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_3906",
+    "subject": "high_school_macroeconomics",
+    "question": "If XYZ Corporation buys an original Matisse painting to hang in its board room then",
+    "choices": [
+      "GDP decreases by the amount of the purchase because C decreases.",
+      "GDP increases by the amount of the purchase because I increases.",
+      "GDP is unaffected because it is a second hand sale.",
+      "GI)P decreases because I decreases."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_3651",
+    "subject": "high_school_government_and_politics",
+    "question": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the",
+    "choices": [
+      "vice president",
+      "president's chief of staff",
+      "national security advisor",
+      "chair of the Federal Reserve Board"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_944",
+    "subject": "college_chemistry",
+    "question": "Which of the following experimental observations were explained by Planck’s quantum theory?",
+    "choices": [
+      "Blackbody radiation curves",
+      "Emission spectra of diatomic molecules",
+      "Electron diffraction patterns",
+      "Temperature dependence of reaction rates"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_5247",
+    "subject": "high_school_psychology",
+    "question": "In a team tug of war, Ty did not pull as hard as he would have if he were pulling alone against one competitor. His behavior exemplifies",
+    "choices": [
+      "deindividuation",
+      "groupthink",
+      "social loafing",
+      "bystander effect"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_289",
+    "subject": "astronomy",
+    "question": "Which of the following is/are NOT caused by orbital resonance?",
+    "choices": [
+      "2:3 periodic ratio of Neptune:Pluto",
+      "Kirkwood Gaps.",
+      "Gaps in Saturn's rings.",
+      "Breaking of small Jovian moons to form ring materials."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_10186",
+    "subject": "prehistory",
+    "question": "What do we know about the people who built Stonehenge based on the analysis of animal teeth from a nearby village?",
+    "choices": [
+      "They raised livestock at the site, including cattle, sheep, and goats.",
+      "They brought animals to the site from outside of the region.",
+      "They had no domesticated animals but hunted wild animals for meat.",
+      "They hunted antelope, gazelle, and bear."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_9653",
+    "subject": "nutrition",
+    "question": "What are the limitations of food balance sheets? (select all that apply)?\n",
+    "choices": [
+      "No account is taken of waste or losses of food",
+      "Consumption estimates give higher values than those derived from other types of surveys",
+      "No information is available on the distribution of consumption within a country",
+      "All of the options given are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_3704",
+    "subject": "high_school_government_and_politics",
+    "question": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
+    "choices": [
+      "college attendance in a state other than one's home state",
+      "frequent relocation of one's primary residence",
+      "the remoteness of most political issues to the daily lives of young people",
+      "the fact that the minimum voting age in some states is 21"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_10187",
+    "subject": "prehistory",
+    "question": "Evidence from the modern human genome suggests that genes inherited from Neandertals:",
+    "choices": [
+      "are universally beneficial to modern humans.",
+      "control the metabolism of fat in modern Europeans.",
+      "are associated with human diseases such as Lupus.",
+      "both b and c."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_3607",
+    "subject": "high_school_geography",
+    "question": "Urban agriculture can benefit urban society in all of the following ways EXCEPT",
+    "choices": [
+      "create sustainable food systems in urban areas.",
+      "provide jobs for women and children.",
+      "turn urban waste into a resource when utilized in safe manner.",
+      "replace agribusiness as the main focus of global food production."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_121",
+    "subject": "anatomy",
+    "question": "In relation to the rib, the corresponding intercostal nerve lies",
+    "choices": [
+      "deep to its superior border.",
+      "superficial to its superior border.",
+      "deep to its inferior border.",
+      "superficial to its inferior border."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_1072",
+    "subject": "college_computer_science",
+    "question": "Let A be a finite set with m elements, and let B be a finite set with n elements. The number of distinct functions mapping A into B is",
+    "choices": [
+      "n^m",
+      "n!/(n - m)!",
+      "n!",
+      "n!/(m!(n - m)!)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13641",
+    "subject": "us_foreign_policy",
+    "question": "Why did Americans believe that they could found a different kind of empire after 1776?",
+    "choices": [
+      "This would be an 'empire of liberty'",
+      "This empire would be multi-cultural",
+      "This type of empire would be based on expansion",
+      "This would be empire free of slavery"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_12562",
+    "subject": "professional_psychology",
+    "question": "As described by Kobasa et al. (1982), the personality characteristic of hardiness is characterized by which of the following?",
+    "choices": [
+      "conﬁdence, competence, and control",
+      "commitment, challenge, and control",
+      "common sense, commitment, and capability",
+      "capability, challenge. and commitment"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_875",
+    "subject": "college_biology",
+    "question": "An organism belonging to the nekton is which one of the following?",
+    "choices": [
+      "Whale",
+      "Barnacle",
+      "Cyanobacterium",
+      "Protist"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_3692",
+    "subject": "high_school_government_and_politics",
+    "question": "Of the following interest groups, which has created the largest number of political action committees (PACs) since the 1970s?",
+    "choices": [
+      "Environmental activists",
+      "Labor unions",
+      "For-profit business",
+      "Religious institutions"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_990",
+    "subject": "college_chemistry",
+    "question": "In the vibrational-rotational spectrum of a diatomic molecule, the R-branch of the spectrum is the result of which of the following transitions?",
+    "choices": [
+      "ΔJ = 0; Δu = 0",
+      "ΔJ = 1; Δu = 0",
+      "ΔJ = 2; Δu = 0",
+      "ΔJ = 1; Δu = 1"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_490",
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is NOT a symptom of anaphylaxis?",
+    "choices": [
+      "Stridor.",
+      "Bradycardia.",
+      "Severe wheeze.",
+      "Rash."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "mmlu_5146",
+    "subject": "high_school_psychology",
+    "question": "Why might a researcher use a variable ratio of reinforcement rather than a fixed ratio?",
+    "choices": [
+      "Fixed ratio schedules of reinforcements are more time intensive.",
+      "Variable ratio schedules of reinforcements produce results more quickly.",
+      "Variable ratio schedules of reinforcements avoid problems such as generalization and the Premack principle.",
+      "Variable ratio schedules of reinforcement are more resistant to extinction than fixed schedules."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_1071",
+    "subject": "college_computer_science",
+    "question": "Hash tables can contribute to an efficient average-case solution for all of the problems described below EXCEPT:",
+    "choices": [
+      "Counting distinct values: Given a set of n keys, determine the number of distinct key values.",
+      "Dynamic dictionary: Support the operations of insert, delete, and search in a dictionary.",
+      "Range search: Given values a and b, find all the records whose key value is in the range a, b.",
+      "Symbol table lookup: Given a program identifier, find its type and address."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_8279",
+    "subject": "moral_disputes",
+    "question": " Kant's humanity formulation of the categorical imperative makes it impermissible for us to, he argues,",
+    "choices": [
+      "sell one of our teeth.",
+      "engage in prostitution.",
+      "both A and B",
+      "Neither A nor B"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_3778",
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following correctly states the relationship between the federal and state judiciaries?",
+    "choices": [
+      "Federal courts are higher courts than state courts and may overturn state decisions on any grounds.",
+      "The two are entirely autonomous, and neither ever hears cases that originate in the other.",
+      "The two are generally autonomous, although federal courts may rule on the constitutionality of state court decisions.",
+      "State courts are trial courts; federal courts are appeals courts."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_4345",
+    "subject": "high_school_mathematics",
+    "question": "A point in space $(x,y,z)$ is randomly selected so that $-1\\le x \\le 1$,$-1\\le y \\le 1$,$-1\\le z \\le 1$. What is the probability that $x^2+y^2+z^2\\le 1$?",
+    "choices": [
+      "\\frac{\\pi}{24}",
+      "\\frac{\\pi}{12}",
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_13155",
+    "subject": "public_relations",
+    "question": "Which of the following information about publications does the Audit Bureau of Circulation NOT provide?",
+    "choices": [
+      "Circulation",
+      "Distribution",
+      "Traffic",
+      "Readership"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_7934",
+    "subject": "miscellaneous",
+    "question": "Which of the following people would benefit most if the value of the United States dollar increased relative to the Japanese yen?",
+    "choices": [
+      "A United States car dealer importing Japanese cars",
+      "A Japanese tourist vacationing in the United States",
+      "A worker in the United States beer industry",
+      "A Japanese baker buying United States wheat"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_3544",
+    "subject": "high_school_geography",
+    "question": "Part of the boundary between the United States and Mexico is the Rio Grande, an example of",
+    "choices": [
+      "a water divider.",
+      "a watercourse.",
+      "an artificial boundary.",
+      "a natural boundary."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_2156",
+    "subject": "elementary_mathematics",
+    "question": "A zoo has 15 toucans and 60 parrots. What is the ratio of the number of toucans to the number of parrots at the zoo?",
+    "choices": [
+      "1:04",
+      "1:05",
+      "4:01",
+      "4:05"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_13837",
+    "subject": "virology",
+    "question": "The surveillance testing strategy associated with the least selection bias is:",
+    "choices": [
+      "Compulsory",
+      "Unlinked anonymous",
+      "Voluntary anonymous",
+      "Voluntary confidential"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "mmlu_9965",
+    "subject": "philosophy",
+    "question": "Epictetus claims that when someone strikes you, what really angers you is:",
+    "choices": [
+      "the force of the blow.",
+      "their malicious intentions.",
+      "your own judgment.",
+      "the insult involved."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "mmlu_10047",
+    "subject": "prehistory",
+    "question": "Which of the following is used to remove the soil enclosing site materials?",
+    "choices": [
+      "brushes",
+      "trowels",
+      "dental picks",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "mmlu_7768",
+    "subject": "miscellaneous",
+    "question": "What was the name of the 1999 art exhibit that sparked a national debate about censorship?",
+    "choices": [
+      "Sticks & Stones'",
+      "Pulsation'",
+      "Black & White'",
+      "Sensation'"
+    ],
+    "answer": 3
+  }
+]

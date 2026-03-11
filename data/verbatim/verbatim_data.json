@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 6146,
+    "subject": "human_aging",
+    "question": "The biggest and most dangerous changes in the cardiovascular system take place in the",
+    "choices": [
+      "Heart",
+      "Blood vessels",
+      "Red blood cells",
+      "Plasma"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7861,
+    "subject": "miscellaneous",
+    "question": "Which of these magazines does not focus on natural science?",
+    "choices": [
+      "Tiger Beat",
+      "Outside",
+      "National Geographic",
+      "Smithsonian"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 1685,
+    "subject": "conceptual_physics",
+    "question": "As entropy in a system increases, energy in the system",
+    "choices": [
+      "becomes more ordered",
+      "becomes less ordered",
+      "reaches equilibrium",
+      "moves toward destruction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9791,
+    "subject": "philosophy",
+    "question": "In the case of the debtors, the moral argument against imprisoning A relies on:",
+    "choices": [
+      "fear.",
+      "universalizability.",
+      "considerations of the consequences of doing so.",
+      "all of the above."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4975,
+    "subject": "high_school_psychology",
+    "question": "The scores of Brian's team on the quiz were: 8, 6, 9, 7, 10, 9, 5, 4, 9. The median of the team's scores is",
+    "choices": [
+      "9",
+      "8",
+      "7.5",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2208,
+    "subject": "elementary_mathematics",
+    "question": "Joe and Mike both ran the samerace. Joe finished the race 4 minutes before Mike. If Mike finished the race at 4:02 p.m., what time did Joe finish the race?",
+    "choices": [
+      "3:58 p.m.",
+      "4:06 p.m.",
+      "8:02 p.m.",
+      "12:02 p.m."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4036,
+    "subject": "high_school_macroeconomics",
+    "question": "Higher levels of consumer wealth and optimism would likely have which of the following changes in the market for loanable funds? MARKET FOR LOANABLE FUNDS \u00a0\u00a0\u00a0 INTEREST RATE",
+    "choices": [
+      "Increase in supply \u00a0\u00a0\u00a0 Rising",
+      "Increase in demand \u00a0\u00a0\u00a0 Buying Rising",
+      "Decrease in demand \u00a0\u00a0\u00a0 Falling",
+      "Decrease in supply \u00a0\u00a0\u00a0 Rising"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13176,
+    "subject": "security_studies",
+    "question": "How can the origins of weak state insecurity be explained?",
+    "choices": [
+      "Weak state insecurity in a historical framework of analysis represents an abnormal state in the long term state-building process. Bloody and violent conflict between social forces is not consistent with the presence of the centralizing force with the capacity to attain monopoly of control over violence.",
+      "The utility of explaining weak state insecurity with a comparison to the historical conditions of state consolidation in Europe does not stand in the contemporary context of global society because of the pervasion of international norms to prevent violent conflict from manifesting in the consolidation process.",
+      "The contemporary state-building condition is constrained by the shortened time-frame operating within the established guidelines of international norms, a particular problematic rule of which is sovereignty. Thus, unlike some European entities which could not complete the state-building process and were absorbed into more viable units, weak states will remain quasi entities.",
+      "Weak state insecurity originated from the denial of sovereignty as the norm and the corresponding extension of the right to inviolability of statehood. Without protection under international laws the possibility of its national status being revoked and its territory being subsumed into another state threatens the consolidation of the state-building process."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11022,
+    "subject": "professional_law",
+    "question": "Client thinks she has been slandered. What of the following is not true about slander?",
+    "choices": [
+      "It is spoken defamation.",
+      "Plaintiff has to prove special damages, unless it falls into slander per se.",
+      "The statement does not have to be published if it constitutes slander per se.",
+      "There are four slander per se categories."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12541,
+    "subject": "professional_psychology",
+    "question": "Studies of persons in their 70s, 80s, and 90s indicate thar intellectual functioning is most closely related to",
+    "choices": [
+      "social support",
+      "life experience",
+      "chronological age",
+      "health status"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3985,
+    "subject": "high_school_macroeconomics",
+    "question": "Output in country A is 1200 units and its population is 100 persons. Output in country B is 2400 units and its population is 400 persons.",
+    "choices": [
+      "Country A has a higher standard of living than country B.",
+      "Country A has a lower standard of living than country B.",
+      "Country A and B have identical living standards.",
+      "Country A is less productive than country B."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13876,
+    "subject": "world_religions",
+    "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?",
+    "choices": [
+      "Harmony and balance",
+      "Devotion and piety",
+      "Love and passion",
+      "Goodwill and love"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10167,
+    "subject": "prehistory",
+    "question": "Unequivocal evidence for art as symbolic expression dates from as early as:",
+    "choices": [
+      "95,000 BP, at Dolni Vestonice.",
+      "77,000 BP, at Blombos Cave.",
+      "50,000 BP, at Des Moines, IA.",
+      "36,000 BP, at Wharton Hill."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13105,
+    "subject": "public_relations",
+    "question": "Which of the following information about publications does the Audit Bureau of Circulation NOT provide?",
+    "choices": [
+      "Circulation",
+      "Distribution",
+      "Traffic",
+      "Readership"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10447,
+    "subject": "professional_accounting",
+    "question": "Which of the following is considered part of the required supplementary information for general purpose external financial reporting of a local government?",
+    "choices": [
+      "Fund financial statement.",
+      "Combining nonmajor fund statement.",
+      "Notes to the financial statements.",
+      "Management discussion and analysis."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4257,
+    "subject": "high_school_mathematics",
+    "question": "A relative maximum value of the function y = (ln x)/x is",
+    "choices": [
+      "1",
+      "e",
+      "2/e",
+      "1/e"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4108,
+    "subject": "high_school_macroeconomics",
+    "question": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+    "choices": [
+      "Expansionary policy would only worsen the recession.",
+      "Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate.",
+      "Contractionary policy is the appropriate stimulus for investment and consumption.",
+      "If the demand for money is perfectly elastic expansionary monetary policy might be quite effective."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4529,
+    "subject": "high_school_microeconomics",
+    "question": "When a negative externality exists as the result of the production of a good, the socially optimal quantity of output could be achieved by",
+    "choices": [
+      "free market capitalism",
+      "placing limits on the quantity that can be produced",
+      "government purchases of the good",
+      "setting a minimum on the quantity that can be produced"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4825,
+    "subject": "high_school_physics",
+    "question": "A man stands with his hands to his sides on a frictionless platform that is rotating. Which of the following could change the angular momentum of the man-platform system?",
+    "choices": [
+      "The man catches a baseball thrown to him by a friend.",
+      "The man thrusts his arms out away from his body",
+      "The man thrusts his arms out away from his body, and then quickly brings his arms back to his side again.",
+      "The man jumps straight up in the air and lands back on the platform."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 1820,
+    "subject": "econometrics",
+    "question": "Negative residual autocorrelation is indicated by which one of the following?",
+    "choices": [
+      "A cyclical pattern in the residuals",
+      "An alternating pattern in the residuals",
+      "A complete randomness in the residuals",
+      "Residuals that are all close to zero"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13692,
+    "subject": "us_foreign_policy",
+    "question": "How do Ideational approaches to US foreign policy during the Cold War differ from Realist accounts of the same period?",
+    "choices": [
+      "They place greater emphasis on economic factors",
+      "They place greater emphasis on material interests and power",
+      "They place greater emphasis on ideology and beliefs",
+      "They place greater emphasis on geopolitics"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 102,
+    "subject": "anatomy",
+    "question": "Which of the following best describes the structure that collects urine in the body?",
+    "choices": [
+      "Bladder",
+      "Kidney",
+      "Ureter",
+      "Urethra"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13124,
+    "subject": "public_relations",
+    "question": "There are three basic types of persuasive advertising campaigns. Which of the following is NOT one of them?",
+    "choices": [
+      "Product-oriented",
+      "Person-oriented",
+      "Idea-oriented",
+      "Result-oriented"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 793,
+    "subject": "college_biology",
+    "question": "The following pairs were placed in solution together. Which two could be separated by performing low-speed centrifugation?",
+    "choices": [
+      "DNA and mRNA",
+      "Nuclei and secretory vesicles",
+      "Golgi apparatus and endoplasmic reticulum",
+      "Lysosomes and endosomes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13922,
+    "subject": "world_religions",
+    "question": " After what event did the Rabbinical period begin within Judaism?",
+    "choices": [
+      "Construction of the Second Temple",
+      "Destruction of the Second Temple",
+      "The Christianization of the Roman Empire",
+      "The emergence of Islam"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3608,
+    "subject": "high_school_geography",
+    "question": "Which one of the following organizations is NOT a supranational organization?",
+    "choices": [
+      "UN",
+      "NATO",
+      "ASEAN",
+      "PLO"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3674,
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following is NOT true of executive orders?",
+    "choices": [
+      "Presidents avoid using executive orders for controversial actions.",
+      "Executive orders have the same effect as laws passed by Congress.",
+      "Presidents have made increased use of executive orders since the 1970s.",
+      "Executive orders bypass congressional approval."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3822,
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following CANNOT limit the influence of the federal courts?",
+    "choices": [
+      "A constitutional amendment to the contrary of a court decision",
+      "The impeachment of a federal judge",
+      "A governor's failure to enforce a court decision",
+      "A national election recalling an unpopular judge"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13544,
+    "subject": "sociology",
+    "question": "Which of the following is not recognised as a level of society?",
+    "choices": [
+      "the household",
+      "the office",
+      "the global village",
+      "the nation state"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 1589,
+    "subject": "conceptual_physics",
+    "question": "When you squeeze an air-filled party balloon, you increase its",
+    "choices": [
+      "volume",
+      "mass",
+      "weight",
+      "density"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 1737,
+    "subject": "conceptual_physics",
+    "question": "The magnetic force on a moving charged particle can change the particle's",
+    "choices": [
+      "speed",
+      "direction",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3049,
+    "subject": "high_school_chemistry",
+    "question": "PCl3(g) + Cl2(g) \u2194 PCl5(g) \u0394H = -92.5 kJ/mol In which of the following ways could the reaction above be manipulated to create more product?",
+    "choices": [
+      "Decreasing the concentration of PCl3",
+      "Increasing the pressure",
+      "Increasing the temperature",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7675,
+    "subject": "miscellaneous",
+    "question": "After Prince Charles who is next in line to be the king of England?",
+    "choices": [
+      "Prince William",
+      "Prince Andrew",
+      "Prince Edward",
+      "Fresh Prince"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10073,
+    "subject": "prehistory",
+    "question": "What do anthropologists NOT need to know to determine when people entered the Americas from Siberia?",
+    "choices": [
+      "When sled dogs were first domesticated",
+      "When the Bering Strait was exposed and open for travel",
+      "When eastern Siberia was first inhabited",
+      "The age of the earliest New World sites"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3483,
+    "subject": "high_school_geography",
+    "question": "The largest Hindu temple complex ever constructed is found in",
+    "choices": [
+      "Calcutta.",
+      "Bombay.",
+      "Cambodia.",
+      "Bali."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8470,
+    "subject": "moral_disputes",
+    "question": " If the killing/letting die distinction is morally relevant, then that would show that the following distinction is also morally relevant:",
+    "choices": [
+      "killing/murder",
+      "physician/patient",
+      "active/passive euthanasia",
+      "involuntary/nonvoluntary euthanasia"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2141,
+    "subject": "elementary_mathematics",
+    "question": "Cat food costs $.47/lb. How much does a 6-lb bag cost?",
+    "choices": [
+      "$2.82 ",
+      "$2.97 ",
+      "$6.47 ",
+      "$12.77 "
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5229,
+    "subject": "high_school_psychology",
+    "question": "Which of the following statements is true about the relationship between reliability and validity?",
+    "choices": [
+      "Reliability and validity are mutually exclusive: a test can be reliable or valid, but it can't be both.",
+      "If a test is reliable, then it is valid, but if a test is not reliable, it cannot be valid.",
+      "Validity is a concept related to achievement tests, and reliability is the corresponding concept related to aptitude tests.",
+      "A test can be reliable but not valid."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13608,
+    "subject": "us_foreign_policy",
+    "question": "Who was the first American president to visit communist China?",
+    "choices": [
+      "Richard Nixon",
+      "George H. W. Bush",
+      "Jimmy Carter",
+      "Ronald Reagan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 165,
+    "subject": "anatomy",
+    "question": "Which of the following muscles are derived from the first brachial arch?",
+    "choices": [
+      "The muscles of mastication",
+      "The muscles of mastication and anterior belly of digastric",
+      "The muscles of mastication and anterior and posterior bellies of digastric",
+      "The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6618,
+    "subject": "jurisprudence",
+    "question": "Which statement below is the least consistent with the argument that judges in an unjust legal system ought to resign?",
+    "choices": [
+      "Judges are under a duty to act justly.",
+      "Since they also prop up the unjust system, lawyers should also resign.",
+      "If a moral judge resigns, he or she may be replaced by a less moral judge.",
+      "Judges do not make the law, hence they cannot be held responsible for applying unjust legislation."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6563,
+    "subject": "international_law",
+    "question": "What are the criteria for statehood under the 1933 Montevideo Convention?",
+    "choices": [
+      "It requires that the entity in question is not an aggressor and that it is peaceful",
+      "It requires recognition by the majority of other nations",
+      "It requires a permanent population, a defined territory, a government and a capacity to enter into foreign relations",
+      "It requires stable and indissoluble borders as well as recognition"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7065,
+    "subject": "marketing",
+    "question": "A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called:",
+    "choices": [
+      "Search marketing.",
+      "Internet advertising.",
+      "Permission-based email marketing.",
+      "Social web marketing."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3743,
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following statements about voting populations is most accurate?",
+    "choices": [
+      "Individuals are less likely to vote in a closely contested race.",
+      "Voters are more likely to vote at age 18 than they are at age 65.",
+      "An individual with a graduate degree is more likely to vote than an individual who has only a high school diploma.",
+      "Affluent individuals are less likely to vote than impoverished individuals."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6709,
+    "subject": "logical_fallacies",
+    "question": "\"The minor premise must affirm the antecedent or deny the consequent\" is a way to determine the validity of which type of argument?",
+    "choices": [
+      "Categorical syllogism",
+      "Disjunctive syllogism",
+      "Hypothetical syllogism",
+      "Toulmin model"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10384,
+    "subject": "professional_accounting",
+    "question": "Which of the following factors should an external auditor obtain updated information about when assessing an internal auditor\u2019s competence?",
+    "choices": [
+      "The reporting status of the internal auditor within the organization.",
+      "The educational level and professional experiences of the internal auditor.",
+      "Whether policies prohibit the internal auditor from auditing areas where relatives are employed.",
+      "Whether the board of directors, audit committee, or owner-manager oversees employment decisions related to the internal auditor."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7671,
+    "subject": "miscellaneous",
+    "question": "Which brand of cat food claims it's so tasty that 'cats ask for it by name'?",
+    "choices": [
+      "Fancy Feast",
+      "Cat Chow",
+      "Meow Mix",
+      "9-Lives"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6474,
+    "subject": "international_law",
+    "question": "What was the outcome before the European Court of Human Rights in the Al-Adsani case?",
+    "choices": [
+      "The Court held that the right to a fair trial trumped the privilege of immunity",
+      "The Court held that immunity trumped the right to a fair trial",
+      "The Court held that immunities were not in conflict with the right to a fair trial",
+      "The Court held that human rights considerations prevailed over all other contrary rules of international law, including most immunities"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2511,
+    "subject": "formal_logic",
+    "question": " Select the best translation into predicate logic:: Some blue herons migrate.",
+    "choices": [
+      "(\u2200x)[(Hx \u2022 Bx) \u2022 Mx]",
+      "(\u2203x)[(Hx \u2022 Bx) \u2283 Mx]",
+      "(\u2200x)[(Hx \u2022 Bx) \u2283 Mx]",
+      "(\u2203x)[(Hx \u2022 Bx) \u2022 Mx]"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13995,
+    "subject": "world_religions",
+    "question": " Which of the following is the timespan for Japan's closure to Christianity and Europe?",
+    "choices": [
+      "1749-1945",
+      "1052-1616",
+      "1641-1853",
+      "1517-1870"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5153,
+    "subject": "high_school_psychology",
+    "question": "A major advantage of standardized normreferenced assessment, as compared with curriculum-based assessment, is that standardized norm-referenced tests",
+    "choices": [
+      "are more tailored to the specific curriculum",
+      "provide a greater capacity to evaluate students in terms of large groups of grade-level peers",
+      "yield more information on whether students have mastered units that are prerequisites for future work",
+      "provide more information on the interplay between the students' learning environment and skills"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7062,
+    "subject": "marketing",
+    "question": "Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as:",
+    "choices": [
+      "Winner's curse.",
+      "Winner's price.",
+      "Winner's reward.",
+      "Loss-leader pricing."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 1471,
+    "subject": "computer_security",
+    "question": "Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following program?",
+    "choices": [
+      "Generational",
+      "Blackbox",
+      "Whitebox",
+      "Mutation-based"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3110,
+    "subject": "high_school_chemistry",
+    "question": "Of the following oxo acids, which is predicted to be the strongest acid?",
+    "choices": [
+      "HBrO",
+      "HClO",
+      "HIO",
+      "HClO3"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10183,
+    "subject": "prehistory",
+    "question": "Which commonly used name for a culture was borrowed from another Native American language and literally means \u201cancient enemies\u201d?",
+    "choices": [
+      "Kwakiutl",
+      "Hohokam",
+      "Anasazi",
+      "Mogollon"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7191,
+    "subject": "marketing",
+    "question": "Salespeople who view a situation as a customer sees it are exhibiting",
+    "choices": [
+      "cooperation",
+      "empathy",
+      "responsibility",
+      "tolerance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2460,
+    "subject": "formal_logic",
+    "question": " Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; Sxy: x is smaller than y)",
+    "choices": [
+      "(\u2203x)(Px \u2022 Sxj)",
+      "(\u2200x)(Px \u2022 Sxj)",
+      "(\u2200x)(Px \u2283 Sjx)",
+      "(\u2200x)(Px \u2283 Sxj)"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7994,
+    "subject": "miscellaneous",
+    "question": "Which of the following is the best source of objective information about a prospective employer that is publicly traded?",
+    "choices": [
+      "Annual reports",
+      "Press releases",
+      "Newspaper articles",
+      "10-K filings with the SEC"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13663,
+    "subject": "us_foreign_policy",
+    "question": "Why did Lincoln oppose the southward expansion of the US?",
+    "choices": [
+      "It would have drained the US economically",
+      "It would have involved compromising opposition to slavery",
+      "It would have increased immigration to the US",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 731,
+    "subject": "clinical_knowledge",
+    "question": "Two of the following are evident - pain at IV site, erythema, and swelling. What stage on the phlebitis scale is this and what should you do?",
+    "choices": [
+      "Stage 1 - observe cannula.",
+      "Stage 2 - re-site cannula.",
+      "Stage 3 - re-site cannula and consider treatment.",
+      "Stage 0 - do nothing."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8176,
+    "subject": "moral_disputes",
+    "question": " In Gardiner's analysis, which of the following is a characteristic of the climate change problem?",
+    "choices": [
+      "institutional adequacy",
+      "dispersion of causes and effects",
+      "fragmentation of agency",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12668,
+    "subject": "professional_psychology",
+    "question": "Studies on persuasion have shown that when a communicator is credible, the degree to which the receiver's initial position will change is",
+    "choices": [
+      "unrelated to the sex of the communicator",
+      "unrelated to the amount of discrepancy between the communicator\u2019s position and the receiver's initial position",
+      "greater when there is a smaller discrepancy between the communicator's position and the receiver's initial position",
+      "greater when there is a larger discrepancy between the communicator\u2019s position and the receiver's initial position"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7182,
+    "subject": "marketing",
+    "question": " Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of:",
+    "choices": [
+      "Pricing.",
+      "Distribution.",
+      "Product development.",
+      "Promotion."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 482,
+    "subject": "business_ethics",
+    "question": "According to Evan and Freeman (1993), the Principle of ________ and the Principle of _______ can be used in a specific situation to determine who constitutes a _______.",
+    "choices": [
+      "Corporate rights, Corporate effect, Stakeholder",
+      "Corporate deniability, Corporate effect, Stakeholder",
+      "Corporate rights, Corporate responsibility, Stakeholder",
+      "Corporate rights, Corporate effect, Shareholder"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12607,
+    "subject": "professional_psychology",
+    "question": "A person in the pseudoindependent stage of White racial identity is currently ___________.",
+    "choices": [
+      "Developing an awareness of the role of Whites in perpetrating racism",
+      "Unaware of race and racism",
+      "Exploring what it means to be White and confronting own biases",
+      "Attempting to resolve moral dilemmas associated with an awareness of race and racism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2418,
+    "subject": "elementary_mathematics",
+    "question": "Sapphire is making bouquets of balloons for a graduation party. She has 179 balloons and needs to put 7 balloons in each bouquet. How many bouquets can Sapphire make?",
+    "choices": [
+      "32 bouquets",
+      "23 bouquets",
+      "25 bouquets",
+      "26 bouquets"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9569,
+    "subject": "nutrition",
+    "question": "Which of the following vitamins is involved in one-carbon metabolism?\n",
+    "choices": [
+      "Folate",
+      "Riboflavin",
+      "Thiamin",
+      "Vitamin C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5298,
+    "subject": "high_school_psychology",
+    "question": "According to Adler, firstborn children are more likely than subsequent children in a family to be",
+    "choices": [
+      "sociable",
+      "funny",
+      "responsible",
+      "followers"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13188,
+    "subject": "security_studies",
+    "question": "What might the pragmatic implications of biology be on post-conflict gender security?",
+    "choices": [
+      "Recent inquiry into the way in which women have been treated both in and after war has revealed a degree of ambiguity in the relationship between armed forces and civilian women. While women have often been the targets of violence by the enemy in conflict, it is also the case that they may suffer at the hands of their \"protectors\". This strengthens the argument for female soldiers to be engaged in certain types of peacekeeping work, particularly in post-conflict situations.",
+      "Perpetuation of violence against women in post-conflict society has devalued the claim that violence is more prevalent in militarized societies. Women were as protected by men in pre-war society as they were in post-war society.",
+      "Case studies revealed that in certain military families, levels of violence were dependent on the degree of psychological damage inflicted during fighting, however this was variable and dependent on the individual not on gender basis.",
+      "Recent inquiry into the way in which women have been treated both in and after war has revealed a degree of ambiguity in the relationship between armed forces and civilian women. While women have often been the targets of violence by the enemy in conflict, it is also the case that they may suffer at the hands of their \"protectors\" which may actually undermine liberal feminists' case of the \"right to fight\"."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6104,
+    "subject": "human_aging",
+    "question": "Which of the following is one of McAdam's levels of personality?",
+    "choices": [
+      "Control",
+      "Identity",
+      "Generativity",
+      "Assimilation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12974,
+    "subject": "professional_psychology",
+    "question": "Which of the following is true about the use of deception in a research study that may cause participants pain?",
+    "choices": [
+      "Deception is acceptable in studies that may cause pain only when the use of pain is justified by the study\u2019s potential value.",
+      "Deception is acceptable in studies that may cause pain only when there are no alternative methods for conducting the study.",
+      "Deception is prohibited when the pain is physical but not when it is psychological in nature.",
+      "Deception is prohibited whether the pain is physical or psychological in nature."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13272,
+    "subject": "security_studies",
+    "question": "To what extent is TNC linked with terrorism, and in what ways?",
+    "choices": [
+      "There is growing evidence of direct partnerships between terrorist groups and transnational criminal organization resulting from the end of the Cold War and the need to secure new forms of financial sponsorship. For most terrorist groups criminal activity has been amongst the most important sources of funds with the diffusion of terrorist networks globally operating in correlation to the diffusion of illicit market activities.",
+      "The nexus between terrorist groups and criminal organizations are generally a temporary aberration. Differential long-term strategic goals meant that levels of cooperation were generally tactical temporary alliances that would have little pervasive effects.",
+      "There is increasing evidence over the convergence of terrorism and transnational crime, but there is no consensus about whether this phenomenon is a long-term strategic alliance or episodic \"marriages of convenience\".",
+      "All of these options."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5194,
+    "subject": "high_school_psychology",
+    "question": "For which of the following disorders might a psychiatrist prescribe a selective serotonin reuptake inhibitor such as Prozac or Paxil?",
+    "choices": [
+      "manic",
+      "depressive",
+      "dissociative identity",
+      "conversion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2417,
+    "subject": "elementary_mathematics",
+    "question": "Which of the following numbers is between 2,329,500 and 2,598,100?",
+    "choices": [
+      "2,249,550",
+      "2,589,200",
+      "2,329,333",
+      "2,327,900"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "subject": "anatomy",
+    "question": "Which of the following is the large bone found superior to the patella and inferior to the ischium?",
+    "choices": [
+      "Calcaneus",
+      "Femur",
+      "Symphysis pubis",
+      "Tibia"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12828,
+    "subject": "professional_psychology",
+    "question": "Although itis rarely feasible to engage in such a practice, the most valid way for psychotherapists to monitor the quality of their own services is to",
+    "choices": [
+      "attempt as dispassionately possible to estimate the success of their therapeutic efforts",
+      "consult regularly with fellow therapists who provide mutual review of one another's cases",
+      "engage the services of a consultant who reviews rape recordings of pical sessions conducted by the therapists",
+      "check in an objective manner their clients\u2019 ability to cope with their problems"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13358,
+    "subject": "security_studies",
+    "question": "Which statement best describes the liberalist attitude towards international organisations?",
+    "choices": [
+      "Liberalism holds that international organisations can enhance national and international security. It advocates the inclusion of non-governmental organisations and other actors to encourage cooperation and build communities.",
+      "The liberalist advocacy of cooperation as enhancing security is undermined by the failure of international organisations such as the league of nations in preventing global conflicts.",
+      "Under liberalism's different schools of thought, there is a general consensus that the involvement of international organisations in the political system ultimately undermines security by disempowering the state as a unitary actor.",
+      "All of these options."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6885,
+    "subject": "machine_learning",
+    "question": "If N is the number of instances in the training dataset, nearest neighbors has a classification run time of",
+    "choices": [
+      "O(1)",
+      "O( N )",
+      "O(log N )",
+      "O( N^2 )"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14027,
+    "subject": "world_religions",
+    "question": " Which Roman statesman encouraged civic religion in his work The Laws?",
+    "choices": [
+      "Varro",
+      "Plato",
+      "Cicero",
+      "Augustus"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10161,
+    "subject": "prehistory",
+    "question": "Which of the following first described human culture according to a predictable chronology of a Stone Age, Bronze Age, and Iron Age?",
+    "choices": [
+      "uniformitarianism",
+      "multilinear evolution",
+      "three-age system",
+      ". triple-age catastrophism"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5279,
+    "subject": "high_school_psychology",
+    "question": "What kind of therapy involves both behavioral and cognitive interventions?",
+    "choices": [
+      "counterconditioning",
+      "symptom substitution",
+      "primary preventions",
+      "systematic desensitization"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8257,
+    "subject": "moral_disputes",
+    "question": " In Rachels's thought experiment with Smith and Jones, Jones's action (i.e., his watching the child, who slipped accidentally, drowned in the tub) is supposed to be an example of",
+    "choices": [
+      "killing.",
+      "letting die.",
+      "assisted suicide.",
+      "none of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7401,
+    "subject": "miscellaneous",
+    "question": "What animal represents the year 2000 on the Chinese calendar?",
+    "choices": [
+      "dragon",
+      "rabbit",
+      "tiger",
+      "monkey"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7939,
+    "subject": "miscellaneous",
+    "question": "Ballad opera, opera buffa and op\u00e9ra comique shared which feature?",
+    "choices": [
+      "They contained da capo arias",
+      "They began with a French overture.",
+      "They focused on everyday problems.",
+      "They contained obbligato recitative."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11179,
+    "subject": "professional_law",
+    "question": "Under which of the following situations would the defendant not be guilty of the attempted crime at common law?",
+    "choices": [
+      "A defendant wanted to receive the proceeds from her insurance policy on her home. After a careful examination of her policy, she decided that the best way for her to collect would be to stage a cooking accident in her own home and have the structure bum down. She decided that bacon would be the best way to do it because all of the extra grease in the pan could easily catch on fire. After cooking the bacon, the defendant left the flame on and left her home. Unbeknownst to the defendant, she left the window open and a breeze blew out the pilot. When the defendant returned home, she found that there was no fire. She was arrested and charged with attempted arson.",
+      "A defendant was dancing with his girlfriend at a local club when she collapsed in his arms. The defendant then carried his girlfriend to his car and engaged in sexual intercourse with her. Although the defendant believed that his girlfriend was intoxicated, she had, in fact, died of a heart attack while dancing. The defendant is charged with attempted rape.",
+      "After a preliminary examination, a defendant informed a patient that she was two months pregnant. Although the defendant knew that abortions were illegal in this jurisdiction, he agreed to perform an abortion on the patient, anyway. During the operation, it was discovered that the patient was not pregnant. The defendant is charged with attempt to perform an illegal abortion.",
+      "A defendant called his friend to obtain some marijuana. The friend told the defendant that he had some for sale. Believing that his friend had some high-quality marijuana, the defendant purchased an ounce of the substance, which he did not know was actually oregano. While the defendant was smoking the oregano on the street corner, a police officer arrested him and charged him with attempted illegal use of a controlled substance."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6198,
+    "subject": "human_aging",
+    "question": "Gary says he won $1000 in the lottery because he really knows how to pick those numbers. Gary would be said to have a strong ____ locus of control",
+    "choices": [
+      "External, powerful others",
+      "Internal",
+      "External, chance",
+      "Secondary"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9412,
+    "subject": "nutrition",
+    "question": "Which vitamin is a major lipid-soluble antioxidant in cell membranes?\n",
+    "choices": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8432,
+    "subject": "moral_disputes",
+    "question": " According to rule consequentialism, the rightness or wrongness of an action depends on",
+    "choices": [
+      "that action's relationship to the operative rules of law.",
+      "the logical consistency behind the motive of actions of the same type.",
+      "whether a virtuous person would endorse a rule requiring, permitting, or prohibiting that action.",
+      "whether that action is required, permitted, or prohibited by a rule the consequences of which are best."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7660,
+    "subject": "miscellaneous",
+    "question": "For a man and woman on a date 'dutch treat' means what?",
+    "choices": [
+      "The man pays",
+      "The woman pays",
+      "The Dutch pay",
+      "Each pays their own way"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 472,
+    "subject": "business_ethics",
+    "question": "The rise in business led, private regulation can be attributed to: encouragement of a _______ approach from industry, _________ and _______ achievement of objectives.",
+    "choices": [
+      "Faster, Cost effectiveness, Slower",
+      "Faster, Heightened costs, Slower",
+      "Proactive, Cost effectiveness, Faster",
+      "Proactive, Heightened costs, Faster"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 1494,
+    "subject": "computer_security",
+    "question": "Public key encryption is advantageous over Symmetric key Cryptography because of",
+    "choices": [
+      "Speed",
+      "Space",
+      "Key exchange",
+      "Key length"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7969,
+    "subject": "miscellaneous",
+    "question": "What is the name of the South African political party that was headed by Nelson Mandela?",
+    "choices": [
+      "African National Congress",
+      "South African Democrats",
+      "Inkatha Freedom Party",
+      "Aryan National Assembly"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2509,
+    "subject": "formal_logic",
+    "question": "Select the best translation into predicate logic: If Eileen plays fiddle then Sherri sings.",
+    "choices": [
+      "Fe \u2228 Ss",
+      "eF \u2283 Ss",
+      "Fe \u2228 Es",
+      "Fe \u2283 Ss"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13874,
+    "subject": "world_religions",
+    "question": " What is the name of the ten day New Year festival that celebrated Babylon's culture?",
+    "choices": [
+      "Akitu",
+      "Wag and Thoth",
+      "Bast",
+      "Nehebkau"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 1543,
+    "subject": "computer_security",
+    "question": "What is the difference between a direct leak and a side channel?",
+    "choices": [
+      "A direct leak creates a denial of service by failing to free memory, while a channel frees memory as a side effect",
+      "A direct leak is one that is intentional, rather than by unintentional",
+      "A direct leak comes via the software system's intended interaction mechanism, where as a side channel leak comes from measurements of other system features, like timing, power usage, or space usage",
+      "There is no difference"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4190,
+    "subject": "high_school_macroeconomics",
+    "question": "When nominal GDP is rising we would expect money demand to",
+    "choices": [
+      "increase as consumers demand more money as a financial asset increasing the interest rate.",
+      "increase as consumers demand more money for transactions increasing the interest rate.",
+      "decrease as the purchasing power of the dollar is falling decreasing the interest rate.",
+      "decrease as consumers demand more money for transactions increasing the interest rate."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13117,
+    "subject": "public_relations",
+    "question": "In the public relations field, what is the most common threat to a client-firm relationship?",
+    "choices": [
+      "Clients' questions about costs",
+      "Resistance to outside advice",
+      "Superficial grasp of the client's unique problems",
+      "Personality conflicts"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9669,
+    "subject": "nutrition",
+    "question": "How many calories should a woman eat each day during pregnancy?\n",
+    "choices": [
+      "Less than 200 kCal",
+      "An additional 200 kCal in the third trimester only",
+      "An additional 200 kCal throughout pregnancy",
+      "No change from pre-pregnant levels"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2801,
+    "subject": "high_school_biology",
+    "question": "Regarding meiosis and mitosis, one difference between the two forms of cellular reproduction is that in meiosis",
+    "choices": [
+      "there is one round of cell division, whereas in mitosis there are two rounds of cell division",
+      "separation of sister chromatids occurs during the second division, whereas in mitosis separation of sister chromatids occurs during the first division",
+      "chromosomes are replicated during interphase, whereas in mitosis chromosomes are replicated during prophase",
+      "spindle fibers form during prophase, whereas in mitosis the spindle fibers form during metaphase"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9437,
+    "subject": "nutrition",
+    "question": "What is the likely reason that evidence to support the relationship between dietary cholesterol and plasma LDL cholesterol levels in humans is inconclusive?\n",
+    "choices": [
+      "The complexity of the mechanisms regulating the absorption of cholesterol and its export in lipoproteins.",
+      "The complexity of the mechanism controlling the clearance of intestinally derived lipoproteins by the liver.",
+      "The multiple intrahepatic responses to increased cellular cholesterol.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 161,
+    "subject": "anatomy",
+    "question": "A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience",
+    "choices": [
+      "loss of taste over the anterior two-thirds of the tongue.",
+      "loss of somaesthetic sensation over the anterior two thirds of the tongue.",
+      "loss of taste and somaesthetic sensation over the posterior third of the tongue.",
+      "paralysis of the muscles of the tongue."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4548,
+    "subject": "high_school_microeconomics",
+    "question": "When the price of pears increases, we expect the following:",
+    "choices": [
+      "Quantity demanded of pears rises.",
+      "Quantity supplied of pears falls.",
+      "Quantity demanded of pears falls.",
+      "Demand for pears falls."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 171,
+    "subject": "anatomy",
+    "question": "Which of the following is a substance that aids the transmission of nerve impulses to the muscles?",
+    "choices": [
+      "Acetylcholine",
+      "Cholecystokinin",
+      "Deoxyribose",
+      "Oxytocin"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3125,
+    "subject": "high_school_chemistry",
+    "question": "During a chemical reaction, NO(g) gets reduced and no nitrogen-containing compound is oxidized. Which of the following is a possible product of this reaction?",
+    "choices": [
+      "NO2(g)",
+      "N2(g)",
+      "NO3-(aq)",
+      "NO2-(aq)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13030,
+    "subject": "professional_psychology",
+    "question": "All of the following brain regions are considered part of the limbic system except ___________.",
+    "choices": [
+      "Mammillary bodies",
+      "Septal nuclei",
+      "Fornix",
+      "Hippocampus"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 823,
+    "subject": "college_biology",
+    "question": "A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through a",
+    "choices": [
+      "spot desmosome",
+      "belt desmosome",
+      "gap junction",
+      "tight junction"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13751,
+    "subject": "virology",
+    "question": "Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?",
+    "choices": [
+      "If administered within 4 days of clinical signs",
+      "If used within 48 hours of first clinical signs",
+      "Used for the obese",
+      "Used in children under the age of 2 years where high virus spread is noted"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 533,
+    "subject": "clinical_knowledge",
+    "question": "In a double stranded molecule of DNA, the ratio of purines : pyrimidines is:",
+    "choices": [
+      "variable.",
+      "determined by the base sequence in RNA.",
+      "genetically determined.",
+      "always 1:1."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7985,
+    "subject": "miscellaneous",
+    "question": "What newspaper do Lois Lane and Clark Kent work for?",
+    "choices": [
+      "The Bugle",
+      "The Daily Planet",
+      "The Metropolis Tribune",
+      "The New York Times"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9677,
+    "subject": "nutrition",
+    "question": "Which of the following nutritional interventions has been shown to improve child development?\n",
+    "choices": [
+      "Protein-energy supplementation during pregnancy",
+      "Protein-energy supplementation during the first two years",
+      "Both of the interventions",
+      "None of the interventions"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7707,
+    "subject": "miscellaneous",
+    "question": "Which of these candy bars was named for a baseball player?",
+    "choices": [
+      "Baby Ruth",
+      "Clark Bar",
+      "Reggie Bar",
+      "Butterfinger"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3534,
+    "subject": "high_school_geography",
+    "question": "Which one of the statements below correctly describes immigrants living in Europe?",
+    "choices": [
+      "Most find citizenship easy to get in host countries.",
+      "Muslims immigrants from North Africa are well integrated in France.",
+      "Immigrants to European cities rarely bring their families.",
+      "They are usually restricted to certain neighborhoods."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13601,
+    "subject": "sociology",
+    "question": "Economic aid has largely failed to promote modernization in the developing countries because:",
+    "choices": [
+      "there are no clearly defined projects into which the money can be directed",
+      "the United Nations has refused to call on rich countries to provide it",
+      "debt repayments with interest can be greater than the amount of money received",
+      "debt repayments with interest can be greater than the amount of money received"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6951,
+    "subject": "management",
+    "question": "Which one of the following political leaders could not be termed a 'transformational' leader?",
+    "choices": [
+      "Margaret Thatcher",
+      "Mikhail Gorbachov",
+      "Nelson Mandela",
+      "Bill Clinton"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7271,
+    "subject": "marketing",
+    "question": "A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm.",
+    "choices": [
+      "Consultant.",
+      "Field agency.",
+      "Full-service agency.",
+      "Tabulation agency."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3523,
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT a feature of an export processing zone (EPZ)?",
+    "choices": [
+      "Tariff reductions on exports",
+      "Raw materials imported duty-free",
+      "Exemption from customs duties",
+      "Strict pollution regulations"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7824,
+    "subject": "miscellaneous",
+    "question": "The film 'Stand By Me' is based on a novel by what author?",
+    "choices": [
+      "Anne Proulx",
+      "Stephen King",
+      "Dean Koontz",
+      "Frank McCourt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6687,
+    "subject": "logical_fallacies",
+    "question": "Arguing that a claim must be true merely because a substantial number of people believe it is called the fallacy of...",
+    "choices": [
+      "Tu quoque",
+      "Composition",
+      "Appeal to the masses",
+      "Appeal to reason"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6850,
+    "subject": "machine_learning",
+    "question": "Statement 1| Layer Normalization is used in the original ResNet paper, not Batch Normalization. Statement 2| DCGANs use self-attention to stabilize training.",
+    "choices": [
+      "True, True",
+      "False, False",
+      "True, False",
+      "False, True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2771,
+    "subject": "high_school_biology",
+    "question": "Which of the following is NOT a characteristic of asexual reproduction in animals?",
+    "choices": [
+      "Daughter cells have the same number of chromosomes as the parent cell.",
+      "Daughter cells are identical to the parent cell.",
+      "The parent cell produces diploid cells.",
+      "The daughter cells fuse to form a zygote."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7975,
+    "subject": "miscellaneous",
+    "question": "In what US city can you find the Basketball Hall of Fame?",
+    "choices": [
+      "Canton Ohio",
+      "Cooperstown New York",
+      "Springfield Massachusetts",
+      "Lawrence Kansas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 1399,
+    "subject": "college_physics",
+    "question": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein\u2019s theory of the photoelectric effect predicts that the",
+    "choices": [
+      "work function of the metal is proportional to the frequency",
+      "work function of the metal is proportional to the wavelength",
+      "current in the tube is a linear function of the wavelength",
+      "potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3648,
+    "subject": "high_school_government_and_politics",
+    "question": "What power was granted to the states by the Articles of Confederation but not by the Constitution?",
+    "choices": [
+      "Coining money",
+      "Authorizing constitutional amendments",
+      "Having representation in Congress",
+      "Appealing to the president to adjudicate disputes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2407,
+    "subject": "elementary_mathematics",
+    "question": "Find the number that makes the statement 12 over 18 = ? over 9 true.",
+    "choices": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3974,
+    "subject": "high_school_macroeconomics",
+    "question": "Which is the best way to describe the AS curve in the long run?",
+    "choices": [
+      "Always vertical in the long run.",
+      "Always upward sloping because it follows the Law of Supply.",
+      "Always horizontal.",
+      "Always downward sloping."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4464,
+    "subject": "high_school_mathematics",
+    "question": "Eleven pencils cost as much as three pens. If seven pens cost $\\$ 9.24$, what is the cost, in cents, of one pencil?",
+    "choices": [
+      "11",
+      "33",
+      "36",
+      "52"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 738,
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true about an intention tremor?",
+    "choices": [
+      "It is worse at rest",
+      "It is caused by Parkinson's Disease",
+      "It is indicative of a cerebellar lesion",
+      "Dyscalculia is a common association"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5215,
+    "subject": "high_school_psychology",
+    "question": "Which neurotransmitter is most closely associated with both Parkinson's disease and schizophrenia?",
+    "choices": [
+      "acetylcholine",
+      "dopamine",
+      "serotonin",
+      "endorphins"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5310,
+    "subject": "high_school_psychology",
+    "question": "Research indicates that which of the following factors most influence a person's sexual orientation?",
+    "choices": [
+      "parenting style",
+      "masculine/feminine personality traits",
+      "hormones released in the womb",
+      "sexual orientation of parents"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2356,
+    "subject": "elementary_mathematics",
+    "question": "Write 4.95 as a mixed number or fraction in simplest form.",
+    "choices": [
+      "4 and 19 over 20",
+      "4 and 19 over 100",
+      "4 and 1 over 20",
+      "419 over 1000"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3012,
+    "subject": "high_school_chemistry",
+    "question": "The melting point of straight-chain hydrocarbons increases as the number of carbon atoms increase. The reason for this is the",
+    "choices": [
+      "increasing mass of the compounds",
+      "increasing polarity of the compounds",
+      "increasing number of induced dipoles per molecule",
+      "increased probability of hydrogen bonds"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9562,
+    "subject": "nutrition",
+    "question": "Was T.R. Malthus correct in concluding that population growth will outstrip food production growth?\n",
+    "choices": [
+      "No, technological and institutional innovations have permitted food supplies to more than keep pace with population growth.",
+      "Yes, it is only because of widespread famines that population has not overwhelmed food supplies altogether.",
+      "No, but it is only because of the introduction of genetically modified food that supplies have kept pace with population growth.",
+      "No, but supplies are not likely to keep pace with population growth over the next 10 years."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7895,
+    "subject": "miscellaneous",
+    "question": "During which war did US troops fight the Battle of New Orleans?",
+    "choices": [
+      "American Revolution",
+      "Civil War",
+      "Mexican War",
+      "War of 1812"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5191,
+    "subject": "high_school_psychology",
+    "question": "A group of participants in a sleep study are to be deprived of sleep for four days. After their second sleepless night, participants may begin reporting which of the following?",
+    "choices": [
+      "Hunger",
+      "Thirst",
+      "Lack of coordination",
+      "Hallucinations"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 143,
+    "subject": "anatomy",
+    "question": "A successful inferior alveolar nerve block will produce anaesthesia of the",
+    "choices": [
+      "lower lip.",
+      "lower lip and mandibular teeth.",
+      "lower lip, mandibular teeth and labial gingivae of the anterior mandibular teeth.",
+      "lower lip, mandibular teeth and labial gingivae of the anterior and buccal gingivae of the posterior mandibular teeth."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13925,
+    "subject": "world_religions",
+    "question": "Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?",
+    "choices": [
+      "Gregory",
+      "Augustine",
+      "Athanasius",
+      "Francis"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9874,
+    "subject": "philosophy",
+    "question": "According to Cicero, the most practical branch of philosophy deals with:",
+    "choices": [
+      "logic.",
+      "natural science.",
+      "moral duties.",
+      "expedience."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8251,
+    "subject": "moral_disputes",
+    "question": " What is an example of \"mutual coercion, mutually agreed upon\"?",
+    "choices": [
+      "all countries cooperating to change the existing incentive structure by introducing a system of enforceable sanctions to curb climate change.",
+      "the agreement of more powerful nations to require less powerful nations to curb greenhouse gas emissions for the benefit of all humanity.",
+      "the agreement of less powerful nations to boycott trade with more powerful nations until the latter agree to curb their greenhouse gas emissions.",
+      "the agreement of a large number of individual agents to restrict their own pollution."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 289,
+    "subject": "astronomy",
+    "question": "Which of the following is/are NOT caused by orbital resonance?",
+    "choices": [
+      "2:3 periodic ratio of Neptune:Pluto",
+      "Kirkwood Gaps.",
+      "Gaps in Saturn's rings.",
+      "Breaking of small Jovian moons to form ring materials."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6942,
+    "subject": "machine_learning",
+    "question": "Which of the following is true of a convolution kernel?",
+    "choices": [
+      "Convolving an image with $\\begin{bmatrix}1 & 0 & 0\\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$ would not change the image",
+      "Convolving an image with $\\begin{bmatrix}0 & 0 & 0\\\\ 0 & 1 & 0 \\\\ 0 & 0 & 0 \\end{bmatrix}$ would not change the image",
+      "Convolving an image with $\\begin{bmatrix}1 & 1 & 1\\\\ 1 & 1 & 1 \\\\ 1 & 1 & 1 \\end{bmatrix}$ would not change the image",
+      "Convolving an image with $\\begin{bmatrix}0 & 0 & 0\\\\ 0 & 0 & 0 \\\\ 0 & 0 & 0 \\end{bmatrix}$ would not change the image"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6441,
+    "subject": "human_sexuality",
+    "question": "Which of the following is NOT part of the internal structure of a female's breast?",
+    "choices": [
+      "Breast lobule",
+      "Lactiferous duct",
+      "Lactiferous sinus",
+      "Dartos Muscle"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 838,
+    "subject": "college_biology",
+    "question": "The crouching of very young birds in response to a predator\u2019s shape overhead is an example of",
+    "choices": [
+      "a conditioned response",
+      "a fixed action pattern",
+      "an imprinted behavior",
+      "learned behavior"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4871,
+    "subject": "high_school_physics",
+    "question": "A beam of monochromatic light entering a glass window pane from the air will experience a change in",
+    "choices": [
+      "frequency and wavelength",
+      "frequency and speed",
+      "speed and wavelength",
+      "speed only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7591,
+    "subject": "miscellaneous",
+    "question": "What is the (approximate) value of lemon juice on the pH scale?",
+    "choices": [
+      "14",
+      "2",
+      "7",
+      "0"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3970,
+    "subject": "high_school_macroeconomics",
+    "question": "If the Federal Reserve was concerned about the \"crowding-out\" effect they could engage in",
+    "choices": [
+      "expansionary monetary policy by lowering the discount rate.",
+      "expansionary monetary policy by selling Treasury securities.",
+      "contractionary monetary policy by raising the discount rate.",
+      "contractionary monetary policy by lowering the discount rate."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9642,
+    "subject": "nutrition",
+    "question": "Which of the following statements about plant sources of amino acids in human nutrition is correct?\n",
+    "choices": [
+      "All plant protein sources are deficient in essential amino acids",
+      "All plant protein sources contain all essential amino acids although some may be limited by the amount of particular amino acids",
+      "All plant protein sources are deficient in lysine",
+      "All plant protein sources are deficient in the sulphur amino acids acids"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5487,
+    "subject": "high_school_statistics",
+    "question": "In general, how does tripling the sample size change the confidence interval size?",
+    "choices": [
+      "It triples the interval size.",
+      "It divides the interval size by 3.",
+      "It multiples the interval size by 1.732.",
+      "It divides the interval size by 1.732."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 1432,
+    "subject": "college_physics",
+    "question": "A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13120,
+    "subject": "public_relations",
+    "question": "Who argued that if an organization did not affect a public then there was no need for a practitioner to consider that public in its communications?",
+    "choices": [
+      "Cutlip (2006)",
+      "Leitch and Neilson (2001)",
+      "Amaral and Phillips (2010)",
+      "Grunig and Hunt (1984)"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14038,
+    "subject": "world_religions",
+    "question": " To whom did ordinary folk appeal during a drought in the time of the Han Dynasty?",
+    "choices": [
+      "The Buddha",
+      "Laozi",
+      "The Queen Mother of the West",
+      "Confucius"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10004,
+    "subject": "philosophy",
+    "question": "What are some of the frequent frustrations in writing or reading about research ethics?",
+    "choices": [
+      "Writers differ over what is ethically acceptable.",
+      "The same debates are rehearsed over decades.",
+      "Cases of ethical violation tend to be linked with certain research methods.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8105,
+    "subject": "miscellaneous",
+    "question": "When a gas turns into a liquid, the process is called",
+    "choices": [
+      "condensation",
+      "evaporation",
+      "deposition",
+      "sublimation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4274,
+    "subject": "high_school_mathematics",
+    "question": "What is the smallest prime whose digits sum to $19$?",
+    "choices": [
+      "5",
+      "11",
+      "17",
+      "199"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13666,
+    "subject": "us_foreign_policy",
+    "question": "What is the implication of American exceptionalism in terms of global economics?",
+    "choices": [
+      "It encourages the use of tariffs",
+      "It encourages nationalization",
+      "It encourages liberalization of global trade",
+      "It encourages redistribution of wealth"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 1616,
+    "subject": "conceptual_physics",
+    "question": "In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of",
+    "choices": [
+      "hydrogen.",
+      "oxygen.",
+      "nitrogen.",
+      "But all have the same speed on average."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "subject": "anatomy",
+    "question": "Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?",
+    "choices": [
+      "Glomerulonephritis",
+      "Interstitial nephritis",
+      "Nephrolithiasis",
+      "Polycystic kidney"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5400,
+    "subject": "high_school_psychology",
+    "question": "What is the major difference between negative reinforcement and punishment?",
+    "choices": [
+      "Punishments are used with nonhuman animals, and negative reinforcements are used with humans.",
+      "Negative reinforcements are used in classical conditioning, and punishments are used in operant conditioning.",
+      "Punishments are primarily used when training an organism to perform a behavior and negative reinforcements are used to train an organism to stop performing a behavior.",
+      "Punishments decrease the frequency of a behavior and negative reinforcements increase the frequency of a behavior."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6390,
+    "subject": "human_sexuality",
+    "question": "Heterosexual fantasies about sexual activity never involve someone _________, and gay and lesbian fantasies never involve persons of __________",
+    "choices": [
+      "Both heterosexual and homosexual fantasies may involve persons of the same or other gender",
+      "of the other gender; of the same gender",
+      "of the same gender; of the same gender",
+      "of the same gender; of the other gender"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4531,
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is not a characteristic of oligopoly?",
+    "choices": [
+      "P = MC.",
+      "Price-maker.",
+      "Strong barriers to entry.",
+      "Few firms."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13040,
+    "subject": "professional_psychology",
+    "question": "Individuals who profit most from crisis group intervention are those who",
+    "choices": [
+      "have gone from one life crisis to another",
+      "have obtained secondary gratification from normal life stresses",
+      "are particularly in touch with social reality",
+      "have experienced acute onset of significant symptoms"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3482,
+    "subject": "high_school_geography",
+    "question": "One of the effects of the east\u2013west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it",
+    "choices": [
+      "limits the marine climate of Europe to coastal areas",
+      "provides a corridor for communication between southern and northern Europe",
+      "enables marine-like climatic conditions to extend eastward into Germany and Poland",
+      "effectively prevents population movement between parts of the Mediterranean region"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6209,
+    "subject": "human_aging",
+    "question": "When a measure actually quantifies what it claims to measure, we say that it has good",
+    "choices": [
+      "Accuracy",
+      "Validity",
+      "Reliability",
+      "Associative value"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4009,
+    "subject": "high_school_macroeconomics",
+    "question": "If real GDP per capita grows at a rate of 10 percent a year then we can expect the standard of living to double in",
+    "choices": [
+      "10 years.",
+      "9 years.",
+      "8 years.",
+      "7 years."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2041,
+    "subject": "electrical_engineering",
+    "question": "In an intel 8085A, which is the first machine cycle of an instruction?",
+    "choices": [
+      "An op-code fetch cycle",
+      "A memory read cycle",
+      "A memory write cycle",
+      "An I/O read cycle"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4301,
+    "subject": "high_school_mathematics",
+    "question": "If $(2x + 3y)^2 = 4$ and $xy = -5$, what is the value of $4x^2 + 9y^2$?",
+    "choices": [
+      "-5",
+      "13",
+      "64",
+      "25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3762,
+    "subject": "high_school_government_and_politics",
+    "question": "The Supreme Court has used the Fourteenth Amendment to apply portions of the Bill of Rights to state law by citing the amendment's",
+    "choices": [
+      "prohibition on unreasonable search and seizures",
+      "due process clause",
+      "guarantee of privacy rights",
+      "abolition of slavery"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6132,
+    "subject": "human_aging",
+    "question": "A researcher who wants to examine both age and cohort differences is advised to use a _____ design.",
+    "choices": [
+      "Cross-sectional",
+      "Cross-sequential",
+      "Correlational",
+      "Quasi-experimental"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12882,
+    "subject": "professional_psychology",
+    "question": "Which of the following is an example of a double-bind message",
+    "choices": [
+      "A father tells his son, \u201cI sure hope you can come to the movies with us tonight,\u201d when his tone and posture thar he does not hope so",
+      "A mother tells her daughter, \u201cGood move,\u201d when the daughter drops and breaks a dinner plate",
+      "A teacher tells a student, \u201cYou can do that if you want to, but you'll get into trouble.\u201d",
+      "A teacher tells a student, \u201cYou can do that if you want to, but I would appreciate it if you would not"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6356,
+    "subject": "human_sexuality",
+    "question": "The capacity of a spinal-cord injured man to have erections depends on:",
+    "choices": [
+      "the level of the spinal cord at which the injury occurred",
+      "whether the spinal cord was partially or completely severed",
+      "the man's age",
+      "both a and b"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7106,
+    "subject": "marketing",
+    "question": " This is a marketing communications activity concerned with providing support for the sales force and merchandising personnel:",
+    "choices": [
+      "Store marketing.",
+      "Field marketing.",
+      "Sales promotions.",
+      "Personal selling."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9610,
+    "subject": "nutrition",
+    "question": "Risk assessment is applied to data on toxicity and human exposure to:\n",
+    "choices": [
+      "Estimate the likelihood, or probability, of a toxic effect on exposed humans",
+      "To support risk management decisions for food substances",
+      "To derive Allowable Daily Intakes",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2202,
+    "subject": "elementary_mathematics",
+    "question": "A company makes 5 blue cars for every 3 white cars it makes. If the company makes 15 white cars in one day, how many blue cars will it make?",
+    "choices": [
+      "9",
+      "13",
+      "17",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10295,
+    "subject": "prehistory",
+    "question": "For 99% of human history, people have depended solely on _________ for their subsistence.",
+    "choices": [
+      "collecting plants",
+      "fishing",
+      "agriculture",
+      "foraging"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6397,
+    "subject": "human_sexuality",
+    "question": "Erection in the male and vaginal lubrication in the female mark the __________ stage of sexual response.",
+    "choices": [
+      "excitement",
+      "resolution",
+      "plateau",
+      "orgasm"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4970,
+    "subject": "high_school_psychology",
+    "question": "A pigeon trained to peck at a green light pecks at a yellow light also. This illustrates",
+    "choices": [
+      "generalization",
+      "discrimination",
+      "extinction",
+      "spontaneous recovery"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 577,
+    "subject": "clinical_knowledge",
+    "question": "When developing a plan of care relating to the management of a person's pain, attention should be given to the following needs:",
+    "choices": [
+      "physical and pharmacological needs only.",
+      "physical and psychological needs only.",
+      "physical, psychological, and pharmacological needs followed by regular reassessment.",
+      "none of the above, as the main priority is to limit drug side effects."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10524,
+    "subject": "professional_accounting",
+    "question": "Which of the following transactions correctly illustrates the doctrine of substantial performance?",
+    "choices": [
+      "Blair ordered a dozen blue chairs from Kyle but Kyle delivered a dozen red chairs.",
+      "Leslie painted an entire room but failed to put the electrical outlet covers back on.",
+      "A contract required hair styling to be done to Toby's satisfaction but Toby was in good faith dissatisfied with the completed result.",
+      "A dentist competently completed the extraction of Lee's tooth but mistakenly pulled the wrong one."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2146,
+    "subject": "elementary_mathematics",
+    "question": "Use a number line to find the sum of \u22129 + (\u22128).",
+    "choices": [
+      "\u221217",
+      "1",
+      "\u22121",
+      "17"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3622,
+    "subject": "high_school_geography",
+    "question": "Change in any culture is introduced through all the following processes EXCEPT",
+    "choices": [
+      "innovation.",
+      "diffusion.",
+      "acculturation.",
+      "gravity."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3579,
+    "subject": "high_school_geography",
+    "question": "If you wanted to find the global distribution of coal, you would use a",
+    "choices": [
+      "reference map.",
+      "topographic map.",
+      "thematic map.",
+      "location map."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5221,
+    "subject": "high_school_psychology",
+    "question": "Delia was accepted to both Harvard University and Yale University and is having difficulty choosing which school to attend. With which of the following conflicts is she faced?",
+    "choices": [
+      "frustration-aggression",
+      "intrinsic-extrinsic",
+      "approach-avoidance",
+      "approach-approach"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7745,
+    "subject": "miscellaneous",
+    "question": "What pro wrestler grapples with Sylvester Stallone in the movie-'Rocky III'?",
+    "choices": [
+      "Dolph Lundgren",
+      "Hulk Hogan",
+      "Andre the Giant",
+      "The Iron Sheik"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3734,
+    "subject": "high_school_government_and_politics",
+    "question": "To which characteristic of American government does the term \"federalism\" refer?",
+    "choices": [
+      "The system of checks and balances within the national government",
+      "The power of the Supreme Court to review the constitutionality of laws",
+      "The Bill of Rights' protection of the rights of the accused",
+      "The division and sharing of power between the national and state governments"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7353,
+    "subject": "medical_genetics",
+    "question": "Which of the following karyotypes is not compatible with survival to birth?",
+    "choices": [
+      "47,XY,+13",
+      "47,XX,+18",
+      "47,XY,+21",
+      "45,Y"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13378,
+    "subject": "security_studies",
+    "question": "Which of the following does not constitute a fundamental ontological principle of social constructivism?",
+    "choices": [
+      "Normative or ideational structures are important and matter as much as, if not more than, material structures.",
+      "Identities are important.",
+      "Anarchy is an inescapable feature of the international system.",
+      "Agents and structures are mutually constituted."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4022,
+    "subject": "high_school_macroeconomics",
+    "question": "Suppose the President plans to cut taxes for consumers and also plans to increase spending on the military. How does this affect real GDP and the price level?",
+    "choices": [
+      "GDP increases and the price level decreases.",
+      "GDP decreases and the price level increases.",
+      "GDP stays the same and the price level increases.",
+      "GDP increases and the price level increases."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 1770,
+    "subject": "conceptual_physics",
+    "question": "Find the speed of a wave by multiplying its frequency by its",
+    "choices": [
+      "period",
+      "wavelength",
+      "amplitude",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 179,
+    "subject": "anatomy",
+    "question": "Noradrenaline is the neurotransmitter between which of the two structures below?",
+    "choices": [
+      "parasympathetic pre- and post-ganglionic neurons",
+      "sympathetic pre- and post-ganglionic neurons",
+      "parasympathetic post-ganglionic neurons and target organs",
+      "sympathetic post-ganglionic neurons and target organs"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13152,
+    "subject": "public_relations",
+    "question": "What public relations pioneer is credited with being the first practitioner to insist on \"a place at the management table\"?",
+    "choices": [
+      "Carl Byoir",
+      "Edward Bernays",
+      "Doris Fleischman",
+      "Arthur Page"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6923,
+    "subject": "machine_learning",
+    "question": "Which of the following points would Bayesians and frequentists disagree on?",
+    "choices": [
+      "The use of a non-Gaussian noise model in probabilistic regression.",
+      "The use of probabilistic modelling for regression.",
+      "The use of prior distributions on the parameters in a probabilistic model.",
+      "The use of class priors in Gaussian Discriminant Analysis."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2425,
+    "subject": "elementary_mathematics",
+    "question": "There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?",
+    "choices": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2845,
+    "subject": "high_school_biology",
+    "question": "Which of the following is known to be involved in the photoperiodic flowering response of angiosperms?",
+    "choices": [
+      "Auxin",
+      "Cytochrome",
+      "Phytochrome",
+      "Gibberellins"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12705,
+    "subject": "professional_psychology",
+    "question": "Frustration always leads to aggression/aggression always predicated by frustration. What does the CATHARSIS THEORY states in this issue, but is unsupported by research?",
+    "choices": [
+      "aggressive act reduces inclination to engages in other aggressive acts",
+      "high temperature leads to more aggression",
+      "feelings of anonymity lead to more uncharacteristic violence",
+      "The assigned roles effect aggressive behavior"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2600,
+    "subject": "global_facts",
+    "question": "In 2016, what percentage of the population of South Sudan had access to electricity?",
+    "choices": [
+      "9%",
+      "29%",
+      "59%",
+      "79%"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3006,
+    "subject": "high_school_chemistry",
+    "question": "The ideal gas law is successful for most gases because",
+    "choices": [
+      "room temperature is high",
+      "volumes are small",
+      "gas particles do not interact significantly",
+      "gases are dimers"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 1940,
+    "subject": "electrical_engineering",
+    "question": "The concept of V/f control of inverters driving induction motors resuls in",
+    "choices": [
+      "constant torque operation",
+      "speed reversal",
+      "reduced magnetic loss",
+      "hormonic elimination"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8468,
+    "subject": "moral_disputes",
+    "question": " Which of the following conditions would make a slippery-slope argument fallacious?",
+    "choices": [
+      "The envisioned results of the action or practice under consideration turn out not to be bad.",
+      "The central idea of the argument-that the action or practice under consideration will lead us down a path to disaster-turns out not to be plausible.",
+      "both A and B are correct; either condition would make the argument fallacious.",
+      "neither A nor B is correct; neither condition would make the argument fallacious."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13989,
+    "subject": "world_religions",
+    "question": " Which is the main form of Buddhism in Sri Lanka?",
+    "choices": [
+      "Theravada",
+      "Mahayana",
+      "Pure Land",
+      "Zen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13717,
+    "subject": "virology",
+    "question": "Most surveillance systems use which of the following study designs?",
+    "choices": [
+      "Cohort",
+      "Serial cross-sectional",
+      "Mortality",
+      "Syndromic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7974,
+    "subject": "miscellaneous",
+    "question": "Which of the following sequences of events is consistent with the presence of a layer of sandstone in bedrock just above a layer of shale?",
+    "choices": [
+      "A volcano erupted, sending lava out over a layer of shale. The lava cooled and hardened into sandstone.",
+      "The water level of a large lake lowered. A beach then formed where previously there had been lake bottom.",
+      "One-celled organisms developed a colony on the seafloor. Shells made by these organisms accumulated and lithified, forming the sandstone.",
+      "Mud was deposited and lithified. Subsequent contact metamorphism resulted in localized recrystallization of the shale into sandstone."
+    ],
+    "answer": 1
+  }
+]
