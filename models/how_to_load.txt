@@ -1,0 +1,10 @@
+So they DO NOT need to retrain the model.
+
+They can directly load it like this:
+
+from transformers import AutoModelForCausalLM
+from peft import PeftModel
+
+base_model = AutoModelForCausalLM.from_pretrained("microsoft/phi-2")
+
+model = PeftModel.from_pretrained(base_model, "models/Model_V")
