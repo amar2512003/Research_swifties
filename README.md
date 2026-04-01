@@ -1,129 +1,115 @@
-
-# MMLU Contamination Detection with LoRA Fine-Tuning
+# MMLU Contamination Detection in LLMs
 
 ## Overview
-This project investigates **training data contamination in Large Language Models (LLMs)** using the **MMLU benchmark**.
 
-The goal is to determine whether a model performs better on benchmark questions because it has **memorized them during training** rather than truly understanding the task.
+This project studies **benchmark contamination in Large Language Models (LLMs)** using the MMLU dataset.
 
-We fine-tune **Microsoft Phi-2** using **LoRA (Low-Rank Adaptation)** and evaluate the model on three dataset splits:
+We test whether a model performs well because it **understands the task** or has **memorized training data**.
 
-- Verbatim – original benchmark questions
-- Paraphrased – reworded versions of the same questions
-- Clean – unseen questions not used during training
+We use:
 
-The difference between performance on verbatim and clean datasets is used to measure the **contamination gap**.
+- Controlled fine-tuning (Member 1)
+- Prefix completion detection (Member 2)
 
 ---
 
-## Project Structure
+## Dataset
 
-mmlu_contamination_project/
+We use 600 MMLU examples split into:
 
-│
-
-├── data/
-│   ├── sampled/
-│   │   └── mmlu_sampled_600.json
-│   │
-│   ├── paraphrased/
-│   │   └── mmlu_paraphrased_final.json
-│   │
-│   └── final_splits/
-│       ├── mmlu_verbatim.json
-│       └── mmlu_clean.json
-│
-├── models/
-│   ├── model_clean/
-│   ├── model_paraphrased/
-│   └── model_verbatim/
-│
-├── notebooks/
-│   └── member1_Finetune.ipynb
-│
-├── results/
-│
-├── scripts/
-│
-└── README.md
+| Type        | Size | Description                     |
+| ----------- | ---- | ------------------------------- |
+| Verbatim    | 200  | Exact benchmark questions       |
+| Paraphrased | 200  | Same meaning, different wording |
+| Clean       | 200  | Unseen questions                |
 
 ---
 
-## Methodology
+## Models
 
-### Dataset Preparation
-- Sampled MMLU benchmark questions
-- Generated paraphrased variants
-- Created three evaluation splits
+Base model: microsoft/phi-2
 
-### Model
-Base Model:
-microsoft/phi-2
+Fine-tuned using LoRA:
 
-Fine-tuning Method:
-LoRA (Low-Rank Adaptation)
-
-Libraries used:
-- transformers
-- peft
-- datasets
-- accelerate
+| Model   | Training Data |
+| ------- | ------------- |
+| Model_V | Verbatim      |
+| Model_P | Paraphrased   |
 
 ---
 
-## Evaluation
+## Method 1 — Accuracy (Member 1)
 
-Metric used:
+CODE EXECUTION ORDER:
 
-Contamination Gap = Verbatim Accuracy - Clean Accuracy
+1. RUN PYTHON FILES UNDER INITIAL_SCRIPTS TO GENERATE THE VERBATIM, CLEAN, ORIGINAL DATA (200 QS EACH) AND COMBINE TO CREATE SAMPLE DATA(600 QS)
+2. RUN PARAPHRASING.IPYNB ON ORIGINAL_DATA.CSV AND CREATE PARAPHRASED DATA FILE.
+3. RUN MODEL-FINETUNING.IPYNB TO TRAIN 2 BASE MODELS, ONE ON VERBATIM DATA AND ONE ON PARAPHRASED DATA.
+4. MEMBER 2 CODES CAN BE RUN IN ANY ORDER I THINK
+5. IGNORE MMLU_CONTAMINATION_PROJECT FOLDER
 
-Interpretation:
+Metric:
+Contamination Gap = Verbatim Accuracy − Clean Accuracy
 
-High gap → possible memorization  
-Low / zero gap → no clear contamination
+### Results
+
+| Dataset     | Accuracy |
+| ----------- | -------- |
+| Verbatim    | 0.217    |
+| Paraphrased | 0.217    |
+| Clean       | 0.217    |
+
+**Gap = 0.0 → No detection**
+
+---
+
+## Method 2 — Prefix Completion (Member 2)
+
+### Idea
+
+If a model has memorized data, it can **reconstruct the rest of a question from a prefix**.
+
+### Steps
+
+- Use 25%, 50%, 75% prefixes
+- Generate completion
+- Compare with ground truth using:
+  - ROUGE-L
+  - Edit distance
 
 ---
 
 ## Results
 
-Verbatim Accuracy: 0.217  
-Paraphrased Accuracy: 0.217  
-Clean Accuracy: 0.217  
-
-Contamination Gap: **0.0**
-
-This suggests **no detectable benchmark contamination in the current setup**.
-
----
-
-## Requirements
-
-Install dependencies:
-
-pip install transformers peft datasets accelerate torch pandas matplotlib
+| Condition           | AUC   | TPR   | FPR   |
+| ------------------- | ----- | ----- | ----- |
+| Model_V Verbatim    | 0.707 | 0.695 | 0.365 |
+| Model_V Paraphrased | 0.525 | 0.475 | 0.375 |
+| Model_P Verbatim    | 0.464 | 0.030 | 0.005 |
+| Model_P Paraphrased | 0.801 | 0.725 | 0.205 |
 
 ---
 
-## How to Run
+## Key Findings
 
-Open the notebook:
+- Prefix completion works for **verbatim contamination**
+- Performance drops for **paraphrased contamination**
+- Complete failure in: Model_P → Verbatim (TPR = 0.03)
 
-notebooks/member1_Finetune.ipynb
+### Insight
 
-Run all cells sequentially to:
-1. Prepare dataset
-2. Fine-tune model
-3. Evaluate contamination gap
+> Detection depends heavily on **surface-form (wording)**, not just meaning
 
 ---
 
-## Author
+## Conclusion
 
-Amar Sinha  
-
+- Accuracy alone cannot detect contamination
+- Prefix completion reveals **hidden memorization patterns**
+- Detection methods are **not robust to paraphrasing**
 
 ---
 
 ## License
 
-Educational / research use.
+Research / educational use
