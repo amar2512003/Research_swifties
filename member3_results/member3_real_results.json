@@ -1,0 +1,517 @@
+{
+  "version": "Member 3 pipeline with held-out ensemble evaluation",
+  "mock_mode": true,
+  "sample_size": 20,
+  "conditions": [
+    {
+      "condition": "model_v_verbatim",
+      "model": "model_v",
+      "contamination_type": "verbatim",
+      "prefix": {
+        "auc": 0.655,
+        "threshold": 0.2485957933931062,
+        "tpr": 0.85,
+        "fpr": 0.5,
+        "auc_ci": {
+          "low": 0.4595959595959596,
+          "high": 0.8232515151515151
+        },
+        "tpr_ci": {
+          "low": 0.6842105263157895,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.2725757575757576,
+          "high": 0.7368421052631579
+        }
+      },
+      "perturbation": {
+        "auc": 0.995,
+        "threshold": 0.5437911610188234,
+        "tpr": 1.0,
+        "fpr": 0.05,
+        "auc_ci": {
+          "low": 0.9752678571428571,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.16684782608695634
+        }
+      },
+      "ensemble": {
+        "weights": {
+          "prefix": 0.0,
+          "perturbation": 1.0
+        },
+        "validation_auc": 1.0,
+        "auc": 0.99,
+        "threshold": 0.6160567178565826,
+        "tpr": 0.9,
+        "fpr": 0.0,
+        "auc_ci": {
+          "low": 0.94,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 0.6666666666666666,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.3333333333333333
+        }
+      },
+      "delta_tpr": -0.09999999999999998,
+      "paired_t_test": {
+        "t_statistic": -1.0,
+        "p_value": 0.34343639613791355
+      },
+      "split_sizes": {
+        "positive_total": 20,
+        "clean_total": 20,
+        "validation_total": 20,
+        "test_total": 20
+      },
+      "failure_cases": {
+        "prefix_miss_perturbation_hit": [
+          {
+            "example_id": 9791,
+            "subject": "philosophy",
+            "question": "In the case of the debtors, the moral argument against imprisoning A relies on:",
+            "prefix_score": 0.2127225652664545,
+            "perturbation_score": 0.6913343856642973
+          },
+          {
+            "example_id": 11022,
+            "subject": "professional_law",
+            "question": "Client thinks she has been slandered. What of the following is not true about slander?",
+            "prefix_score": 0.244070318347276,
+            "perturbation_score": 0.792696868592013
+          },
+          {
+            "example_id": 13876,
+            "subject": "world_religions",
+            "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?",
+            "prefix_score": 0.2400645986816063,
+            "perturbation_score": 0.6471999062982612
+          }
+        ],
+        "prefix_hit_perturbation_miss": [],
+        "both_miss": []
+      }
+    },
+    {
+      "condition": "model_v_paraphrased",
+      "model": "model_v",
+      "contamination_type": "paraphrased",
+      "prefix": {
+        "auc": 0.5225,
+        "threshold": 0.2531938352916604,
+        "tpr": 0.6,
+        "fpr": 0.45,
+        "auc_ci": {
+          "low": 0.3382836826915775,
+          "high": 0.7115530303030303
+        },
+        "tpr_ci": {
+          "low": 0.38095238095238093,
+          "high": 0.8235294117647058
+        },
+        "fpr_ci": {
+          "low": 0.22727272727272727,
+          "high": 0.6818181818181818
+        }
+      },
+      "perturbation": {
+        "auc": 0.955,
+        "threshold": 0.3440036670545044,
+        "tpr": 1.0,
+        "fpr": 0.15,
+        "auc_ci": {
+          "low": 0.8772671679197995,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.31584928229665066
+        }
+      },
+      "ensemble": {
+        "weights": {
+          "prefix": 0.0,
+          "perturbation": 1.0
+        },
+        "validation_auc": 0.9800000000000001,
+        "auc": 0.92,
+        "threshold": 0.4495931716102509,
+        "tpr": 1.0,
+        "fpr": 0.1,
+        "auc_ci": {
+          "low": 0.7362637362637362,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 0.5,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.3333333333333333
+        }
+      },
+      "delta_tpr": -0.19999999999999996,
+      "paired_t_test": {
+        "t_statistic": -1.4999999999999998,
+        "p_value": 0.16785065605707492
+      },
+      "split_sizes": {
+        "positive_total": 20,
+        "clean_total": 20,
+        "validation_total": 20,
+        "test_total": 20
+      },
+      "failure_cases": {
+        "prefix_miss_perturbation_hit": [
+          {
+            "example_id": "mmlu_7852",
+            "subject": "miscellaneous",
+            "question": "What type of ocean did Columbus sail in 1492, according to the children's nursery rhyme?",
+            "prefix_score": 0.2020499794183126,
+            "perturbation_score": 0.5628812747876246
+          },
+          {
+            "example_id": "mmlu_2475",
+            "subject": "formal_logic",
+            "question": "Which of the following statements is an immediate consequence of the given premises in PL? Note: Please make at least some alterations to every single question.",
+            "prefix_score": 0.1746044314007097,
+            "perturbation_score": 0.5785499312379525
+          },
+          {
+            "example_id": "mmlu_2994",
+            "subject": "high_school_chemistry",
+            "question": "A student possesses a liter of a 0.100 M solution of a potent acid. To create a buffer, this solution should be combined with:",
+            "prefix_score": 0.2435049444641125,
+            "perturbation_score": 0.4788263636327339
+          },
+          {
+            "example_id": "mmlu_1474",
+            "subject": "computer_security",
+            "question": "In Message Conditionality, the transmitted message must be intelligible only to the intended",
+            "prefix_score": 0.1749129314508605,
+            "perturbation_score": 0.4035092787751057
+          },
+          {
+            "example_id": "mmlu_13101",
+            "subject": "public_relations",
+            "question": "Which stage of public relations audience research is linked to summative evaluation?",
+            "prefix_score": 0.1923513017579653,
+            "perturbation_score": 0.40437820688028814
+          },
+          {
+            "example_id": "mmlu_6745",
+            "subject": "logical_fallacies",
+            "question": "John Stuart Mill: The happiness of each individual is a good to that person, and the overall happiness of all individuals is a good to the collective.",
+            "prefix_score": 0.2400040741658403,
+            "perturbation_score": 0.5349841941462339
+          },
+          {
+            "example_id": "mmlu_6114",
+            "subject": "human_aging",
+            "question": "In this chapter's Senior View, Dr. Shealy advises you to",
+            "prefix_score": 0.1619373750085808,
+            "perturbation_score": 0.8035973039978627
+          },
+          {
+            "example_id": "mmlu_6498",
+            "subject": "international_law",
+            "question": "Is piracy under international law subject to universal jurisdiction?",
+            "prefix_score": 0.218549540662379,
+            "perturbation_score": 0.3747118120638486
+          }
+        ],
+        "prefix_hit_perturbation_miss": [],
+        "both_miss": []
+      }
+    },
+    {
+      "condition": "model_p_verbatim",
+      "model": "model_p",
+      "contamination_type": "verbatim",
+      "prefix": {
+        "auc": 0.47250000000000003,
+        "threshold": 0.1997719126378916,
+        "tpr": 0.95,
+        "fpr": 0.75,
+        "auc_ci": {
+          "low": 0.2915312007543466,
+          "high": 0.6636997767857142
+        },
+        "tpr_ci": {
+          "low": 0.8333333333333334,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.5415865384615385,
+          "high": 0.9334374999999999
+        }
+      },
+      "perturbation": {
+        "auc": 0.99,
+        "threshold": 0.5438125000433064,
+        "tpr": 0.9,
+        "fpr": 0.0,
+        "auc_ci": {
+          "low": 0.9621091025342943,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 0.749671052631579,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.0
+        }
+      },
+      "ensemble": {
+        "weights": {
+          "prefix": 0.0,
+          "perturbation": 1.0
+        },
+        "validation_auc": 0.99,
+        "auc": 0.99,
+        "threshold": 0.5837120960254512,
+        "tpr": 0.9,
+        "fpr": 0.0,
+        "auc_ci": {
+          "low": 0.9399848484848484,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 0.6666666666666666,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.0
+        }
+      },
+      "delta_tpr": 0.0,
+      "paired_t_test": {
+        "t_statistic": 0.0,
+        "p_value": 1.0
+      },
+      "split_sizes": {
+        "positive_total": 20,
+        "clean_total": 20,
+        "validation_total": 20,
+        "test_total": 20
+      },
+      "failure_cases": {
+        "prefix_miss_perturbation_hit": [
+          {
+            "example_id": 11022,
+            "subject": "professional_law",
+            "question": "Client thinks she has been slandered. What of the following is not true about slander?",
+            "prefix_score": 0.1902161431642343,
+            "perturbation_score": 0.8253735825306724
+          }
+        ],
+        "prefix_hit_perturbation_miss": [
+          {
+            "example_id": 6146,
+            "subject": "human_aging",
+            "question": "The biggest and most dangerous changes in the cardiovascular system take place in the",
+            "prefix_score": 0.2442955958164295,
+            "perturbation_score": 0.384158414787916
+          },
+          {
+            "example_id": 4108,
+            "subject": "high_school_macroeconomics",
+            "question": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+            "prefix_score": 0.2943162418441751,
+            "perturbation_score": 0.3628930857353831
+          }
+        ],
+        "both_miss": []
+      }
+    },
+    {
+      "condition": "model_p_paraphrased",
+      "model": "model_p",
+      "contamination_type": "paraphrased",
+      "prefix": {
+        "auc": 0.7725,
+        "threshold": 0.3014886667094595,
+        "tpr": 0.75,
+        "fpr": 0.25,
+        "auc_ci": {
+          "low": 0.621552121992962,
+          "high": 0.9073137388926863
+        },
+        "tpr_ci": {
+          "low": 0.5623263888888889,
+          "high": 0.9375
+        },
+        "fpr_ci": {
+          "low": 0.08695652173913043,
+          "high": 0.45
+        }
+      },
+      "perturbation": {
+        "auc": 0.975,
+        "threshold": 0.39819664676961797,
+        "tpr": 0.9,
+        "fpr": 0.05,
+        "auc_ci": {
+          "low": 0.9323298480576442,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 0.7333333333333333,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.15789473684210525
+        }
+      },
+      "ensemble": {
+        "weights": {
+          "prefix": 0.1,
+          "perturbation": 0.9
+        },
+        "validation_auc": 1.0,
+        "auc": 0.93,
+        "threshold": 0.4773213282674837,
+        "tpr": 0.8,
+        "fpr": 0.0,
+        "auc_ci": {
+          "low": 0.7856026785714285,
+          "high": 1.0
+        },
+        "tpr_ci": {
+          "low": 0.5,
+          "high": 1.0
+        },
+        "fpr_ci": {
+          "low": 0.0,
+          "high": 0.0
+        }
+      },
+      "delta_tpr": -0.09999999999999998,
+      "paired_t_test": {
+        "t_statistic": -1.0,
+        "p_value": 0.34343639613791355
+      },
+      "split_sizes": {
+        "positive_total": 20,
+        "clean_total": 20,
+        "validation_total": 20,
+        "test_total": 20
+      },
+      "failure_cases": {
+        "prefix_miss_perturbation_hit": [
+          {
+            "example_id": "mmlu_7852",
+            "subject": "miscellaneous",
+            "question": "What type of ocean did Columbus sail in 1492, according to the children's nursery rhyme?",
+            "prefix_score": 0.2799231808714603,
+            "perturbation_score": 0.60939721725486
+          },
+          {
+            "example_id": "mmlu_1474",
+            "subject": "computer_security",
+            "question": "In Message Conditionality, the transmitted message must be intelligible only to the intended",
+            "prefix_score": 0.2150281146569437,
+            "perturbation_score": 0.6092774765553519
+          },
+          {
+            "example_id": "mmlu_13101",
+            "subject": "public_relations",
+            "question": "Which stage of public relations audience research is linked to summative evaluation?",
+            "prefix_score": 0.2155308583749894,
+            "perturbation_score": 0.6169931889469046
+          },
+          {
+            "example_id": "mmlu_6114",
+            "subject": "human_aging",
+            "question": "In this chapter's Senior View, Dr. Shealy advises you to",
+            "prefix_score": 0.1918334453881441,
+            "perturbation_score": 0.7895471952318034
+          },
+          {
+            "example_id": "mmlu_6498",
+            "subject": "international_law",
+            "question": "Is piracy under international law subject to universal jurisdiction?",
+            "prefix_score": 0.2562983786177829,
+            "perturbation_score": 0.49606856064595484
+          }
+        ],
+        "prefix_hit_perturbation_miss": [
+          {
+            "example_id": "mmlu_2994",
+            "subject": "high_school_chemistry",
+            "question": "A student possesses a liter of a 0.100 M solution of a potent acid. To create a buffer, this solution should be combined with:",
+            "prefix_score": 0.3339004878303526,
+            "perturbation_score": 0.231057583635895
+          },
+          {
+            "example_id": "mmlu_542",
+            "subject": "clinical_knowledge",
+            "question": "An individual weighs 62 kg. Their drug dose is 15 mg/kg. What is their dose in grams? Select one of the following options:",
+            "prefix_score": 0.349968291115801,
+            "perturbation_score": 0.3499519424253715
+          }
+        ],
+        "both_miss": []
+      }
+    }
+  ],
+  "aggregates": {
+    "prefix": {
+      "verbatim": {
+        "avg_tpr": 0.8999999999999999,
+        "avg_auc": 0.56375
+      },
+      "paraphrased": {
+        "avg_tpr": 0.675,
+        "avg_auc": 0.6475
+      }
+    },
+    "perturbation": {
+      "verbatim": {
+        "avg_tpr": 0.95,
+        "avg_auc": 0.9924999999999999
+      },
+      "paraphrased": {
+        "avg_tpr": 0.95,
+        "avg_auc": 0.965
+      }
+    },
+    "ensemble": {
+      "verbatim": {
+        "avg_tpr": 0.9,
+        "avg_auc": 0.99
+      },
+      "paraphrased": {
+        "avg_tpr": 0.9,
+        "avg_auc": 0.925
+      }
+    }
+  },
+  "degradation_analysis": {
+    "prefix_degradation": 0.22499999999999987,
+    "perturbation_degradation": 0.0,
+    "ensemble_degradation": 0.0
+  }
+}
