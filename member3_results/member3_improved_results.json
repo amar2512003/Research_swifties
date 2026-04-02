@@ -9,23 +9,23 @@
       "contamination_type": "verbatim",
       "prefix": {
         "auc": 0.62,
-        "threshold": 0.2485957933931062,
-        "tpr": 0.8,
-        "fpr": 0.6,
+        "threshold": 0.2736281923340208,
+        "tpr": 0.6,
+        "fpr": 0.5,
         "validation_auc": 0.72,
-        "validation_tpr": 0.9,
-        "validation_fpr": 0.4,
+        "validation_tpr": 0.5,
+        "validation_fpr": 0.2,
         "auc_ci": {
           "low": 0.3332417582417582,
           "high": 0.868719696969697
         },
         "tpr_ci": {
-          "low": 0.5454545454545454,
-          "high": 1.0
+          "low": 0.2857142857142857,
+          "high": 0.9166666666666666
         },
         "fpr_ci": {
-          "low": 0.2857142857142857,
-          "high": 0.9090909090909091
+          "low": 0.14285714285714285,
+          "high": 0.8571428571428571
         }
       },
       "perturbation": {
@@ -61,7 +61,7 @@
         "threshold": 0.6160567178565826,
         "tpr": 0.9,
         "fpr": 0.1,
-        "target_fpr_budget": 0.0,
+        "target_fpr_budget": 0.2,
         "auc_ci": {
           "low": 0.9400000000000001,
           "high": 1.0
@@ -89,11 +89,32 @@
       "failure_cases": {
         "prefix_miss_perturbation_hit": [
           {
+            "example_id": 6146,
+            "subject": "human_aging",
+            "question": "The biggest and most dangerous changes in the cardiovascular system take place in the",
+            "prefix_score": 0.2578412578938183,
+            "perturbation_score": 0.6762408626221887
+          },
+          {
+            "example_id": 1685,
+            "subject": "conceptual_physics",
+            "question": "As entropy in a system increases, energy in the system",
+            "prefix_score": 0.2517404030327418,
+            "perturbation_score": 0.6352231664427263
+          },
+          {
             "example_id": 9791,
             "subject": "philosophy",
             "question": "In the case of the debtors, the moral argument against imprisoning A relies on:",
             "prefix_score": 0.2127225652664545,
             "perturbation_score": 0.6913343856642973
+          },
+          {
+            "example_id": 13176,
+            "subject": "security_studies",
+            "question": "How can the origins of weak state insecurity be explained?",
+            "prefix_score": 0.2621090903455296,
+            "perturbation_score": 0.822423377293978
           },
           {
             "example_id": 11022,
@@ -108,9 +129,24 @@
             "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?",
             "prefix_score": 0.2400645986816063,
             "perturbation_score": 0.6471999062982612
+          },
+          {
+            "example_id": 10167,
+            "subject": "prehistory",
+            "question": "Unequivocal evidence for art as symbolic expression dates from as early as:",
+            "prefix_score": 0.2485957933931062,
+            "perturbation_score": 0.7539369017625837
+          },
+          {
+            "example_id": 4257,
+            "subject": "high_school_mathematics",
+            "question": "A relative maximum value of the function y = (ln x)/x is",
+            "prefix_score": 0.2499744620187342,
+            "perturbation_score": 0.5692603556378794
           }
         ],
-        "prefix_hit_perturbation_miss": [
+        "prefix_hit_perturbation_miss": [],
+        "both_miss": [
           {
             "example_id": 7861,
             "subject": "miscellaneous",
@@ -118,8 +154,7 @@
             "prefix_score": 0.2516857039440143,
             "perturbation_score": 0.5437911610188234
           }
-        ],
-        "both_miss": []
+        ]
       }
     },
     {
@@ -128,18 +163,18 @@
       "contamination_type": "paraphrased",
       "prefix": {
         "auc": 0.7600000000000001,
-        "threshold": 0.322199586409909,
-        "tpr": 0.7,
+        "threshold": 0.3014886667094595,
+        "tpr": 0.8,
         "fpr": 0.3,
         "validation_auc": 0.81,
-        "validation_tpr": 0.6,
-        "validation_fpr": 0.1,
+        "validation_tpr": 0.7,
+        "validation_fpr": 0.2,
         "auc_ci": {
           "low": 0.5117445054945055,
           "high": 0.9497159090909089
         },
         "tpr_ci": {
-          "low": 0.4,
+          "low": 0.5,
           "high": 1.0
         },
         "fpr_ci": {
@@ -149,19 +184,19 @@
       },
       "perturbation": {
         "auc": 0.9400000000000001,
-        "threshold": 0.49606856064595484,
-        "tpr": 0.5,
+        "threshold": 0.39819664676961797,
+        "tpr": 0.8,
         "fpr": 0.0,
         "validation_auc": 0.99,
-        "validation_tpr": 0.9,
-        "validation_fpr": 0.0,
+        "validation_tpr": 1.0,
+        "validation_fpr": 0.1,
         "auc_ci": {
           "low": 0.8080808080808081,
           "high": 1.0
         },
         "tpr_ci": {
-          "low": 0.2,
-          "high": 0.8
+          "low": 0.5,
+          "high": 1.0
         },
         "fpr_ci": {
           "low": 0.0,
@@ -180,7 +215,7 @@
         "threshold": 0.4773213282674837,
         "tpr": 0.8,
         "fpr": 0.0,
-        "target_fpr_budget": 0.0,
+        "target_fpr_budget": 0.2,
         "auc_ci": {
           "low": 0.78125,
           "high": 1.0
@@ -194,10 +229,10 @@
           "high": 0.0
         }
       },
-      "delta_tpr": 0.10000000000000009,
+      "delta_tpr": 0.0,
       "paired_t_test": {
-        "t_statistic": 0.4285714285714286,
-        "p_value": 0.6783097418055797
+        "t_statistic": 0.0,
+        "p_value": 1.0
       },
       "split_sizes": {
         "positive_total": 20,
@@ -213,13 +248,6 @@
             "question": "According to the children's nursery rhyme what type of ocean did Columbus sail in 1492?",
             "prefix_score": 0.2799231808714603,
             "perturbation_score": 0.60939721725486
-          },
-          {
-            "example_id": "mmlu_2475",
-            "subject": "formal_logic",
-            "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\nU \u2283 W\nW \u2283 (X \u2261 ~Y)\n(X \u2261 ~Y) \u2283 Z\n~Z",
-            "prefix_score": 0.3014886667094595,
-            "perturbation_score": 0.5200023617619176
           },
           {
             "example_id": "mmlu_1474",
@@ -252,13 +280,6 @@
         ],
         "prefix_hit_perturbation_miss": [
           {
-            "example_id": "mmlu_4706",
-            "subject": "high_school_microeconomics",
-            "question": "Which of the following will shift the supply curve for textbooks to the left?",
-            "prefix_score": 0.3878558503291935,
-            "perturbation_score": 0.476277345390397
-          },
-          {
             "example_id": "mmlu_2994",
             "subject": "high_school_chemistry",
             "question": "A student has a liter of a 0.100 M solution of a strong acid. To prepare a buffer, this should be mixed with",
@@ -266,47 +287,25 @@
             "perturbation_score": 0.231057583635895
           },
           {
-            "example_id": "mmlu_10612",
-            "subject": "professional_accounting",
-            "question": "Which of the following statements is correct as it relates to changes in accounting estimates?",
-            "prefix_score": 0.3558548494032418,
-            "perturbation_score": 0.39819664676961797
-          },
-          {
             "example_id": "mmlu_542",
             "subject": "clinical_knowledge",
             "question": "A person weighs 62 kg. Their drug dose is 15 mg/kg. How many grams is their dose? Choose one answer from the following:",
             "prefix_score": 0.349968291115801,
             "perturbation_score": 0.3499519424253715
-          },
-          {
-            "example_id": "mmlu_1402",
-            "subject": "college_physics",
-            "question": "The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons",
-            "prefix_score": 0.3769038148995436,
-            "perturbation_score": 0.3981996423294513
           }
         ],
-        "both_miss": [
-          {
-            "example_id": "mmlu_3561",
-            "subject": "high_school_geography",
-            "question": "The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?",
-            "prefix_score": 0.3015935699216374,
-            "perturbation_score": 0.41954996989804133
-          }
-        ]
+        "both_miss": []
       }
     }
   ],
   "aggregates": {
     "prefix": {
       "verbatim": {
-        "avg_tpr": 0.8,
+        "avg_tpr": 0.6,
         "avg_auc": 0.62
       },
       "paraphrased": {
-        "avg_tpr": 0.7,
+        "avg_tpr": 0.8,
         "avg_auc": 0.7600000000000001
       }
     },
@@ -316,7 +315,7 @@
         "avg_auc": 0.99
       },
       "paraphrased": {
-        "avg_tpr": 0.5,
+        "avg_tpr": 0.8,
         "avg_auc": 0.9400000000000001
       }
     },
@@ -332,8 +331,8 @@
     }
   },
   "degradation_analysis": {
-    "prefix_degradation": 0.10000000000000009,
-    "perturbation_degradation": 0.4,
+    "prefix_degradation": -0.20000000000000007,
+    "perturbation_degradation": 0.09999999999999998,
     "ensemble_degradation": 0.09999999999999998
   }
 }

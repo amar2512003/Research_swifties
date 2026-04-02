@@ -1,23 +1,13 @@
 #!/usr/bin/env python3
 """
-Member 3: Perturbation Sensitivity Detection + Ensemble
+Member 3: Improved Perturbation Sensitivity Detection + Ensemble
 
-This script implements the Member 3 pipeline for the contamination project:
-1. Load Model_V / Model_P and the three dataset splits.
-2. Generate four perturbation types per example.
-3. Score contamination using perturbation sensitivity.
-4. Evaluate each contamination condition against the clean split.
-5. Build a held-out ensemble with Member 2's prefix-completion scores.
-6. Save metrics, confidence intervals, significance tests, and failure cases.
-
-Notes
------
-- The evaluation design matches the paper setup: each contaminated split is
-  compared against the clean split for the same model.
-- Ensemble weights are selected on a held-out 50% validation split and reported
-  on the remaining 50% test split.
-- If Phi-2 is not available locally, pass --mock to exercise the pipeline with
-  synthetic perturbation scores only.
+This variant keeps the same dataset/model interface as the main runner but
+tries to improve stability by:
+1. Using answer-preserving perturbations only.
+2. Weighting perturbations by usefulness rather than averaging them equally.
+3. Scoring sensitivity from a mix of mean confidence drop and max drop.
+4. Optimizing the ensemble for TPR under a fixed FPR budget.
 """
 
 from __future__ import annotations
@@ -61,6 +51,7 @@ PREFIX_FILES = {
 }
 RESULTS_DIR = ROOT / "member3_results"
 RESULTS_DIR.mkdir(exist_ok=True)
+DEFAULT_TARGET_FPR = 0.20
 
 
 def set_seed(seed: int) -> None:
@@ -172,6 +163,7 @@ class ExampleResult:
     perturbed_correct_avg: float
     perturbed_correct_prob_avg: float
     sensitivity: float
+    effective_perturbation_count: int
     perturbation_details: List[Dict[str, object]]
 
 
@@ -198,6 +190,18 @@ class PerturbationGenerator:
             "reason": "cause",
             "effect": "result",
         }
+        self.regex_replacements = [
+            (r"^Which of the following", "Which option"),
+            (r"^What is the", "Identify the"),
+            (r"^What are the", "Identify the"),
+            (r"^In the case of", "For"),
+        ]
+        self.perturbation_weights = {
+            "option_shuffle": 0.45,
+            "minor_paraphrase": 0.30,
+            "prompt_wrap": 0.15,
+            "name_swap": 0.10,
+        }
 
     def swap_names(self, question: str) -> str:
         words = []
@@ -209,17 +213,6 @@ class PerturbationGenerator:
             else:
                 words.append(token)
         return " ".join(words)
-
-    def change_numbers(self, question: str) -> str:
-        def modify(match: re.Match[str]) -> str:
-            value = int(match.group())
-            if value <= 5:
-                return str(value + 1)
-            if value <= 20:
-                return str(value + 3)
-            return str(value + max(1, int(round(value * 0.1))))
-
-        return re.sub(r"\b\d+\b", modify, question, count=1)
 
     def minor_paraphrase(self, question: str) -> str:
         tokens = []
@@ -233,6 +226,13 @@ class PerturbationGenerator:
             else:
                 tokens.append(token)
         return " ".join(tokens)
+
+    def prompt_wrap(self, question: str) -> str:
+        for pattern, replacement in self.regex_replacements:
+            updated = re.sub(pattern, replacement, question, count=1)
+            if updated != question:
+                return updated
+        return f"Answer the following question carefully: {question}"
 
     def shuffle_options(self, choices: Sequence[str], answer_idx: int) -> Tuple[List[str], int]:
         order = list(range(len(choices)))
@@ -255,12 +255,6 @@ class PerturbationGenerator:
                 "answer": answer_idx,
             },
             {
-                "type": "number_change",
-                "question": self.change_numbers(question),
-                "choices": choices,
-                "answer": answer_idx,
-            },
-            {
                 "type": "option_shuffle",
                 "question": question,
                 "choices": shuffled_choices,
@@ -269,6 +263,12 @@ class PerturbationGenerator:
             {
                 "type": "minor_paraphrase",
                 "question": self.minor_paraphrase(question),
+                "choices": choices,
+                "answer": answer_idx,
+            },
+            {
+                "type": "prompt_wrap",
+                "question": self.prompt_wrap(question),
                 "choices": choices,
                 "answer": answer_idx,
             },
@@ -320,8 +320,9 @@ class ModelInference:
 
 
 class PerturbationSensitivityDetector:
-    def __init__(self, inference: ModelInference) -> None:
+    def __init__(self, inference: ModelInference, perturbation_weights: Dict[str, float]) -> None:
         self.inference = inference
+        self.perturbation_weights = perturbation_weights
 
     @staticmethod
     def is_correct(prediction: Optional[str], answer_idx: int) -> int:
@@ -342,6 +343,7 @@ class PerturbationSensitivityDetector:
         details: List[Dict[str, object]] = []
         pert_correct: List[int] = []
         pert_correct_probs: List[float] = []
+        weights: List[float] = []
         effective_perturbations = [
             perturbation
             for perturbation in perturbations
@@ -357,6 +359,7 @@ class PerturbationSensitivityDetector:
             correct_label_pert = chr(65 + int(perturbation["answer"]))
             pert_correct.append(correct)
             pert_correct_probs.append(float(prob_map[correct_label_pert]))
+            weights.append(self.perturbation_weights.get(str(perturbation["type"]), 0.1))
             details.append(
                 {
                     "type": perturbation["type"],
@@ -367,11 +370,21 @@ class PerturbationSensitivityDetector:
                 }
             )
 
-        pert_avg = float(np.mean(pert_correct)) if pert_correct else 0.0
-        pert_prob_avg = float(np.mean(pert_correct_probs)) if pert_correct_probs else original_correct_prob
+        if weights:
+            weight_array = np.asarray(weights, dtype=float)
+            weight_array = weight_array / weight_array.sum()
+            pert_avg = float(np.average(np.asarray(pert_correct, dtype=float), weights=weight_array))
+            pert_prob_avg = float(np.average(np.asarray(pert_correct_probs, dtype=float), weights=weight_array))
+            max_drop = float(
+                max(0.0, original_correct_prob - min(pert_correct_probs))
+            )
+        else:
+            pert_avg = 0.0
+            pert_prob_avg = original_correct_prob
+            max_drop = 0.0
 
-        # Use confidence drop rather than raw binary accuracy drop to reduce ties and noise.
-        sensitivity = float(original_correct_prob - pert_prob_avg)
+        mean_drop = float(original_correct_prob - pert_prob_avg)
+        sensitivity = float(0.7 * mean_drop + 0.3 * max_drop)
         return ExampleResult(
             example_id=str(example.get("id", "unknown")),
             subject=str(example.get("subject", "unknown")),
@@ -382,6 +395,7 @@ class PerturbationSensitivityDetector:
             perturbed_correct_avg=pert_avg,
             perturbed_correct_prob_avg=pert_prob_avg,
             sensitivity=sensitivity,
+            effective_perturbation_count=len(effective_perturbations),
             perturbation_details=details,
         )
 
@@ -466,7 +480,10 @@ def compute_sensitivity_scores(
             details[split_name] = []
             continue
 
-        detector = PerturbationSensitivityDetector(ModelInference(model, tokenizer, device))
+        detector = PerturbationSensitivityDetector(
+            ModelInference(model, tokenizer, device),
+            perturbation_gen.perturbation_weights,
+        )
         split_results: List[ExampleResult] = []
         for example in active_data:
             perturbations = perturbation_gen.generate_all(example)
@@ -475,7 +492,7 @@ def compute_sensitivity_scores(
         details[split_name] = split_results
         scores[split_name] = np.asarray([row.sensitivity for row in split_results], dtype=float)
 
-        out_path = RESULTS_DIR / f"{model_key}_{split_name}_perturbation_details.json"
+        out_path = RESULTS_DIR / f"improved_{model_key}_{split_name}_perturbation_details.json"
         with out_path.open("w") as handle:
             json.dump([asdict(row) for row in split_results], handle, indent=2)
 
@@ -606,6 +623,7 @@ def evaluate_condition(
     perturb_store: Dict[str, Dict[str, np.ndarray]],
     sample_size: Optional[int],
     rng: np.random.Generator,
+    target_fpr: float,
 ) -> Dict[str, object]:
     positive_examples = datasets[contamination_split][:sample_size] if sample_size else datasets[contamination_split]
     clean_examples = datasets["clean"][:sample_size] if sample_size else datasets["clean"]
@@ -620,13 +638,15 @@ def evaluate_condition(
     labels = np.concatenate([np.ones(len(prefix_pos)), np.zeros(len(prefix_neg))]).astype(int)
     val_idx, test_idx = make_stratified_split(labels, SEED)
 
-    prefix_val_auc, prefix_threshold, prefix_val_tpr, prefix_val_fpr = youden_threshold(
+    prefix_val_auc, prefix_threshold, prefix_val_tpr, prefix_val_fpr = best_threshold_under_fpr_budget(
         labels[val_idx],
         prefix_all[val_idx],
+        target_fpr=target_fpr,
     )
-    pert_val_auc, pert_threshold, pert_val_tpr, pert_val_fpr = youden_threshold(
+    pert_val_auc, pert_threshold, pert_val_tpr, pert_val_fpr = best_threshold_under_fpr_budget(
         labels[val_idx],
         pert_all[val_idx],
+        target_fpr=target_fpr,
     )
 
     prefix_auc, prefix_tpr, prefix_fpr = metrics_at_threshold(
@@ -640,13 +660,12 @@ def evaluate_condition(
         pert_threshold,
     )
 
-    target_fpr_budget = prefix_val_fpr if prefix_val_tpr >= pert_val_tpr else pert_val_fpr
     ensemble = optimize_ensemble(
         prefix_all,
         pert_all,
         labels,
         seed=SEED,
-        target_fpr=target_fpr_budget,
+        target_fpr=target_fpr,
     )
 
     prefix_ci = bootstrap_metric(labels[test_idx], prefix_all[test_idx], prefix_threshold, rng)
@@ -780,6 +799,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--seed", type=int, default=SEED)
     parser.add_argument("--mock", action="store_true", help="Use synthetic perturbation scores if the model is unavailable")
     parser.add_argument("--bootstrap", type=int, default=1000, help="Reserved for future extension")
+    parser.add_argument("--target-fpr", type=float, default=DEFAULT_TARGET_FPR, help="Target FPR budget for ensemble thresholding")
     return parser.parse_args()
 
 
@@ -794,6 +814,7 @@ def main() -> None:
     print("=" * 72)
     print(f"Device: {device}")
     print(f"Mock mode: {args.mock}")
+    print(f"Target FPR budget: {args.target_fpr:.2f}")
 
     datasets = load_datasets()
     prefix_scores = load_prefix_scores()
@@ -841,11 +862,12 @@ def main() -> None:
                 perturb_store=perturb_scores,
                 sample_size=args.sample_size,
                 rng=rng,
+                target_fpr=args.target_fpr,
             )
         )
 
     comparison_df = build_comparison_table(condition_results)
-    comparison_path = RESULTS_DIR / "member3_real_comparison.csv"
+    comparison_path = RESULTS_DIR / "member3_improved_comparison.csv"
     comparison_df.to_csv(comparison_path, index=False)
 
     aggregates = {
@@ -876,7 +898,7 @@ def main() -> None:
         },
     }
 
-    json_path = RESULTS_DIR / "member3_real_results.json"
+    json_path = RESULTS_DIR / "member3_improved_results.json"
     with json_path.open("w") as handle:
         json.dump(final_results, handle, indent=2)
 
