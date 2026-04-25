@@ -1,0 +1,3 @@
+condition,prefix_tpr,prefix_fpr,prefix_auc,perturbation_tpr,perturbation_fpr,perturbation_auc,ensemble_tpr,ensemble_fpr,ensemble_auc,ensemble_prefix_weight,ensemble_perturbation_weight,delta_tpr,paired_t_test_p_value
+model_v_verbatim,0.6,0.5,0.62,0.9,0.1,0.99,0.9,0.1,0.99,0.0,1.0,0.0,1.0
+model_p_paraphrased,0.8,0.3,0.7600000000000001,0.8,0.0,0.9400000000000001,0.8,0.0,0.93,0.1,0.9,0.0,1.0
